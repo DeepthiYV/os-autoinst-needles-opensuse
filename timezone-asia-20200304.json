@@ -2,16 +2,16 @@
   "area": [
     {
       "type": "match",
-      "ypos": 556,
-      "width": 60,
       "height": 21,
-      "xpos": 236
+      "xpos": 236,
+      "width": 60,
+      "ypos": 552
     },
     {
-      "xpos": 817,
-      "ypos": 497,
+      "height": 79,
+      "xpos": 811,
+      "ypos": 483,
       "width": 72,
-      "height": 68,
       "type": "match"
     }
   ],
