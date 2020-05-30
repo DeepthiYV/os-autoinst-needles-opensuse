@@ -1,15 +1,22 @@
 {
-  "tags": [
-    "timezone-asia"
-  ],
-  "properties": [],
   "area": [
     {
-      "width": 60,
-      "ypos": 541,
-      "height": 21,
+      "type": "match",
       "xpos": 233,
+      "height": 21,
+      "ypos": 541,
+      "width": 60
+    },
+    {
+      "xpos": 815,
+      "ypos": 72,
+      "width": 68,
+      "height": 80,
       "type": "match"
     }
+  ],
+  "properties": [],
+  "tags": [
+    "timezone-asia"
   ]
 }
