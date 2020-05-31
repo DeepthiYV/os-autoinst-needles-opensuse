@@ -2,14 +2,14 @@
   "area": [
     {
       "type": "match",
-      "ypos": 302,
+      "height": 19,
       "xpos": 322,
       "width": 178,
-      "height": 19
+      "ypos": 302
     }
   ],
   "properties": [],
   "tags": [
-    "evolution_SSL_wizard-sending-starttls"
+    "evolution_SSL_wizard-sending-STARTTLS"
   ]
 }
