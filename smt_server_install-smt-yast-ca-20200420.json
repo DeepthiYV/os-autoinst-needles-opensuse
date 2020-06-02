@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 2,
+      "width": 193,
+      "height": 80,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "smt-yast-ca"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 154,
+      "ypos": 268,
+      "width": 716,
+      "height": 230,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "smt-mariadb"
+  ]
+}
