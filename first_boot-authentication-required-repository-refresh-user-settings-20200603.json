@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 484,
+      "ypos": 247,
+      "height": 173,
+      "xpos": 272
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "authentication-required-user-settings"
+  ]
+}
