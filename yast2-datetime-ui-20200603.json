@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 117,
+      "width": 769,
+      "height": 535,
+      "xpos": 132,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "xpos": 468,
+      "height": 37,
+      "ypos": 577,
+      "width": 246
+    },
+    {
+      "type": "exclude",
+      "xpos": 337,
+      "height": 46,
+      "width": 182,
+      "ypos": 236
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-datetime-ui"
+  ]
+}
