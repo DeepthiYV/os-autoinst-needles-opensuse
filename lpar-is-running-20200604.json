@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 289,
+      "width": 299,
+      "height": 59,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "lpar-is-running"
+  ]
+}
