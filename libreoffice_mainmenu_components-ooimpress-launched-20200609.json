@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 34,
+      "width": 228,
+      "xpos": 400,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 65,
+      "width": 181,
+      "xpos": 2,
+      "height": 111
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ooimpress-launched"
+  ]
+}
