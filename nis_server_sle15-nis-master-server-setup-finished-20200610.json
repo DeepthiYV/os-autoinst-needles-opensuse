@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 57,
+      "type": "match",
+      "ypos": 117,
+      "width": 208,
+      "height": 39
+    },
+    {
+      "width": 139,
+      "ypos": 289,
+      "height": 32,
+      "xpos": 85,
+      "type": "match"
+    },
+    {
+      "xpos": 123,
+      "type": "match",
+      "height": 12,
+      "width": 126,
+      "ypos": 220
+    },
+    {
+      "type": "match",
+      "xpos": 364,
+      "height": 16,
+      "width": 140,
+      "ypos": 622
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-master-server-setup-finished"
+  ]
+}
