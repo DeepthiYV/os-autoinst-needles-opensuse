@@ -1,0 +1,104 @@
+{
+  "area": [
+    {
+      "xpos": 78,
+      "ypos": 15,
+      "width": 212,
+      "height": 18,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 93,
+      "ypos": 63,
+      "width": 350,
+      "height": 16,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 61,
+      "ypos": 109,
+      "width": 358,
+      "height": 20,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 61,
+      "ypos": 158,
+      "width": 284,
+      "height": 20,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 63,
+      "ypos": 205,
+      "width": 134,
+      "height": 18,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 62,
+      "ypos": 255,
+      "width": 210,
+      "height": 16,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 92,
+      "ypos": 303,
+      "width": 111,
+      "height": 16,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 91,
+      "ypos": 348,
+      "width": 161,
+      "height": 18,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 95,
+      "ypos": 398,
+      "width": 188,
+      "height": 17,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 88,
+      "ypos": 447,
+      "width": 321,
+      "height": 18,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 94,
+      "ypos": 491,
+      "width": 193,
+      "height": 22,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 0,
+      "ypos": 736,
+      "width": 262,
+      "height": 19,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "activated-with-suseconnect"
+  ]
+}
