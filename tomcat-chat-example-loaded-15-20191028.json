@@ -4,8 +4,9 @@
       "height": 140,
       "xpos": 11,
       "type": "match",
+      "width": 465,
       "ypos": 152,
-      "width": 465
+      "match": 85
     }
   ],
   "properties": [],
