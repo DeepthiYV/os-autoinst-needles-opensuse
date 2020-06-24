@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 32,
+      "type": "match",
+      "width": 267,
+      "xpos": 9,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast-cluster-overview"
+  ]
+}
