@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 328,
+      "ypos": 125,
+      "width": 272,
+      "height": 98,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Scan-Audit-logs-saved"
+  ]
+}
