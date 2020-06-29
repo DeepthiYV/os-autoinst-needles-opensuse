@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 96,
+      "width": 281,
+      "height": 51,
+      "type": "match"
+    },
+    {
+      "xpos": 267,
+      "ypos": 270,
+      "width": 290,
+      "height": 47,
+      "type": "match"
+    },
+    {
+      "xpos": 497,
+      "ypos": 467,
+      "width": 33,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER",
+    "sysctl_ip_forward_conflict"
+  ]
+}
