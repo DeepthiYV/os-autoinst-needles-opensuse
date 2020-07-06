@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "xpos": 466,
+      "ypos": 325,
+      "width": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-filesystem-dropdown"
+  ]
+}
