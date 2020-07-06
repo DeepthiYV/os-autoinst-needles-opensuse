@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 189,
+      "ypos": 18,
+      "width": 171,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 192,
+      "ypos": 305,
+      "width": 111,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pxe-qa-net-mitigation"
+  ]
+}
