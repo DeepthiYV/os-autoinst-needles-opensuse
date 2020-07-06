@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 215,
+      "type": "match",
+      "width": 79,
+      "height": 17,
+      "xpos": 364
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-select-vgtest"
+  ]
+}
