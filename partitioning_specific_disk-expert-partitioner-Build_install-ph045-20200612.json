@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 739,
+      "ypos": 144,
+      "width": 82,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "expert-partitioner-Build_install"
+  ]
+}
