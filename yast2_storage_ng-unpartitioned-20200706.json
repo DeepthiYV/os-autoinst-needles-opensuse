@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 228,
+      "type": "match",
+      "width": 104,
+      "height": 17,
+      "xpos": 572
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-unpartitioned"
+  ]
+}
