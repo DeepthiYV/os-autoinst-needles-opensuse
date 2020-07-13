@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 152,
+      "xpos": 11,
+      "type": "match",
+      "width": 465,
+      "height": 140
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-chat-example-loaded"
+  ]
+}

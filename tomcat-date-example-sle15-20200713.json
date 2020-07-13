@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "xpos": 92,
+      "ypos": 180,
+      "width": 37
+    },
+    {
+      "xpos": 45,
+      "height": 15,
+      "type": "match",
+      "ypos": 352,
+      "width": 68
+    },
+    {
+      "xpos": 47,
+      "type": "match",
+      "height": 20,
+      "ypos": 397,
+      "width": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-date-example"
+  ]
+}
