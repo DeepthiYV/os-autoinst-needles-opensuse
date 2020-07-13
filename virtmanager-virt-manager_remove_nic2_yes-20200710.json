@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 587,
+      "ypos": 450,
+      "type": "match",
+      "width": 26,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_remove_nic2_yes"
+  ]
+}
