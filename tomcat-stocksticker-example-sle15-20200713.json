@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 73,
+      "xpos": 6,
+      "width": 37,
+      "type": "match",
+      "ypos": 208,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-stocksticker-example"
+  ]
+}
