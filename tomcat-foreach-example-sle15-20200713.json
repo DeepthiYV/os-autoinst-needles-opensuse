@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 346,
+      "width": 219,
+      "xpos": 2,
+      "height": 182,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-foreach-example"
+  ]
+}
