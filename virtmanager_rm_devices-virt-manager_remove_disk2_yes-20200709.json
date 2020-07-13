@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 689,
+      "ypos": 487,
+      "width": 24,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_remove_disk2_yes"
+  ]
+}
