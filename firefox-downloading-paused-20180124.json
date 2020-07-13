@@ -1,23 +1,25 @@
 {
+  "area": [
+    {
+      "xpos": 309,
+      "height": 21,
+      "width": 50,
+      "ypos": 201,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 309,
+      "height": 26,
+      "width": 77,
+      "type": "match",
+      "ypos": 162,
+      "match": 85
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "firefox-downloading-paused"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "height": 21,
-      "xpos": 297,
-      "ypos": 189,
-      "type": "match",
-      "width": 50
-    },
-    {
-      "ypos": 150,
-      "height": 26,
-      "xpos": 297,
-      "width": 77,
-      "type": "match"
-    }
   ]
 }
