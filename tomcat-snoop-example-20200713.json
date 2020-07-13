@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "height": 306,
+      "ypos": 141,
+      "type": "match",
+      "width": 380
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-snoop-example"
+  ]
+}
