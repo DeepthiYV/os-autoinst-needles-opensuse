@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 490,
+      "type": "match",
+      "ypos": 145,
+      "xpos": 7,
+      "height": 69,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-number-guess-result"
+  ]
+}
