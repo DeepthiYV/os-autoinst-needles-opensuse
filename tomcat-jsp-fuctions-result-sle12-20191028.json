@@ -3,9 +3,10 @@
     {
       "height": 272,
       "xpos": 14,
-      "ypos": 241,
       "width": 525,
-      "type": "match"
+      "type": "match",
+      "ypos": 241,
+      "match": 85
     }
   ],
   "properties": [],
