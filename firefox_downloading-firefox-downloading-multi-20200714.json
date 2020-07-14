@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 267,
+      "height": 22,
+      "width": 78,
+      "ypos": 163,
+      "type": "match"
+    },
+    {
+      "width": 78,
+      "type": "match",
+      "ypos": 235,
+      "xpos": 268,
+      "height": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-multi"
+  ]
+}
