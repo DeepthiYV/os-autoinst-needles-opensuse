@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 65,
+      "xpos": 8,
+      "type": "match",
+      "ypos": 128,
+      "width": 451,
+      "match": 75
+    },
+    {
+      "xpos": 454,
+      "height": 25,
+      "type": "match",
+      "ypos": 349,
+      "width": 19,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-xhtml-basic"
+  ]
+}
