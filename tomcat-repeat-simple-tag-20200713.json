@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 350,
+      "type": "match",
+      "height": 145,
+      "xpos": 8,
+      "width": 141
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-repeat-simple-tag"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "type": "match",
+      "height": 28,
+      "ypos": 157,
+      "width": 156
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-cookies-example-start"
+  ]
+}

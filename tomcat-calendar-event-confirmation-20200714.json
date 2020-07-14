@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 240,
+      "xpos": 1,
+      "height": 212,
+      "type": "match",
+      "width": 499
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-calendar-event-confirmation"
+  ]
+}
