@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 443,
+      "type": "match",
+      "ypos": 264,
+      "xpos": 2,
+      "height": 181,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-book-tag"
+  ]
+}
