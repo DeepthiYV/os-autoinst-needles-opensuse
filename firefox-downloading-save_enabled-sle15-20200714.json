@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "xpos": 466,
+      "ypos": 386,
+      "type": "match",
+      "width": 54
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-save_enabled"
+  ]
+}
