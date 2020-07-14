@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "match": 90,
+      "width": 174,
+      "type": "match",
+      "ypos": 70,
+      "height": 21,
+      "xpos": 249
+    },
+    {
+      "xpos": 268,
+      "height": 63,
+      "ypos": 365,
+      "type": "match",
+      "width": 19
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-urls_protocols-https"
+  ]
+}
