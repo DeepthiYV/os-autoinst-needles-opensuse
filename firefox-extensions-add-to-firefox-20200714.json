@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 487,
+      "height": 18,
+      "width": 95,
+      "type": "match",
+      "ypos": 491
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extensions-add-to-firefox"
+  ]
+}
