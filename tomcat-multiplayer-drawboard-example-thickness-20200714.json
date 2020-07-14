@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 226,
+      "type": "match",
+      "width": 12,
+      "height": 14,
+      "xpos": 199
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-multiplayer-drawboard-example-thickness"
+  ]
+}
