@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 413,
+      "type": "match",
+      "ypos": 140,
+      "height": 271,
+      "xpos": 8,
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-color-example-result"
+  ]
+}
