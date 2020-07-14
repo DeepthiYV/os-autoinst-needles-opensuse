@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 22,
+      "xpos": 7,
+      "width": 139,
+      "type": "match",
+      "ypos": 123,
+      "match": 75
+    },
+    {
+      "width": 648,
+      "ypos": 169,
+      "type": "match",
+      "xpos": 6,
+      "height": 23,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-plugin-example"
+  ]
+}
