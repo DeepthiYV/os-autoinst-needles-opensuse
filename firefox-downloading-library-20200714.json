@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 308,
+      "height": 20,
+      "type": "match",
+      "ypos": 166,
+      "width": 73
+    },
+    {
+      "ypos": 84,
+      "type": "match",
+      "width": 59,
+      "xpos": 372,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-downloading-library"
+  ]
+}
