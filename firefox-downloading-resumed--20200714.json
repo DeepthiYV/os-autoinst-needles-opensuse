@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "xpos": 262,
+      "width": 71,
+      "type": "match",
+      "ypos": 234
+    },
+    {
+      "xpos": 309,
+      "height": 19,
+      "width": 74,
+      "ypos": 167,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-downloading-resumed"
+  ]
+}
