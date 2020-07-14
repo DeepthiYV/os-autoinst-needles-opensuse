@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 130,
+      "type": "match",
+      "ypos": 352,
+      "height": 43,
+      "xpos": 53
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extensions-flagfox-tab"
+  ]
+}
