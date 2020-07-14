@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 88,
+      "ypos": 282,
+      "type": "match",
+      "height": 268,
+      "xpos": 323
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-plugins-missing"
+  ]
+}
