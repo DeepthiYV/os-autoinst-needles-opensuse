@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 293,
+      "xpos": 309,
+      "width": 203,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_rmt_registration"
+  ]
+}
