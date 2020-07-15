@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 466,
+      "type": "match",
+      "ypos": 303,
+      "width": 67,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15-SP2",
+    "add-vlan-selected"
+  ]
+}
