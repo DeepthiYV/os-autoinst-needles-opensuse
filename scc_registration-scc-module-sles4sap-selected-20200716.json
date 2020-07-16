@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "ypos": 425,
+      "type": "match",
+      "width": 156,
+      "xpos": 360
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-sles4sap-selected"
+  ]
+}
