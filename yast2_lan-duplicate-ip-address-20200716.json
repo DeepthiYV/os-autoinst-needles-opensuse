@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 388,
+      "ypos": 336,
+      "width": 246,
+      "height": 81,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "duplicate-ip-address"
+  ]
+}
