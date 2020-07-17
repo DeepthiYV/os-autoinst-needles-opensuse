@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 113,
+      "xpos": 24,
+      "ypos": 240,
+      "width": 210
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-private-checkhistory"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 256,
+      "height": 20,
+      "ypos": 108,
+      "xpos": 220
+    },
+    {
+      "type": "match",
+      "height": 29,
+      "width": 219,
+      "ypos": 225,
+      "xpos": 1
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-fullscreen-page"
+  ]
+}
