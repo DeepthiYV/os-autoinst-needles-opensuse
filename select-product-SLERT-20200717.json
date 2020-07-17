@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 388,
+      "ypos": 440,
+      "width": 171,
+      "height": 14,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "before-select-product-SLERT",
+    "select-product-SLERT"
+  ]
+}
