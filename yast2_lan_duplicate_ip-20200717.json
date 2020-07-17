@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 385,
+      "ypos": 336,
+      "width": 248,
+      "height": 81,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast_lan_duplicate_ip"
+  ]
+}
