@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 86,
+      "height": 26,
+      "xpos": 890,
+      "type": "match",
+      "ypos": 260
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-saved-logins-remove"
+  ]
+}

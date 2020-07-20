@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 707,
+      "type": "match",
+      "width": 226,
+      "height": 61,
+      "xpos": 488
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-headers-user_agent"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 154,
+      "xpos": 6,
+      "type": "match",
+      "height": 52,
+      "width": 411
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extcontent-pageloaded"
+  ]
+}
