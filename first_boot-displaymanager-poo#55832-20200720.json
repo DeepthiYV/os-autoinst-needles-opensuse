@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 31,
+      "width": 368,
+      "xpos": 82,
+      "height": 16
+    },
+    {
+      "height": 18,
+      "width": 49,
+      "type": "match",
+      "ypos": 111,
+      "xpos": 79
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#55832"
+    }
+  ],
+  "tags": [
+    "displaymanager"
+  ]
+}
