@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "xpos": 37,
+      "type": "match",
+      "ypos": 223,
+      "width": 225,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-device-manager",
+    "firefox-device-manager-12sp4"
+  ]
+}
