@@ -1,19 +1,11 @@
 {
   "area": [
     {
-<<<<<<< HEAD
-      "height": 20,
-      "type": "match",
-      "ypos": 203,
-      "xpos": 306,
-      "width": 142
-=======
       "xpos": 306,
       "width": 142,
       "height": 20,
       "ypos": 203,
       "type": "match"
->>>>>>> b95c9df79... Fix needles for fail in firefox regression tests.
     }
   ],
   "properties": [],
