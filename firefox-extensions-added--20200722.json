@@ -1,24 +1,17 @@
 {
   "area": [
     {
-      "ypos": 258,
-      "type": "match",
-      "width": 37,
-      "xpos": 81,
-      "height": 16
-    },
-    {
-      "xpos": 1001,
-      "ypos": 84,
-      "width": 17,
       "height": 137,
-      "type": "match"
+      "ypos": 84,
+      "type": "match",
+      "xpos": 1001,
+      "width": 17
     }
   ],
   "properties": [
     {
-      "name": "workaround",
-      "value": "Weird pop-up location"
+      "value": "Weird pop-up location",
+      "name": "workaround"
     }
   ],
   "tags": [
