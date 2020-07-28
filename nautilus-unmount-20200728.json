@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 91,
+      "ypos": 429,
+      "width": 81,
+      "height": 19,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-unmount"
+  ]
+}
