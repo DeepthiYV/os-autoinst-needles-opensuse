@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 28,
+      "ypos": 180,
+      "type": "match",
+      "height": 13,
+      "width": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "current-pattern-selected"
+  ]
+}
