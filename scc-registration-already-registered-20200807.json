@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 366,
+      "ypos": 300,
+      "type": "match",
+      "height": 26,
+      "width": 290
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-registration-already-registered"
+  ]
+}
