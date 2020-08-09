@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 240,
+      "width": 406,
+      "type": "match",
+      "ypos": 141,
+      "match": 96,
+      "height": 406
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-blank_list"
+  ]
+}
