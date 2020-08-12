@@ -1,17 +1,17 @@
 {
   "area": [
     {
-      "height": 137,
-      "ypos": 84,
-      "type": "match",
+      "width": 17,
       "xpos": 1001,
-      "width": 17
+      "type": "match",
+      "ypos": 84,
+      "height": 137
     }
   ],
   "properties": [
     {
-      "value": "Weird pop-up location",
-      "name": "workaround"
+      "name": "workaround",
+      "value": "bsc#1174420"
     }
   ],
   "tags": [
