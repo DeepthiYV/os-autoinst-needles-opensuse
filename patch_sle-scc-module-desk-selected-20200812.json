@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 176,
+      "width": 196,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-desk-selected"
+  ]
+}
