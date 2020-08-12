@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 263,
+      "height": 27,
+      "xpos": 360,
+      "width": 190,
+      "match": 75
+    },
+    {
+      "type": "match",
+      "ypos": 505,
+      "height": 20,
+      "click_point": {
+        "xpos": 46,
+        "ypos": 10
+      },
+      "width": 92,
+      "xpos": 590,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "PolicyKit-authenticate",
+    "Policykit",
+    "Policykit-authenticate"
+  ]
+}
