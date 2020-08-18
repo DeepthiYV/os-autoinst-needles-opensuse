@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 360,
+      "ypos": 190,
+      "width": 66,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-hpc"
+  ]
+}
