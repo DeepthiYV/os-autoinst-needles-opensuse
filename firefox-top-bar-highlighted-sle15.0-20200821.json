@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 10,
+      "width": 43,
+      "ypos": 8,
+      "xpos": 120
+    },
+    {
+      "width": 22,
+      "type": "match",
+      "height": 17,
+      "xpos": 12,
+      "ypos": 71
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-top-bar-highlighted"
+  ]
+}
