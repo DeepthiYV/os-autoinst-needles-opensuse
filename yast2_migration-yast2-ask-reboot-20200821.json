@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 345,
+      "xpos": 271,
+      "width": 125,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "height": 34,
+      "width": 112,
+      "type": "match",
+      "xpos": 543,
+      "ypos": 424
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-ask-reboot"
+  ]
+}
