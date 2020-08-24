@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 191,
+      "type": "match",
+      "xpos": 303,
+      "height": 31,
+      "width": 60
+    },
+    {
+      "ypos": 70,
+      "type": "match",
+      "height": 19,
+      "width": 111,
+      "xpos": 30
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "adminer-login"
+  ]
+}
