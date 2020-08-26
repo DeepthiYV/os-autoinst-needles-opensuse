@@ -1,0 +1,48 @@
+{
+  "area": [
+    {
+      "xpos": 497,
+      "ypos": 455,
+      "width": 28,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 784,
+      "ypos": 403,
+      "width": 200,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 449,
+      "ypos": 345,
+      "width": 33,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 4,
+      "ypos": 313,
+      "width": 281,
+      "height": 102,
+      "type": "match"
+    },
+    {
+      "xpos": 455,
+      "ypos": 373,
+      "width": 275,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1175335"
+    }
+  ],
+  "tags": [
+    "bsc1175335"
+  ]
+}
