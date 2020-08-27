@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 185,
+      "ypos": 120,
+      "width": 281,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Chose-a-program-to-generate-a-profile"
+  ]
+}
