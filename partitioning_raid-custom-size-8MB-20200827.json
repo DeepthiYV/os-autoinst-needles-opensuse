@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 30,
+      "type": "match",
+      "xpos": 954,
+      "ypos": 719,
+      "height": 15
+    },
+    {
+      "type": "match",
+      "width": 87,
+      "xpos": 403,
+      "height": 13,
+      "ypos": 338
+    },
+    {
+      "xpos": 436,
+      "type": "match",
+      "width": 26,
+      "height": 10,
+      "ypos": 361
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-custom-size-8MB"
+  ]
+}
