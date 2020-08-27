@@ -1,0 +1,59 @@
+{
+  "area": [
+    {
+      "xpos": 152,
+      "type": "match",
+      "width": 160,
+      "height": 68,
+      "ypos": 199
+    },
+    {
+      "ypos": 459,
+      "height": 10,
+      "xpos": 418,
+      "type": "match",
+      "width": 71
+    },
+    {
+      "width": 146,
+      "type": "match",
+      "xpos": 418,
+      "ypos": 489,
+      "height": 10
+    },
+    {
+      "ypos": 489,
+      "height": 10,
+      "xpos": 650,
+      "width": 59,
+      "type": "match"
+    },
+    {
+      "height": 12,
+      "ypos": 415,
+      "type": "match",
+      "width": 69,
+      "xpos": 416
+    },
+    {
+      "width": 43,
+      "type": "match",
+      "xpos": 644,
+      "height": 10,
+      "ypos": 445
+    },
+    {
+      "xpos": 15,
+      "width": 36,
+      "type": "match",
+      "height": 14,
+      "ypos": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "acceptedpartitioningraid10",
+    "storage-ng"
+  ]
+}
