@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 115,
+      "ypos": 314,
+      "width": 140,
+      "height": 61,
+      "type": "match"
+    },
+    {
+      "xpos": 447,
+      "ypos": 316,
+      "width": 262,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo43622"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-11-SP4",
+    "displaymanager"
+  ]
+}
