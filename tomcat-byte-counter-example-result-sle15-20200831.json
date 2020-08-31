@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "ypos": 115,
+      "width": 143,
+      "type": "match",
+      "xpos": 5,
+      "match": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-byte-counter-example-result"
+  ]
+}
