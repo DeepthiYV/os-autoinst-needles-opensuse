@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "ypos": 82,
+      "width": 128,
+      "type": "match",
+      "xpos": 400
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-nfs-client-selected"
+  ]
+}
