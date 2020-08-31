@@ -4,15 +4,15 @@
       "type": "match",
       "width": 56,
       "xpos": 308,
-      "ypos": 461,
-      "height": 21
+      "height": 21,
+      "ypos": 461
     },
     {
-      "xpos": 312,
+      "height": 36,
+      "ypos": 527,
       "width": 91,
       "type": "match",
-      "ypos": 527,
-      "height": 36,
+      "xpos": 312,
       "click_point": {
         "xpos": 45.5,
         "ypos": 18
