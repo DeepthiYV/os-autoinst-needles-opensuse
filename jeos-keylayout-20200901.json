@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 45,
+      "height": 17,
+      "xpos": 353,
+      "width": 195
+    },
+    {
+      "type": "match",
+      "xpos": 404,
+      "height": 13,
+      "ypos": 669,
+      "width": 166
+    },
+    {
+      "width": 278,
+      "xpos": 2,
+      "ypos": 5,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "jeos-keylayout"
+  ]
+}

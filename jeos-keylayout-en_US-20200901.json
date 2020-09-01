@@ -1,23 +1,23 @@
 {
   "area": [
     {
-      "ypos": 44,
-      "width": 189,
       "height": 20,
+      "ypos": 44,
       "xpos": 355,
+      "width": 189,
       "type": "match"
     },
     {
-      "xpos": 382,
-      "ypos": 593,
+      "type": "match",
       "width": 32,
-      "height": 10,
-      "type": "match"
+      "ypos": 593,
+      "height": 13,
+      "xpos": 382
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-FLAVOR-JeOS-for-kvm",
+    "ENV-15SP2ORLATER-1",
     "jeos-keylayout-en_US",
     "text-logged-in"
   ]
