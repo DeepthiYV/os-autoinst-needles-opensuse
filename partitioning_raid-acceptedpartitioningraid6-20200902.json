@@ -1,0 +1,58 @@
+{
+  "area": [
+    {
+      "xpos": 151,
+      "type": "match",
+      "ypos": 198,
+      "width": 163,
+      "height": 69
+    },
+    {
+      "ypos": 458,
+      "width": 69,
+      "height": 16,
+      "xpos": 417,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 649,
+      "width": 60,
+      "height": 12,
+      "ypos": 488
+    },
+    {
+      "ypos": 490,
+      "width": 84,
+      "height": 10,
+      "xpos": 416,
+      "type": "match"
+    },
+    {
+      "xpos": 644,
+      "type": "match",
+      "ypos": 445,
+      "height": 10,
+      "width": 43
+    },
+    {
+      "xpos": 415,
+      "type": "match",
+      "ypos": 414,
+      "width": 68,
+      "height": 12
+    },
+    {
+      "type": "match",
+      "xpos": 37,
+      "width": 36,
+      "height": 14,
+      "ypos": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "acceptedpartitioningraid6"
+  ]
+}
