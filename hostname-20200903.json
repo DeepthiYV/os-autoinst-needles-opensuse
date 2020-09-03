@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 161,
+      "ypos": 16,
+      "width": 166,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 970,
+      "ypos": 732,
+      "width": 29,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 433,
+      "ypos": 300,
+      "width": 189,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hostname",
+    "hostname-susetest"
+  ]
+}
