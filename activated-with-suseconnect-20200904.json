@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 79,
+      "ypos": 602,
+      "xpos": 0,
+      "width": 583
+    },
+    {
+      "type": "match",
+      "ypos": 302,
+      "height": 40,
+      "xpos": 57,
+      "width": 219
+    },
+    {
+      "xpos": 63,
+      "width": 134,
+      "type": "match",
+      "height": 48,
+      "ypos": 249
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "activated-with-suseconnect"
+  ]
+}
