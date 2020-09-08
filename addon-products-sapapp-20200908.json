@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 251,
+      "xpos": 70,
+      "ypos": 185,
+      "height": 88
+    },
+    {
+      "height": 12,
+      "ypos": 190,
+      "xpos": 360,
+      "width": 134,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "addon-products-ha",
+    "addon-products-sapapp"
+  ]
+}
