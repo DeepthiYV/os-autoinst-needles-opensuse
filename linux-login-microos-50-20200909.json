@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 495,
+      "width": 217,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "linux-login-casp"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "width": 105,
+      "xpos": 349,
+      "type": "match",
+      "height": 55,
+      "ypos": 91
+    },
+    {
+      "width": 301,
+      "ypos": 191,
+      "height": 124,
+      "type": "match",
+      "xpos": 24
+    },
+    {
+      "xpos": 353,
+      "ypos": 693,
+      "width": 10,
+      "height": 10,
+      "type": "match",
+      "click_point": {
+        "xpos": 5.5,
+        "ypos": 5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "inst-welcome-no-product-list",
+    "license-agreement",
+    "languagepicked"
+  ]
+}
