@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "xpos": 263,
+      "width": 157,
+      "ypos": 702,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "width": 92,
+      "ypos": 206,
+      "xpos": 41,
+      "height": 310,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "new youtube login popup ..."
+    }
+  ],
+  "tags": [
+    "firefox-testvideo"
+  ]
+}
