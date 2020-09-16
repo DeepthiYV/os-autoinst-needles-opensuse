@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 118,
+      "xpos": 237,
+      "height": 16,
+      "ypos": 207,
+      "type": "match"
+    },
+    {
+      "ypos": 651,
+      "type": "match",
+      "height": 20,
+      "xpos": 437,
+      "width": 61
+    },
+    {
+      "type": "match",
+      "ypos": 256,
+      "xpos": 240,
+      "height": 15,
+      "width": 154
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "autoyast-known-warning",
+    "warning-pop-up"
+  ]
+}
