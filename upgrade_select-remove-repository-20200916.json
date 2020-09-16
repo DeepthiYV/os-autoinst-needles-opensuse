@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 234,
+      "xpos": 16,
+      "height": 17,
+      "ypos": 33,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 113,
+      "height": 17,
+      "xpos": 23,
+      "width": 51
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "remove-repository"
+  ]
+}
