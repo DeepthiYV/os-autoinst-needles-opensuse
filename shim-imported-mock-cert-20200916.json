@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 124,
+      "ypos": 196,
+      "width": 300,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 142,
+      "ypos": 255,
+      "width": 279,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shim-imported-mock-cert"
+  ]
+}
