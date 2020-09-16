@@ -18,7 +18,6 @@
   "properties": [],
   "tags": [
     "jeos-timezone-en_US",
-    "ENV-DESKTOP-textmode",
-    "ENV-FLAVOR-JeOS-for-kvm"
+    "ENV-DESKTOP-textmode"
   ]
 }
