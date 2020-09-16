@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 236,
+      "type": "match",
+      "width": 142,
+      "xpos": 186,
+      "height": 31
+    },
+    {
+      "ypos": 580,
+      "type": "match",
+      "width": 99,
+      "height": 34,
+      "xpos": 623
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-migration-startupgrade"
+  ]
+}
