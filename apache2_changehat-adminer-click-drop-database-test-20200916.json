@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 308,
+      "type": "match",
+      "ypos": 461,
+      "height": 21,
+      "width": 56
+    },
+    {
+      "height": 36,
+      "ypos": 527,
+      "type": "match",
+      "xpos": 312,
+      "click_point": {
+        "xpos": 45.5,
+        "ypos": 18
+      },
+      "width": 91
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "adminer-click-drop-database-test"
+  ]
+}
