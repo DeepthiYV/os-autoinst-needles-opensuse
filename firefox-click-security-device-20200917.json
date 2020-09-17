@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 447,
+      "type": "match",
+      "xpos": 787,
+      "height": 23,
+      "width": 141,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-click-security-device"
+  ]
+}
