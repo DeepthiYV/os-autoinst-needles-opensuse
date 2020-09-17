@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 232,
+      "ypos": 18,
+      "width": 151,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 50,
+      "width": 344,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 130,
+      "width": 86,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 226,
+      "width": 38,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qa-net-grub-boot-linux"
+  ]
+}
