@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "xpos": 232,
+      "ypos": 18,
+      "width": 151,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 23,
+      "ypos": 49,
+      "width": 345,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 130,
+      "width": 87,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 226,
+      "width": 94,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 258,
+      "width": 39,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qa-net-grub-boot-initrd"
+  ]
+}
