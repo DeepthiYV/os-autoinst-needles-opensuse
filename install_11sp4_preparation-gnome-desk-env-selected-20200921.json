@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 314,
+      "ypos": 211,
+      "width": 251,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-desk-env-selected"
+  ]
+}
