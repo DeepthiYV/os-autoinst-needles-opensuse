@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "xpos": 371,
+      "height": 21,
+      "ypos": 317,
+      "type": "match",
+      "width": 302
+    },
+    {
+      "height": 17,
+      "click_point": {
+        "ypos": 8.5,
+        "xpos": 15
+      },
+      "xpos": 412,
+      "ypos": 490,
+      "type": "match",
+      "width": 30
+    },
+    {
+      "width": 84,
+      "type": "match",
+      "height": 17,
+      "xpos": 205,
+      "ypos": 181
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1172356 - Not able to hot-plug NIC via virt-manager"
+    }
+  ],
+  "tags": [
+    "virt-manager_add_network_bsc1172356"
+  ]
+}
