@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 424,
+      "width": 247,
+      "height": 42,
+      "xpos": 2
+    },
+    {
+      "height": 58,
+      "xpos": 3,
+      "width": 247,
+      "ypos": 31,
+      "type": "match"
+    },
+    {
+      "width": 296,
+      "xpos": 710,
+      "height": 66,
+      "type": "match",
+      "ypos": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "pidgin-ready"
+  ]
+}
