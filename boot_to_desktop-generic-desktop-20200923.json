@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 1015,
+      "xpos": 0,
+      "height": 745,
+      "ypos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-SP3ORLATER-1",
+    "GNOME",
+    "desktop-gnome-shell",
+    "generic-desktop"
+  ]
+}
