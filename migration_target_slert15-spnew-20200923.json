@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 11,
+      "type": "match",
+      "width": 172,
+      "xpos": 357,
+      "ypos": 137
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_hscrollbar",
+    "migration_target_rt15-sp2"
+  ]
+}
