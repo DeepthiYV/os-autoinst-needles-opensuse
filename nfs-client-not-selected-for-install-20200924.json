@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 81,
+      "width": 125,
+      "height": 12,
+      "type": "match",
+      "xpos": 360
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "nfs-client-not-selected-for-install"
+  ]
+}
