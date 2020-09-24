@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 276,
+      "xpos": 45,
+      "ypos": 193,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "ypos": 675,
+      "xpos": 348,
+      "width": 126,
+      "type": "match",
+      "height": 21
+    },
+    {
+      "ypos": 172,
+      "xpos": 357,
+      "width": 173,
+      "type": "match",
+      "height": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "all-partition",
+    "select-for-update"
+  ]
+}
