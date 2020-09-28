@@ -1,26 +1,21 @@
 {
   "area": [
     {
-      "ypos": 403,
+      "xpos": 374,
+      "type": "match",
       "width": 276,
       "height": 23,
-      "type": "match",
-      "xpos": 374
+      "ypos": 403
     },
     {
-      "xpos": 6,
-      "ypos": 3,
-      "width": 1010,
       "height": 32,
+      "width": 1010,
+      "ypos": 3,
+      "xpos": 6,
       "type": "match"
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "bsc#1159950 - [Build 108.1] openQA test fails in first_boot - gnome-session-failed is detected"
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-15SP2ORLATER-1",
     "oh-no-something-has-gone-wrong"
