@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 710,
+      "ypos": 636,
+      "width": 128,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Yast2-Users-Expert-Options"
+  ]
+}
