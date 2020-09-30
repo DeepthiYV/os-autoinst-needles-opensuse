@@ -17,8 +17,8 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-15SP3ORLATER-1",
     "ENV-SLES4SAP-1",
-    "ENV-SP2ORLATER-1",
     "displaymanager",
     "dm-nousers"
   ]
