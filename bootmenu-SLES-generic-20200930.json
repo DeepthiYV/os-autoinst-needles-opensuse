@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 237,
+      "ypos": 18,
+      "xpos": 200,
+      "height": 140,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 37,
+      "xpos": 75,
+      "ypos": 170,
+      "width": 52
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "also_used_for_supportserver_in_sled",
+    "bootloader",
+    "grub2"
+  ]
+}
