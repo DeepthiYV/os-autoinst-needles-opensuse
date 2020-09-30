@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 295,
+      "height": 104,
+      "width": 206,
+      "ypos": 57
+    },
+    {
+      "type": "match",
+      "xpos": 89,
+      "height": 37,
+      "width": 41,
+      "ypos": 210
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "autoyast-boot"
+  ]
+}
