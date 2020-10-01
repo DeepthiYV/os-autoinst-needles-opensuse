@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 126,
+      "type": "match",
+      "xpos": 338,
+      "ypos": 57,
+      "height": 106
+    },
+    {
+      "type": "match",
+      "height": 45,
+      "ypos": 205,
+      "xpos": 88,
+      "width": 54
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-FLAVOR-Desktop-DVD",
+    "bootloader",
+    "grub2"
+  ]
+}
