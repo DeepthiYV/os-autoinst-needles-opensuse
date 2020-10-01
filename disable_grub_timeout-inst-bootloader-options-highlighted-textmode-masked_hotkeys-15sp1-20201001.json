@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 23,
+      "ypos": 44,
+      "xpos": 323,
+      "width": 154
+    },
+    {
+      "type": "exclude",
+      "xpos": 345,
+      "ypos": 41,
+      "height": 30,
+      "width": 41
+    },
+    {
+      "width": 10,
+      "type": "exclude",
+      "height": 24,
+      "ypos": 45,
+      "xpos": 397
+    },
+    {
+      "type": "exclude",
+      "ypos": 47,
+      "xpos": 328,
+      "height": 15,
+      "width": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "inst-bootloader-options-highlighted"
+  ]
+}
