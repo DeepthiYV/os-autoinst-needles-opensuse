@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 91,
+      "width": 281,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 405,
+      "ypos": 419,
+      "width": 68,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hard-disk-dev-vda-not-selected"
+  ]
+}

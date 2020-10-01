@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 30,
+      "width": 154,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 362,
+      "ypos": 385,
+      "width": 95,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "hard-disk-dev-vdb-not-selected"
+  ]
+}
