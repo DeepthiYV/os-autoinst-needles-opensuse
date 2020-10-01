@@ -17,6 +17,7 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-15SP3ORLATER",
     "bootloader-grub2"
   ]
 }
