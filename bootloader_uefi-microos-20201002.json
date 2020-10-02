@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 329,
+      "ypos": 40,
+      "width": 112,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 99,
+      "ypos": 214,
+      "width": 183,
+      "height": 102,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-MICROOS",
+    "bootloader-grub2",
+    "bootloader-shim-import-prompt"
+  ]
+}
