@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 175,
+      "type": "match",
+      "height": 16,
+      "width": 136
+    },
+    {
+      "xpos": 0,
+      "ypos": 192,
+      "type": "match",
+      "width": 215,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mrlogout",
+    "mrlogout-new"
+  ]
+}
