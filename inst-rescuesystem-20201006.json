@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "type": "match",
+      "width": 145,
+      "ypos": 218,
+      "xpos": 113
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER",
+    "inst-rescuesystem"
+  ]
+}
