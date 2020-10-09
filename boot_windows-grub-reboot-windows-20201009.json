@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 117,
+      "type": "match",
+      "xpos": 89,
+      "height": 115,
+      "ypos": 199
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-reboot-windows"
+  ]
+}
