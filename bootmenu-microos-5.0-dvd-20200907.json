@@ -10,6 +10,7 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-MICROOS",
     "inst-bootmenu"
   ]
 }

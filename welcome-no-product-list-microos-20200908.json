@@ -28,6 +28,7 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-MICROOS",
     "ENV-15ORLATER-1",
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
