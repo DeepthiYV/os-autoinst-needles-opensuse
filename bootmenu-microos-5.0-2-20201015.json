@@ -1,17 +1,16 @@
 {
   "area": [
     {
-      "height": 80,
-      "ypos": 203,
-      "xpos": 102,
-      "type": "match",
-      "width": 163
+      "xpos": 116,
+      "ypos": 211,
+      "width": 147,
+      "height": 65,
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
     "ENV-MICROOS",
-    "bootloader",
     "bootloader-grub2",
     "grub2"
   ]
