@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 329,
+      "ypos": 39,
+      "width": 111,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 106,
+      "ypos": 206,
+      "width": 183,
+      "height": 115,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-MICROOS",
+    "ENV-UEFI-1",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
