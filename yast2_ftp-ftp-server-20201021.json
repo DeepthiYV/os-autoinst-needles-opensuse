@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 44,
+      "type": "match",
+      "height": 21,
+      "xpos": 21,
+      "width": 131
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ftp-server"
+  ]
+}
