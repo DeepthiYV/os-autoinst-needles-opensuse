@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 219,
+      "width": 194,
+      "ypos": 0,
+      "type": "match",
+      "height": 105
+    },
+    {
+      "height": 68,
+      "ypos": 168,
+      "type": "match",
+      "width": 105,
+      "xpos": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "ENV-JEOS-1",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
