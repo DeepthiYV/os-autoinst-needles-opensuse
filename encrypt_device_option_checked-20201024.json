@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 300,
+      "ypos": 537,
+      "width": 96,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "encrypt_device_option_checked"
+  ]
+}
