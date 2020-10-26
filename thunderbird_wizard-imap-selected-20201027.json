@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 38,
+      "xpos": 354,
+      "height": 19,
+      "ypos": 423,
+      "type": "match",
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_wizard-imap-selected"
+  ]
+}
