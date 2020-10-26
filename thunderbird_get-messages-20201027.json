@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 92,
+      "xpos": 29,
+      "height": 18,
+      "type": "match",
+      "ypos": 103,
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_get-messages"
+  ]
+}
