@@ -28,9 +28,8 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-MICROOS",
+    "ENV-DISTRI-microos",
     "ENV-15ORLATER-1",
-    "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
     "inst-welcome-no-product-list",
     "license-agreement",
