@@ -10,7 +10,7 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-MICROOS",
+    "ENV-DISTR-microos",
     "bootloader",
     "bootloader-grub2",
     "grub2"

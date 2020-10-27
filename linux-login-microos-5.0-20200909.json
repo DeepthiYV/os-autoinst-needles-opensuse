@@ -17,7 +17,7 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-MICROOS",
+    "ENV-DISTRI-microos",
     "linux-login-microos"
   ]
 }
