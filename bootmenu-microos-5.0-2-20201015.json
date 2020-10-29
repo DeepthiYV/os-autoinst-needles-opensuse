@@ -12,6 +12,7 @@
   "tags": [
     "ENV-DISTRI-microos",
     "bootloader-grub2",
-    "grub2"
+    "grub2",
+    "autoyast-boot"
   ]
 }
