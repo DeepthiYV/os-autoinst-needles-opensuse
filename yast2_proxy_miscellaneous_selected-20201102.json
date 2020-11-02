@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 45,
+      "width": 111,
+      "ypos": 159,
+      "type": "match",
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_proxy_miscellaneous_selected"
+  ]
+}
