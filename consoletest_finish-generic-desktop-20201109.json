@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 354,
+      "width": 90,
+      "height": 13,
+      "type": "match",
+      "ypos": 408
+    },
+    {
+      "width": 67,
+      "type": "match",
+      "height": 22,
+      "xpos": 608,
+      "ypos": 472
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "locked_screen-typed_password"
+  ]
+}
