@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 4,
+      "width": 434,
+      "height": 253,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-MICROOS",
+    "inst-bootmenu"
+  ]
+}
