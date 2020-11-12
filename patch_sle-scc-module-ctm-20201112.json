@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 169,
+      "type": "match",
+      "xpos": 31,
+      "height": 14,
+      "ypos": 161
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-ctm"
+  ]
+}
