@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 326,
+      "ypos": 329,
+      "type": "match",
+      "height": 65,
+      "width": 94
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-folder-name-input-box"
+  ]
+}
