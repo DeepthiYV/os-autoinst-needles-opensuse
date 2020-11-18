@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 992,
+      "ypos": 34,
+      "width": 26,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_close_send-message"
+  ]
+}
