@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "ypos": 196,
+      "height": 35,
+      "width": 163,
+      "type": "match",
+      "xpos": 154
+    },
+    {
+      "height": 36,
+      "width": 127,
+      "ypos": 659,
+      "type": "match",
+      "xpos": 617
+    },
+    {
+      "xpos": 633,
+      "type": "match",
+      "ypos": 621,
+      "height": 34,
+      "width": 96
+    },
+    {
+      "height": 33,
+      "width": 166,
+      "ypos": 235,
+      "xpos": 150,
+      "type": "match"
+    },
+    {
+      "width": 10,
+      "height": 10,
+      "ypos": 725,
+      "xpos": 981,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-suggested-partitioning-step"
+  ]
+}
