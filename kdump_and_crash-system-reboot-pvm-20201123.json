@@ -1,0 +1,184 @@
+{
+  "area": [
+    {
+      "ypos": 432,
+      "width": 185,
+      "xpos": 0,
+      "type": "match",
+      "height": 13
+    },
+    {
+      "type": "match",
+      "xpos": 0,
+      "width": 258,
+      "ypos": 656,
+      "height": 15
+    },
+    {
+      "height": 14,
+      "width": 192,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 545
+    },
+    {
+      "width": 424,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 608,
+      "height": 14
+    },
+    {
+      "height": 14,
+      "width": 383,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 560
+    },
+    {
+      "width": 375,
+      "xpos": 1,
+      "type": "match",
+      "ypos": 577,
+      "height": 13
+    },
+    {
+      "height": 15,
+      "type": "match",
+      "xpos": 0,
+      "width": 192,
+      "ypos": 368
+    },
+    {
+      "type": "match",
+      "xpos": 2,
+      "width": 181,
+      "ypos": 400,
+      "height": 14
+    },
+    {
+      "ypos": 320,
+      "xpos": 2,
+      "type": "match",
+      "width": 239,
+      "height": 15
+    },
+    {
+      "ypos": 416,
+      "width": 231,
+      "xpos": 0,
+      "type": "match",
+      "height": 14
+    },
+    {
+      "type": "match",
+      "xpos": 0,
+      "width": 187,
+      "ypos": 383,
+      "height": 15
+    },
+    {
+      "ypos": 353,
+      "width": 183,
+      "type": "match",
+      "xpos": 0,
+      "height": 12
+    },
+    {
+      "height": 14,
+      "ypos": 336,
+      "width": 375,
+      "type": "match",
+      "xpos": 0
+    },
+    {
+      "ypos": 624,
+      "width": 409,
+      "type": "match",
+      "xpos": 0,
+      "height": 14
+    },
+    {
+      "width": 413,
+      "type": "match",
+      "xpos": 2,
+      "ypos": 289,
+      "height": 12
+    },
+    {
+      "height": 12,
+      "width": 430,
+      "xpos": 1,
+      "type": "match",
+      "ypos": 113
+    },
+    {
+      "height": 12,
+      "type": "match",
+      "xpos": 2,
+      "width": 335,
+      "ypos": 97
+    },
+    {
+      "ypos": 63,
+      "width": 438,
+      "type": "match",
+      "xpos": 0,
+      "height": 14
+    },
+    {
+      "height": 15,
+      "ypos": 688,
+      "type": "match",
+      "xpos": 0,
+      "width": 202
+    },
+    {
+      "ypos": 465,
+      "width": 391,
+      "xpos": 1,
+      "type": "match",
+      "height": 13
+    },
+    {
+      "width": 335,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 530,
+      "height": 13
+    },
+    {
+      "width": 350,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 482,
+      "height": 11
+    },
+    {
+      "xpos": 0,
+      "type": "match",
+      "width": 386,
+      "ypos": 737,
+      "height": 13
+    },
+    {
+      "ypos": 513,
+      "width": 280,
+      "type": "match",
+      "xpos": 0,
+      "height": 12
+    },
+    {
+      "ypos": 672,
+      "width": 356,
+      "type": "match",
+      "xpos": 0,
+      "height": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-reboot",
+    "ENV-BACKEND-spvm"
+  ]
+}
