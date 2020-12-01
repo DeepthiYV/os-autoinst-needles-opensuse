@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 57,
+      "xpos": 295,
+      "width": 206,
+      "type": "match",
+      "height": 104
+    },
+    {
+      "height": 37,
+      "type": "match",
+      "width": 113,
+      "xpos": 115,
+      "ypos": 210
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "autoyast-boot"
+  ]
+}
