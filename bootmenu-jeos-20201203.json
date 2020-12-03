@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 105,
+      "ypos": 596,
+      "width": 194,
+      "xpos": 134
+    },
+    {
+      "width": 112,
+      "ypos": 263,
+      "type": "match",
+      "height": 68,
+      "xpos": 131
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
