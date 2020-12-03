@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 159,
+      "ypos": 278,
+      "height": 374,
+      "type": "match",
+      "xpos": 187
+    },
+    {
+      "xpos": 1,
+      "width": 159,
+      "ypos": 742,
+      "type": "match",
+      "height": 26
+    },
+    {
+      "width": 121,
+      "ypos": 280,
+      "height": 27,
+      "type": "match",
+      "xpos": 19
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-desktop_mainmenu-1"
+  ]
+}
