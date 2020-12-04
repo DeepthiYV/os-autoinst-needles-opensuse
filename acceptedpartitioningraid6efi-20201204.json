@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "xpos": 419,
+      "width": 68,
+      "ypos": 461,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 634,
+      "height": 15,
+      "type": "match",
+      "width": 74,
+      "ypos": 485
+    },
+    {
+      "xpos": 641,
+      "ypos": 446,
+      "width": 47,
+      "type": "match",
+      "height": 10
+    },
+    {
+      "xpos": 418,
+      "type": "match",
+      "height": 10,
+      "width": 68,
+      "ypos": 416
+    },
+    {
+      "width": 113,
+      "ypos": 369,
+      "type": "match",
+      "height": 10,
+      "xpos": 632
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "acceptedpartitioningraid6efi"
+  ]
+}
