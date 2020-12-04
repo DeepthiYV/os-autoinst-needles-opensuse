@@ -1,0 +1,50 @@
+{
+  "area": [
+    {
+      "xpos": 420,
+      "type": "match",
+      "height": 10,
+      "width": 65,
+      "ypos": 460
+    },
+    {
+      "xpos": 646,
+      "width": 57,
+      "ypos": 403,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 650,
+      "type": "match",
+      "height": 13,
+      "width": 91,
+      "ypos": 371
+    },
+    {
+      "height": 10,
+      "type": "match",
+      "width": 56,
+      "ypos": 403,
+      "xpos": 645
+    },
+    {
+      "xpos": 418,
+      "width": 67,
+      "ypos": 416,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 642,
+      "height": 11,
+      "type": "match",
+      "width": 61,
+      "ypos": 487
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "acceptedpartitioningraid1efi"
+  ]
+}
