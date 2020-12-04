@@ -1,0 +1,57 @@
+{
+  "area": [
+    {
+      "width": 67,
+      "ypos": 461,
+      "type": "match",
+      "height": 10,
+      "xpos": 418
+    },
+    {
+      "type": "match",
+      "height": 10,
+      "width": 99,
+      "ypos": 371,
+      "xpos": 646
+    },
+    {
+      "xpos": 416,
+      "type": "match",
+      "height": 12,
+      "width": 70,
+      "ypos": 414
+    },
+    {
+      "ypos": 193,
+      "width": 194,
+      "type": "match",
+      "height": 93,
+      "xpos": 139
+    },
+    {
+      "xpos": 967,
+      "height": 19,
+      "type": "match",
+      "width": 40,
+      "ypos": 728
+    },
+    {
+      "xpos": 642,
+      "type": "match",
+      "height": 15,
+      "ypos": 442,
+      "width": 49
+    },
+    {
+      "xpos": 632,
+      "height": 16,
+      "type": "match",
+      "ypos": 486,
+      "width": 79
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "acceptedpartitioningraid5efi"
+  ]
+}
