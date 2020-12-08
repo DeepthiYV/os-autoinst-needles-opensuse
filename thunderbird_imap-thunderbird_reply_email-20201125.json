@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "ypos": 392,
+      "xpos": 578,
+      "width": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_reply_email"
+  ]
+}
