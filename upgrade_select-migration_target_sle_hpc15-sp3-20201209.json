@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 136,
+      "width": 319,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 359,
+      "ypos": 273,
+      "width": 129,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_sle_hpc15-sp3"
+  ]
+}
