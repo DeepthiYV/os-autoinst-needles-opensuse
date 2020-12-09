@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 314,
+      "ypos": 128,
+      "width": 241,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-fadump-not-enabled"
+  ]
+}
