@@ -8,7 +8,12 @@
       "width": 16
     }
   ],
-  "properties": [],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#80976"
+    }
+  ],
   "tags": [
     "evince-rotate-right"
   ]
