@@ -1,11 +1,11 @@
 {
   "area": [
     {
-      "width": 164,
       "height": 32,
-      "xpos": 328,
+      "width": 164,
+      "type": "match",
       "ypos": 204,
-      "type": "match"
+      "xpos": 328
     },
     {
       "height": 16,
@@ -15,7 +15,12 @@
       "type": "match"
     }
   ],
-  "properties": [],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#80976"
+    }
+  ],
   "tags": [
     "evince-open-pdf"
   ]
