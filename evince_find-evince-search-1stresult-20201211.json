@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 19,
+      "ypos": 123,
+      "xpos": 30,
+      "width": 78
+    },
+    {
+      "xpos": 608,
+      "ypos": 736,
+      "width": 76,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "value": "poo#80976",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "evince-search-1stresult"
+  ]
+}
