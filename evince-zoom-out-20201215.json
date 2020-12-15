@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 48,
+      "ypos": 185,
+      "type": "match",
+      "width": 146,
+      "xpos": 367
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1180057 poo#80976"
+    }
+  ],
+  "tags": [
+    "evince-zoom-out"
+  ]
+}
