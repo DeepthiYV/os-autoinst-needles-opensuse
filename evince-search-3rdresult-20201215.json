@@ -15,7 +15,12 @@
       "ypos": 172
     }
   ],
-  "properties": [],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://progress.opensuse.org/issues/80976"
+    }
+  ],
   "tags": [
     "evince-search-3rdresult"
   ]
