@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 192,
+      "xpos": 33,
+      "type": "match",
+      "ypos": 290,
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-tsm"
+  ]
+}
