@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 51,
+      "xpos": 419,
+      "ypos": 339,
+      "height": 21
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "all-select-install"
+  ]
+}
