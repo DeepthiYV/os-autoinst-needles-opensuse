@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 53,
+      "xpos": 668,
+      "ypos": 30,
+      "type": "match",
+      "width": 343
+    },
+    {
+      "type": "match",
+      "width": 109,
+      "height": 26,
+      "ypos": 16,
+      "xpos": 395
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "generic-desktop-with-terminal"
+  ]
+}
