@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 56,
+      "ypos": 352,
+      "width": 112,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast-rear-backup-options-empty"
+  ]
+}

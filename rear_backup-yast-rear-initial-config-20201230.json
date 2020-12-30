@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 33,
+      "width": 145,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 54,
+      "ypos": 216,
+      "width": 68,
+      "height": 93,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast-rear-initial-config"
+  ]
+}
