@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 293,
+      "ypos": 282,
+      "width": 133,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 353,
+      "ypos": 365,
+      "width": 37,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_btrfs-format-selected"
+  ]
+}
