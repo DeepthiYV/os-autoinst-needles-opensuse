@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "xpos": 91,
+      "type": "match",
+      "width": 933,
+      "ypos": 754
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "any-console"
+  ]
+}
