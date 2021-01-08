@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 14,
+      "width": 193,
+      "ypos": 354,
+      "xpos": 56
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-TEXTMODE-1",
+    "ENV-VERSION-15",
+    "expired-gpg-key"
+  ]
+}
