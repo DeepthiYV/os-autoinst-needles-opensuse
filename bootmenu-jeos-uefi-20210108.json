@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 237,
+      "ypos": 78,
+      "height": 140,
+      "xpos": 394,
+      "type": "match"
+    },
+    {
+      "height": 37,
+      "xpos": 113,
+      "type": "match",
+      "width": 52,
+      "ypos": 263
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-0",
+    "ENV-UEFI-1",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
