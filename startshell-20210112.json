@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 735,
+      "width": 231,
+      "xpos": 0,
+      "type": "match",
+      "height": 15
+    },
+    {
+      "xpos": 144,
+      "ypos": 754,
+      "width": 93,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "startshell"
+  ]
+}
