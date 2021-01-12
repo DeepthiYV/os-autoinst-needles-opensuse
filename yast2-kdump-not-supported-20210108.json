@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 256,
+      "ypos": 294,
+      "width": 180,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 422,
+      "ypos": 416,
+      "width": 167,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-kdump-not-supported"
+  ]
+}
