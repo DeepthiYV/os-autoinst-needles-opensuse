@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 75,
+      "ypos": 43,
+      "xpos": 105,
+      "type": "match",
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rear-recover-selected"
+  ]
+}
