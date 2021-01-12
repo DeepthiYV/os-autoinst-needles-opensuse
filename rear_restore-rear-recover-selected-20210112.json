@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 138,
+      "height": 13,
+      "type": "match",
+      "xpos": 31,
+      "ypos": 82
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "rear-recover-selected"
+  ]
+}
