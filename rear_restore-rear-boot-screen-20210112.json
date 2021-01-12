@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 78,
+      "height": 21,
+      "type": "match",
+      "xpos": 23,
+      "width": 146
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "rear-boot-screen"
+  ]
+}
