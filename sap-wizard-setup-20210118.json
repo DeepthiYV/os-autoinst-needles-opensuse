@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 122,
+      "width": 776,
+      "ypos": 110,
+      "type": "match",
+      "height": 340
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "sap-installation-wizard",
+    "yast2"
+  ]
+}
