@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "type": "match",
+      "ypos": 224,
+      "xpos": 62,
+      "width": 171
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-nvidia"
+  ]
+}
