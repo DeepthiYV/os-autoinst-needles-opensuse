@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "ypos": 0,
+      "width": 1015,
+      "height": 753
+    },
+    {
+      "height": 25,
+      "type": "exclude",
+      "xpos": 462,
+      "width": 97,
+      "ypos": 1
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181157"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-SP3ORLATER-1",
+    "GNOME",
+    "desktop-gnome-shell",
+    "generic-desktop"
+  ]
+}
