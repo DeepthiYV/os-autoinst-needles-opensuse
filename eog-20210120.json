@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 113,
+      "xpos": 88,
+      "type": "match",
+      "width": 852,
+      "ypos": 125
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "test-eog-1",
+    "test-eog-started"
+  ]
+}
