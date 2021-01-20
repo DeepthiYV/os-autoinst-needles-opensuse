@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 561,
+      "width": 401,
+      "ypos": 39,
+      "xpos": 610,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181157"
+    }
+  ],
+  "tags": [
+    "generic-desktop"
+  ]
+}
