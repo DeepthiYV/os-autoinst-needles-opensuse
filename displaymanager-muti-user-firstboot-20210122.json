@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 336,
+      "type": "match",
+      "width": 164,
+      "height": 207,
+      "ypos": 285
+    },
+    {
+      "width": 121,
+      "height": 77,
+      "ypos": 648,
+      "xpos": 475,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "displaymanager"
+  ]
+}
