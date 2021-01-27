@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 538,
+      "ypos": 233,
+      "width": 184,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 455,
+      "ypos": 340,
+      "width": 131,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 638,
+      "ypos": 524,
+      "width": 47,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "import-trusted-gpg-key-nvidia-F60F4B3D7FA2AF80-20210119",
+    "import-untrusted-gpg-key"
+  ]
+}
