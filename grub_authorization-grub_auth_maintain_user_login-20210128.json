@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 80,
+      "ypos": 111,
+      "width": 120,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub_auth_maintain_user_login"
+  ]
+}
