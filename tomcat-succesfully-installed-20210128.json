@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 197,
+      "width": 83,
+      "xpos": 22,
+      "type": "match",
+      "height": 30
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-succesfully-installed"
+  ]
+}
