@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 36,
+      "type": "match",
+      "ypos": 227,
+      "width": 247,
+      "height": 11
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-module-desktop"
+  ]
+}
