@@ -2,16 +2,16 @@
   "area": [
     {
       "height": 59,
-      "type": "match",
-      "ypos": 0,
       "xpos": 0,
-      "width": 1024
+      "width": 1024,
+      "type": "match",
+      "ypos": 0
     }
   ],
   "properties": [
     {
       "name": "workaround",
-      "value": "poo#80976"
+      "value": "bsc#1180057 poo#80976"
     }
   ],
   "tags": [
