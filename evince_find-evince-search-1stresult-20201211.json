@@ -1,23 +1,23 @@
 {
   "area": [
     {
-      "type": "match",
+      "xpos": 30,
       "height": 19,
       "ypos": 123,
-      "xpos": 30,
+      "type": "match",
       "width": 78
     },
     {
-      "xpos": 608,
-      "ypos": 736,
       "width": 76,
+      "ypos": 736,
+      "type": "match",
       "height": 32,
-      "type": "match"
+      "xpos": 611
     }
   ],
   "properties": [
     {
-      "value": "poo#80976",
+      "value": "bsc#1180057 poo#80976",
       "name": "workaround"
     }
   ],
