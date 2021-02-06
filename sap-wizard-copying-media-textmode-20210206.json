@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 18,
+      "xpos": 14,
+      "width": 108,
+      "type": "match",
+      "ypos": 31
+    },
+    {
+      "xpos": 13,
+      "height": 14,
+      "type": "match",
+      "ypos": 368,
+      "width": 110
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "sap-wizard-copying-media"
+  ]
+}
