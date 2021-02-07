@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 37,
+      "ypos": 302,
+      "width": 31,
+      "type": "match",
+      "xpos": 400
+    },
+    {
+      "xpos": 476,
+      "type": "match",
+      "height": 19,
+      "width": 212,
+      "ypos": 222
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SLE15ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "sap-wizard-sid-empty"
+  ]
+}
