@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 350,
+      "type": "match",
+      "width": 436,
+      "height": 21,
+      "xpos": 293
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "sap-wizard-supplement-medium"
+  ]
+}
