@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "type": "match",
+      "ypos": 96,
+      "width": 65,
+      "height": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-capturing"
+  ]
+}
