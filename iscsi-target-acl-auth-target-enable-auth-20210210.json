@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "ypos": 381,
+      "width": 191,
+      "type": "match",
+      "xpos": 330,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-target-acl-auth-target-enable-auth"
+  ]
+}
