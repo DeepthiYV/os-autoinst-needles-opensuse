@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 382,
+      "width": 56,
+      "height": 13,
+      "type": "match",
+      "xpos": 652,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "wireshark-quit-save"
+  ]
+}
