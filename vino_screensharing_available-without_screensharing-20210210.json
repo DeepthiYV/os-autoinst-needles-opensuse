@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 134,
+      "ypos": 101,
+      "height": 233,
+      "xpos": 351,
+      "type": "match"
+    },
+    {
+      "width": 125,
+      "ypos": 143,
+      "height": 25,
+      "xpos": 348,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "without_screensharing"
+  ]
+}
