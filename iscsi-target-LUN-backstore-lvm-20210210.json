@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 247,
+      "type": "match",
+      "ypos": 307,
+      "width": 58,
+      "height": 42
+    },
+    {
+      "type": "match",
+      "xpos": 249,
+      "height": 16,
+      "ypos": 338,
+      "width": 206
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-target-LUN"
+  ]
+}
