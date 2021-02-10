@@ -5,13 +5,17 @@
       "ypos": 439,
       "width": 84,
       "xpos": 25,
-      "type": "match"
+      "type": "match",
+      "click_point": {
+        "xpos": 28,
+        "ypos": 8
+      }
     },
     {
-      "xpos": 5,
-      "ypos": 371,
-      "width": 19,
-      "height": 163,
+      "xpos": 6,
+      "ypos": 378,
+      "width": 17,
+      "height": 154,
       "type": "match"
     }
   ],
