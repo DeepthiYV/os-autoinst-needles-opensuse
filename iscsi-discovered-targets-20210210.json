@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 34,
+      "ypos": 144,
+      "width": 218,
+      "type": "match",
+      "xpos": 585
+    },
+    {
+      "ypos": 631,
+      "width": 67,
+      "height": 16,
+      "xpos": 66,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-discovered-targets"
+  ]
+}
