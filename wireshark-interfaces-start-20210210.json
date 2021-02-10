@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 589,
+      "width": 62,
+      "height": 17,
+      "xpos": 904,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "wireshark-interfaces-start"
+  ]
+}
