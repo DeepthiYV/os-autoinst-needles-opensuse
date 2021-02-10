@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 823,
+      "type": "match",
+      "width": 120,
+      "ypos": 514,
+      "height": 13,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-manage-interfaces"
+  ]
+}
