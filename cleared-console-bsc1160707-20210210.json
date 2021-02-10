@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "ypos": 2,
+      "width": 13,
+      "height": 150,
+      "xpos": 96,
+      "type": "match"
+    },
+    {
+      "xpos": 96,
+      "type": "match",
+      "height": 14,
+      "width": 189,
+      "ypos": 0
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1160707: visual artifacts in the vnc console"
+    }
+  ],
+  "tags": [
+    "cleared-console",
+    "cleared-console-root"
+  ]
+}
