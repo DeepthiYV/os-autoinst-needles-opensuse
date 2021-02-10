@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 889,
+      "type": "match",
+      "width": 48,
+      "ypos": 37,
+      "height": 19
+    },
+    {
+      "height": 15,
+      "width": 35,
+      "ypos": 328,
+      "type": "match",
+      "xpos": 322,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-ext4"
+  ]
+}
