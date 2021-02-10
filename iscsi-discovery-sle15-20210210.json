@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 30,
+      "width": 232,
+      "ypos": 116,
+      "xpos": 46,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-discovery"
+  ]
+}
