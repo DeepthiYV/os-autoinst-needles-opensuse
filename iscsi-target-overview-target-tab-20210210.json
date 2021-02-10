@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 41,
+      "type": "match",
+      "height": 27,
+      "ypos": 116,
+      "width": 265
+    },
+    {
+      "type": "match",
+      "xpos": 664,
+      "height": 19,
+      "ypos": 155,
+      "width": 63
+    },
+    {
+      "height": 63,
+      "width": 493,
+      "ypos": 284,
+      "xpos": 63,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-target-overview-target-tab"
+  ]
+}
