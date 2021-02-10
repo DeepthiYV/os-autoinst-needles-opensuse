@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 798,
+      "type": "match",
+      "ypos": 537,
+      "width": 51,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-interfaces-ok"
+  ]
+}
