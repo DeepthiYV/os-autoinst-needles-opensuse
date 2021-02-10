@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 65,
+      "ypos": 112,
+      "width": 515,
+      "type": "match",
+      "xpos": 46,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-client"
+  ]
+}
