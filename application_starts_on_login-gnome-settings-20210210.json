@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 234,
+      "height": 745,
+      "ypos": 3,
+      "xpos": 3,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-settings"
+  ]
+}
