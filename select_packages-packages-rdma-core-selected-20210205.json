@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 299,
+      "ypos": 153,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 328,
+      "ypos": 153,
+      "width": 52,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "packages-rdma-core-selected"
+  ]
+}
