@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 35,
+      "ypos": 351,
+      "xpos": 271,
+      "type": "match",
+      "width": 482
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "sap-wizard-profile-ready"
+  ]
+}
