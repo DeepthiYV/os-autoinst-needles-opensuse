@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 98,
+      "width": 222,
+      "height": 75,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 112,
+      "width": 247,
+      "height": 48,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "encrypted-disk-second-password-prompt"
+  ]
+}
