@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 171,
+      "xpos": 423,
+      "type": "match",
+      "ypos": 338,
+      "height": 36
+    },
+    {
+      "width": 146,
+      "type": "match",
+      "xpos": 424,
+      "ypos": 386,
+      "height": 18
+    },
+    {
+      "width": 33,
+      "type": "match",
+      "xpos": 650,
+      "ypos": 509,
+      "height": 19
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "inst-userpasswdtoosimple"
+  ]
+}
