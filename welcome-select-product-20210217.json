@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 29,
+      "ypos": 196,
+      "type": "match",
+      "xpos": 30,
+      "width": 270
+    },
+    {
+      "ypos": 732,
+      "height": 14,
+      "width": 36,
+      "type": "match",
+      "xpos": 963
+    },
+    {
+      "ypos": 376,
+      "height": 16,
+      "width": 94,
+      "type": "match",
+      "xpos": 351
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-product"
+  ]
+}
