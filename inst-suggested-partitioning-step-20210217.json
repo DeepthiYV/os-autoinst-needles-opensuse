@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "ypos": 107,
+      "height": 35,
+      "width": 163,
+      "xpos": 132,
+      "type": "match"
+    },
+    {
+      "ypos": 668,
+      "height": 21,
+      "width": 106,
+      "xpos": 625,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 633,
+      "width": 97,
+      "height": 22,
+      "ypos": 628
+    },
+    {
+      "type": "match",
+      "xpos": 127,
+      "width": 169,
+      "height": 32,
+      "ypos": 155
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-suggested-partitioning-step"
+  ]
+}
