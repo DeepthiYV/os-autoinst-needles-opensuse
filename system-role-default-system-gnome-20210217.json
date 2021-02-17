@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 191,
+      "type": "match",
+      "xpos": 113,
+      "ypos": 111,
+      "height": 34
+    },
+    {
+      "height": 14,
+      "ypos": 193,
+      "xpos": 371,
+      "type": "match",
+      "width": 120
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-default-system"
+  ]
+}
