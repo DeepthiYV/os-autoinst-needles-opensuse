@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 253,
+      "height": 15,
+      "width": 178,
+      "type": "match",
+      "xpos": 333
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_ftp_general_directories"
+  ]
+}
