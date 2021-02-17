@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 95,
+      "height": 33,
+      "width": 144,
+      "type": "match",
+      "xpos": 13
+    },
+    {
+      "width": 108,
+      "xpos": 160,
+      "type": "match",
+      "ypos": 98,
+      "height": 27
+    },
+    {
+      "width": 35,
+      "type": "match",
+      "xpos": 968,
+      "ypos": 729,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-scheme",
+    "storage-ng"
+  ]
+}
