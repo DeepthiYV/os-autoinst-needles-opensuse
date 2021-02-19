@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 14,
+      "type": "match",
+      "width": 196,
+      "height": 15,
+      "ypos": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-addon-license-nvidia"
+  ]
+}
