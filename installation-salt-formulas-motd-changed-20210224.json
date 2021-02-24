@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 129,
+      "type": "match",
+      "height": 24,
+      "ypos": 176,
+      "xpos": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "salt-formulas-motd-changed"
+  ]
+}
