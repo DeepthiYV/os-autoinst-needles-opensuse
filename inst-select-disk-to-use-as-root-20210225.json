@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 243,
+      "type": "match",
+      "height": 48,
+      "ypos": 84,
+      "xpos": 8
+    },
+    {
+      "xpos": 370,
+      "ypos": 310,
+      "height": 34,
+      "type": "match",
+      "width": 290
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-select-disk-to-use-as-root",
+    "storage-ng"
+  ]
+}
