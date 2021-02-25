@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 90,
+      "xpos": 491,
+      "ypos": 490,
+      "height": 13
+    },
+    {
+      "width": 103,
+      "type": "match",
+      "height": 20,
+      "ypos": 175,
+      "xpos": 357
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-legacy-highlighted"
+  ]
+}
