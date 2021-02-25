@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 480,
+      "xpos": 319,
+      "height": 20,
+      "type": "match",
+      "width": 134
+    },
+    {
+      "type": "match",
+      "width": 110,
+      "xpos": 319,
+      "ypos": 257,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "import-user-data-selection"
+  ]
+}
