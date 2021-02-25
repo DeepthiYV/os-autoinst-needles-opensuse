@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 99,
+      "xpos": 361,
+      "ypos": 204,
+      "height": 11
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-serverapp"
+  ]
+}
