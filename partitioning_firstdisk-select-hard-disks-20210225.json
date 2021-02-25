@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 225,
+      "xpos": 18,
+      "type": "match",
+      "height": 35,
+      "ypos": 91
+    },
+    {
+      "height": 21,
+      "ypos": 727,
+      "xpos": 964,
+      "width": 41,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "select-hard-disks",
+    "storage-ng"
+  ]
+}
