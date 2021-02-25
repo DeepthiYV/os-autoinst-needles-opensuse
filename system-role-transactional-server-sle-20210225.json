@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 126,
+      "type": "match",
+      "height": 10,
+      "ypos": 196,
+      "xpos": 373
+    },
+    {
+      "height": 44,
+      "xpos": 391,
+      "ypos": 213,
+      "width": 556,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-default-system",
+    "system-role-serverro",
+    "system-role-serverro-selected",
+    "system-role-serverro-selected-sle"
+  ]
+}
