@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 487,
+      "ypos": 489,
+      "height": 17,
+      "type": "match",
+      "width": 163
+    },
+    {
+      "type": "match",
+      "width": 178,
+      "ypos": 177,
+      "xpos": 357,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-desktop-highlighted"
+  ]
+}
