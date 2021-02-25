@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 106,
+      "xpos": 418,
+      "ypos": 313,
+      "height": 52
+    },
+    {
+      "height": 47,
+      "xpos": 3,
+      "ypos": 82,
+      "width": 249,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "filesystem-btrfs",
+    "filesystem-btrfs-selected"
+  ]
+}
