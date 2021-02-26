@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 67,
+      "height": 608,
+      "type": "match",
+      "xpos": 5,
+      "width": 990
+    },
+    {
+      "type": "match",
+      "width": 233,
+      "xpos": 789,
+      "height": 46,
+      "ypos": 715
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}
