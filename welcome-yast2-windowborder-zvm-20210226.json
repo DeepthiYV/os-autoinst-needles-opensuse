@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 76,
+      "xpos": 165,
+      "type": "match",
+      "ypos": 1,
+      "height": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-windowborder"
+  ]
+}
