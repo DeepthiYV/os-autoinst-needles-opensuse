@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 223,
+      "width": 543,
+      "type": "match",
+      "ypos": 20,
+      "height": 24
+    },
+    {
+      "xpos": 31,
+      "ypos": 312,
+      "width": 104,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "root_user"
+  ]
+}
