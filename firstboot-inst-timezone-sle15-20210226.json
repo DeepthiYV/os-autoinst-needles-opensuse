@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "ypos": 131,
+      "height": 425,
+      "type": "match",
+      "width": 956,
+      "xpos": 37
+    },
+    {
+      "ypos": 726,
+      "height": 22,
+      "type": "match",
+      "xpos": 964,
+      "width": 40
+    },
+    {
+      "type": "match",
+      "xpos": 14,
+      "width": 233,
+      "height": 36,
+      "ypos": 10
+    },
+    {
+      "height": 51,
+      "ypos": 622,
+      "type": "match",
+      "xpos": 150,
+      "width": 73
+    },
+    {
+      "xpos": 461,
+      "width": 144,
+      "type": "match",
+      "ypos": 622,
+      "height": 50
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-timezone"
+  ]
+}
