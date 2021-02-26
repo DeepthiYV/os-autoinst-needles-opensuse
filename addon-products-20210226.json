@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 249,
+      "xpos": 59,
+      "type": "match",
+      "height": 36,
+      "ypos": 104
+    },
+    {
+      "width": 293,
+      "xpos": 470,
+      "type": "match",
+      "ypos": 219,
+      "height": 29
+    },
+    {
+      "height": 20,
+      "ypos": 727,
+      "width": 50,
+      "xpos": 956,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products",
+    "inst-addon"
+  ]
+}
