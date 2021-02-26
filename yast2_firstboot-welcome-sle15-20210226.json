@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "ypos": 18,
+      "width": 136,
+      "xpos": 219,
+      "type": "match"
+    },
+    {
+      "width": 65,
+      "xpos": 279,
+      "type": "match",
+      "ypos": 117,
+      "height": 20
+    },
+    {
+      "xpos": 32,
+      "ypos": 151,
+      "width": 72,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "welcome"
+  ]
+}
