@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 380,
+      "width": 262,
+      "height": 26,
+      "ypos": 31
+    },
+    {
+      "width": 109,
+      "xpos": 6,
+      "type": "match",
+      "ypos": 155,
+      "height": 104
+    },
+    {
+      "xpos": 157,
+      "width": 216,
+      "type": "match",
+      "height": 20,
+      "ypos": 191
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "oobase-launched"
+  ]
+}
