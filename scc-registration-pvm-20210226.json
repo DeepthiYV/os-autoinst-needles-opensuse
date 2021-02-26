@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 522,
+      "width": 131,
+      "type": "match",
+      "height": 21,
+      "ypos": 349
+    },
+    {
+      "ypos": 92,
+      "height": 60,
+      "width": 216,
+      "xpos": 97,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "scc-registration"
+  ]
+}
