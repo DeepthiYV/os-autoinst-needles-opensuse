@@ -2,15 +2,14 @@
   "area": [
     {
       "type": "match",
-      "xpos": 355,
-      "width": 114,
-      "ypos": 170,
-      "height": 13
+      "xpos": 359,
+      "width": 67,
+      "height": 14,
+      "ypos": 172
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-15ORLATER-1",
     "addon-products-pcm"
   ]
 }
