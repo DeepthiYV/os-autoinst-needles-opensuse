@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 226,
+      "width": 121,
+      "type": "match",
+      "height": 20,
+      "ypos": 206
+    },
+    {
+      "type": "match",
+      "width": 535,
+      "xpos": 227,
+      "ypos": 267,
+      "height": 55
+    },
+    {
+      "height": 14,
+      "ypos": 516,
+      "xpos": 455,
+      "width": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "release-notes-we"
+  ]
+}
