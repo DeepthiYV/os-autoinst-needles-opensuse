@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 38,
+      "width": 270,
+      "type": "match",
+      "ypos": 107,
+      "height": 75
+    },
+    {
+      "xpos": 966,
+      "ypos": 732,
+      "width": 32,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "zfcp-disk-management"
+  ]
+}
