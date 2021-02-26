@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 168,
+      "xpos": 129,
+      "ypos": 108,
+      "height": 81
+    },
+    {
+      "xpos": 406,
+      "width": 45,
+      "type": "match",
+      "ypos": 217,
+      "height": 44
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "after-partitioning"
+  ]
+}
