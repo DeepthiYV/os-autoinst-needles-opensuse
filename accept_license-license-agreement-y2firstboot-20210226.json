@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "ypos": 11,
+      "height": 34,
+      "xpos": 219,
+      "width": 228,
+      "type": "match"
+    },
+    {
+      "xpos": 273,
+      "width": 183,
+      "type": "match",
+      "ypos": 699,
+      "height": 19
+    },
+    {
+      "type": "match",
+      "width": 239,
+      "xpos": 284,
+      "ypos": 141,
+      "height": 10
+    },
+    {
+      "xpos": 35,
+      "ypos": 194,
+      "width": 122,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "value": "bcs#1158298 - Wrong font is used in License Agreement while using YaST firstboot utility",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "license-agreement"
+  ]
+}
