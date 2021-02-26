@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 27,
+      "ypos": 18,
+      "match": 91,
+      "xpos": 225,
+      "width": 126,
+      "type": "match"
+    },
+    {
+      "height": 23,
+      "ypos": 220,
+      "type": "match",
+      "match": 92,
+      "width": 109,
+      "xpos": 459
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "local_user"
+  ]
+}
