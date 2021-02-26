@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 427,
+      "width": 61,
+      "ypos": 192,
+      "height": 11
+    },
+    {
+      "width": 70,
+      "xpos": 732,
+      "type": "match",
+      "ypos": 166,
+      "height": 39
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "dasd-active"
+  ]
+}
