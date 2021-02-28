@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 11,
+      "type": "match",
+      "xpos": 369,
+      "width": 151,
+      "ypos": 490
+    },
+    {
+      "width": 185,
+      "ypos": 512,
+      "type": "match",
+      "height": 42,
+      "xpos": 390
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "system-role-xen-selected"
+  ]
+}
