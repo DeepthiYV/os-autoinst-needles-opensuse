@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 20,
+      "ypos": 223,
+      "type": "match",
+      "height": 16,
+      "xpos": 176
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "inst-network-hostname-dhcp-modified"
+  ]
+}
