@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 231,
+      "width": 63,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select_shim_efi"
+  ]
+}
