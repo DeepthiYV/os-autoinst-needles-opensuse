@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 66,
+      "type": "match",
+      "ypos": 127,
+      "xpos": 355,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "scc-beta-filter-unchecked"
+  ]
+}
