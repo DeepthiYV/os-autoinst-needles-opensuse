@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 455,
+      "type": "match",
+      "xpos": 13,
+      "height": 46,
+      "ypos": 83
+    },
+    {
+      "xpos": 103,
+      "height": 19,
+      "ypos": 164,
+      "type": "match",
+      "width": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "pattern_selector"
+  ]
+}
