@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 33,
+      "ypos": 97,
+      "xpos": 15,
+      "width": 75,
+      "type": "match"
+    },
+    {
+      "height": 58,
+      "type": "match",
+      "width": 97,
+      "xpos": 8,
+      "ypos": 164
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "salt-formula-motd-setup"
+  ]
+}
