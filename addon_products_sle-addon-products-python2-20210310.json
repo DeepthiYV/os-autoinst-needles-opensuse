@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 48,
+      "ypos": 189,
+      "xpos": 358,
+      "height": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-python2"
+  ]
+}
