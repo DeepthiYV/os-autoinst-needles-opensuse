@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 93,
+      "xpos": 5,
+      "width": 254,
+      "type": "match",
+      "height": 39
+    },
+    {
+      "height": 74,
+      "type": "match",
+      "width": 23,
+      "ypos": 415,
+      "xpos": 405
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-hard-disks-one-selected"
+  ]
+}
