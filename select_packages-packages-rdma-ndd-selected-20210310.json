@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 296,
+      "ypos": 139,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 323,
+      "ypos": 139,
+      "width": 54,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "packages-rdma-ndd-selected"
+  ]
+}
