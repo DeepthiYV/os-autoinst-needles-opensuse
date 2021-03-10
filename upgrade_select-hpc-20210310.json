@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 277,
+      "type": "match",
+      "height": 49,
+      "xpos": 43,
+      "ypos": 104
+    },
+    {
+      "type": "match",
+      "width": 157,
+      "xpos": 357,
+      "height": 16,
+      "ypos": 178
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-for-update"
+  ]
+}
