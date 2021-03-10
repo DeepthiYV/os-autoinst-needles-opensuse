@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 58,
+      "ypos": 109,
+      "width": 252,
+      "height": 84,
+      "type": "match"
+    },
+    {
+      "xpos": 957,
+      "ypos": 727,
+      "width": 50,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-product-installation"
+  ]
+}
