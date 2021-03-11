@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 34,
+      "ypos": 428,
+      "xpos": 324,
+      "height": 10
+    },
+    {
+      "type": "match",
+      "width": 141,
+      "xpos": 497,
+      "ypos": 427,
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "packages-samba-selected"
+  ]
+}
