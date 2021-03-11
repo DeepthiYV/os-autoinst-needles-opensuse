@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 521,
+      "type": "match",
+      "width": 126,
+      "height": 21,
+      "xpos": 96
+    },
+    {
+      "ypos": 171,
+      "xpos": 391,
+      "type": "match",
+      "width": 183,
+      "height": 21
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-yast-desktop"
+  ]
+}
