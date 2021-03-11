@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 443,
+      "ypos": 318,
+      "width": 138,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-quit-and-close-tabs"
+  ]
+}
