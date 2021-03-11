@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "xpos": 361,
+      "ypos": 395,
+      "width": 337,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "width": 38,
+      "xpos": 534,
+      "ypos": 393,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "before-select-product-bcl"
+  ]
+}
