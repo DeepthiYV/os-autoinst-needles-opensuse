@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 137,
+      "ypos": 270,
+      "width": 187,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "firewall-config"
+  ]
+}
