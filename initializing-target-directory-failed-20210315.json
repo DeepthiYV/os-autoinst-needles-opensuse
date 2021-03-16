@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 145,
+      "ypos": 189,
+      "width": 180,
+      "height": 84,
+      "type": "match"
+    },
+    {
+      "xpos": 410,
+      "ypos": 359,
+      "width": 203,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "initializing-target-directory-failed"
+  ]
+}
