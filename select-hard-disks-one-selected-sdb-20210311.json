@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 93,
+      "xpos": 5,
+      "height": 39,
+      "type": "match",
+      "width": 254
+    },
+    {
+      "ypos": 386,
+      "type": "match",
+      "width": 25,
+      "xpos": 403,
+      "height": 89
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "select-hard-disks-one-selected"
+  ]
+}
