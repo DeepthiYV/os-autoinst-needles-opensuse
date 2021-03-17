@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 200,
+      "type": "match",
+      "ypos": 32,
+      "xpos": 13,
+      "height": 16
+    },
+    {
+      "height": 474,
+      "ypos": 63,
+      "xpos": 53,
+      "width": 472,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "refreshing-repository"
+  ]
+}
