@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 237,
+      "xpos": 13,
+      "height": 35,
+      "ypos": 93
+    },
+    {
+      "ypos": 447,
+      "width": 70,
+      "type": "match",
+      "height": 16,
+      "xpos": 409
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hard-disk-dev-sdb-not-selected"
+  ]
+}
