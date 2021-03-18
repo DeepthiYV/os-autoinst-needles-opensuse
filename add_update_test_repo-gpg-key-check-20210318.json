@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 544,
+      "ypos": 228,
+      "width": 192,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 561,
+      "ypos": 526,
+      "width": 159,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-key-check"
+  ]
+}
