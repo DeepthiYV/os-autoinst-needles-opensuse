@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 554,
+      "ypos": 571,
+      "width": 90,
+      "height": 22,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-youtube-signin"
+  ]
+}
