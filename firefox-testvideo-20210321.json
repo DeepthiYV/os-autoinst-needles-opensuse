@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 240,
+      "type": "match",
+      "height": 86,
+      "ypos": 208,
+      "xpos": 225,
+      "match": 85
+    },
+    {
+      "xpos": 114,
+      "ypos": 479,
+      "type": "match",
+      "width": 386,
+      "height": 25,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-testvideo"
+  ]
+}
