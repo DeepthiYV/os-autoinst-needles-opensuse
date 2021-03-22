@@ -1,22 +1,23 @@
 {
   "area": [
     {
-      "xpos": 535,
-      "ypos": 224,
+      "xpos": 513,
+      "ypos": 239,
+      "type": "match",
       "width": 214,
-      "height": 19,
-      "type": "match"
+      "height": 19
     },
     {
-      "xpos": 552,
-      "ypos": 521,
+      "ypos": 506,
+      "xpos": 530,
       "width": 154,
-      "height": 39,
-      "type": "match"
+      "type": "match",
+      "height": 39
     }
   ],
   "properties": [],
   "tags": [
+    "import-known-untrusted-gpg-key",
     "import-untrusted-gpg-key"
   ]
 }
