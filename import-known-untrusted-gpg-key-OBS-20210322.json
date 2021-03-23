@@ -17,6 +17,7 @@
   ],
   "properties": [],
   "tags": [
-    "import-known-untrusted-gpg-key"
+    "import-known-untrusted-gpg-key",
+    "import-untrusted-gpg-key"
   ]
 }
