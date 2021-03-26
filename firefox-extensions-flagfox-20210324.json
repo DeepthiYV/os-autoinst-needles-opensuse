@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 419,
+      "width": 37,
+      "click_point": {
+        "xpos": 17.5,
+        "ypos": 20
+      },
+      "type": "match",
+      "height": 40,
+      "ypos": 413
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extensions-flagfox"
+  ]
+}
