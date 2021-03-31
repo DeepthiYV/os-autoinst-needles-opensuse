@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 372,
+      "height": 34,
+      "type": "match",
+      "xpos": 319,
+      "ypos": 397,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-accept-youtube-cookies"
+  ]
+}
