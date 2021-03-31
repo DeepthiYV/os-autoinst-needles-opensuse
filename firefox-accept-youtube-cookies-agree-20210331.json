@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 658,
+      "ypos": 659,
+      "width": 63,
+      "height": 21,
+      "type": "match",
+      "click_point": {
+        "xpos": 31.5,
+        "ypos": 10.5
+      },
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-accept-youtube-cookies-agree"
+  ]
+}
