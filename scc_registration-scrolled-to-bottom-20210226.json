@@ -2,14 +2,15 @@
   "area": [
     {
       "width": 40,
+      "height": 44,
       "xpos": 973,
       "type": "match",
-      "height": 44,
       "ypos": 506
     }
   ],
   "properties": [],
   "tags": [
+    "ENV-VERSION-15-SP3",
     "scrolled-to-bottom"
   ]
 }
