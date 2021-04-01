@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 243,
+      "ypos": 15,
+      "width": 350,
+      "height": 34
+    },
+    {
+      "height": 18,
+      "width": 160,
+      "ypos": 125,
+      "xpos": 49,
+      "type": "match"
+    },
+    {
+      "width": 154,
+      "height": 65,
+      "xpos": 459,
+      "type": "match",
+      "ypos": 242
+    },
+    {
+      "height": 102,
+      "width": 153,
+      "ypos": 328,
+      "type": "match",
+      "xpos": 459
+    },
+    {
+      "ypos": 376,
+      "type": "exclude",
+      "xpos": 496,
+      "height": 32,
+      "width": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "lang_and_keyboard"
+  ]
+}
