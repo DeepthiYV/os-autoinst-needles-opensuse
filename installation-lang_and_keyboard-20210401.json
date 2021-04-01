@@ -1,29 +1,30 @@
 {
   "area": [
     {
-      "xpos": 243,
-      "type": "match",
-      "ypos": 85,
       "width": 350,
-      "height": 34
-    },
-    {
-      "width": 160,
-      "height": 18,
-      "xpos": 49,
+      "height": 34,
       "type": "match",
-      "ypos": 125
+      "xpos": 243,
+      "ypos": 15
     },
     {
-      "height": 65,
-      "width": 154,
-      "ypos": 282,
-      "xpos": 459,
+      "height": 18,
+      "width": 160,
+      "ypos": 125,
+      "xpos": 49,
       "type": "match"
+    },
+    {
+      "width": 154,
+      "height": 65,
+      "type": "match",
+      "xpos": 459,
+      "ypos": 242
     }
   ],
   "properties": [],
   "tags": [
+    "ENV-15ORLATER-1",
     "lang_and_keyboard"
   ]
 }
