@@ -12,7 +12,8 @@
   "tags": [
     "ENV-15ORLATER-1",
     "gnome-control-center",
-    "gnome-control-center-started",
-    "gnome-control-center-new-layout"
+    "gnome-control-center-detail-layout",
+    "gnome-control-center-new-layout",
+    "gnome-control-center-started"
   ]
 }
