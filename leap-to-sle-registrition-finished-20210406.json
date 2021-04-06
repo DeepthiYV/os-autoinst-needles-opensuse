@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 0,
+      "width": 123,
+      "height": 768,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "leap-to-sle-registrition-finished"
+  ]
+}
