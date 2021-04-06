@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "ypos": 745,
+      "xpos": 12,
+      "width": 53
+    },
+    {
+      "width": 45,
+      "xpos": 684,
+      "click_point": {
+        "ypos": 9.5,
+        "xpos": 22.5
+      },
+      "height": 19,
+      "type": "match",
+      "ypos": 430
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_cancel_send-message"
+  ]
+}

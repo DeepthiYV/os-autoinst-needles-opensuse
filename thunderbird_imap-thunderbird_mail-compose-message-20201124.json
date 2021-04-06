@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 42,
+      "xpos": 401,
+      "ypos": 35,
+      "type": "match",
+      "height": 18
+    },
+    {
+      "width": 241,
+      "ypos": 143,
+      "type": "match",
+      "height": 23,
+      "xpos": 95
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_mail-compose-message"
+  ]
+}
