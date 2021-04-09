@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 133,
+      "width": 180,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-bootmanager-dvd"
+  ]
+}
