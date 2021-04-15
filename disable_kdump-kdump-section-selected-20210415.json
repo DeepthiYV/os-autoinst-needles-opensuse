@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "xpos": 355,
+      "width": 58,
+      "ypos": 693,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kdump-section-selected"
+  ]
+}

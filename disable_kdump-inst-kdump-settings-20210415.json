@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 35,
+      "width": 246,
+      "xpos": 295,
+      "ypos": 93,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-kdump-settings"
+  ]
+}
