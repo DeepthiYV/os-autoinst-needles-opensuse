@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 350,
+      "width": 284,
+      "xpos": 368,
+      "height": 40
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "license-not-accepted"
+  ]
+}
