@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 2,
+      "width": 44,
+      "xpos": 249,
+      "height": 73
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "desktop-runner-plasma-suggestions"
+  ]
+}
