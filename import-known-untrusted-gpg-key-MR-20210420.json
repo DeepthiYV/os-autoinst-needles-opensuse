@@ -1,0 +1,39 @@
+{
+  "area": [
+    {
+      "ypos": 668,
+      "type": "match",
+      "height": 17,
+      "width": 195,
+      "xpos": 9
+    },
+    {
+      "type": "match",
+      "ypos": 678,
+      "xpos": 454,
+      "width": 49,
+      "height": 10
+    },
+    {
+      "xpos": 472,
+      "ypos": 306,
+      "width": 57,
+      "height": 14,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 558,
+      "ypos": 242,
+      "width": 213,
+      "height": 15,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "import-known-untrusted-gpg-key",
+    "import-untrusted-gpg-key"
+  ]
+}
