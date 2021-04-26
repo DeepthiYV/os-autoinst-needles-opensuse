@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 504,
+      "type": "match",
+      "width": 91,
+      "height": 20,
+      "ypos": 335
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-userpasswdtoosimple"
+  ]
+}
