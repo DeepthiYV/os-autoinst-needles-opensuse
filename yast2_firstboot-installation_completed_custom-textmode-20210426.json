@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 30,
+      "height": 28,
+      "width": 195,
+      "type": "match",
+      "xpos": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation_completed_custom"
+  ]
+}
