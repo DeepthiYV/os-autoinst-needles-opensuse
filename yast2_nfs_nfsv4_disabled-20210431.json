@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 243,
+      "width": 146,
+      "height": 31,
+      "ypos": 419
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nfsv4-disabled"
+  ]
+}
