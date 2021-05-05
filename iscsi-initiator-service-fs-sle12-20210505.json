@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 346,
+      "ypos": 97,
+      "height": 70,
+      "xpos": 13
+    },
+    {
+      "ypos": 406,
+      "width": 81,
+      "type": "match",
+      "xpos": 258,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-service-fs"
+  ]
+}
