@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 404,
+      "ypos": 436,
+      "width": 91,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "hard-disk-dev-pmem5-selected",
+    "storage-ng"
+  ]
+}
