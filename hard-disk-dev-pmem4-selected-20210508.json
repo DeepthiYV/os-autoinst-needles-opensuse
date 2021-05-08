@@ -5,7 +5,11 @@
       "type": "match",
       "width": 90,
       "ypos": 411,
-      "xpos": 405
+      "xpos": 405,
+      "click_point": {
+        "xpos": 8,
+        "ypos": 7
+      }
     }
   ],
   "properties": [],
