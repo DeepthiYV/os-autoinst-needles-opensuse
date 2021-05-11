@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 65,
+      "xpos": 2,
+      "height": 13,
+      "width": 305
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "w3m-connect-google-webpage"
+  ]
+}
