@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 92,
+      "type": "match",
+      "height": 15,
+      "width": 72,
+      "ypos": 705
+    },
+    {
+      "xpos": 757,
+      "ypos": 206,
+      "width": 91,
+      "height": 13,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-appearance-addto"
+  ]
+}
