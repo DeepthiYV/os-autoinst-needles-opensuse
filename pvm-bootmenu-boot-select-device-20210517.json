@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 54,
+      "ypos": 431,
+      "xpos": 8,
+      "height": 63
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-bootmenu-boot-select-device"
+  ]
+}
