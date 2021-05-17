@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 104,
+      "xpos": 577,
+      "ypos": 654,
+      "height": 18,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kernel-saved"
+  ]
+}
