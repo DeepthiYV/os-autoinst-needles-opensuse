@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 189,
+      "xpos": 2,
+      "ypos": 721,
+      "height": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "novalink-successful-first-boot"
+  ]
+}
