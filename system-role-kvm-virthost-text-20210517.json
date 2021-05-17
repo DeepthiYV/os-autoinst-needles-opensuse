@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 259,
+      "ypos": 380,
+      "height": 54,
+      "type": "match",
+      "width": 307
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "system-role-kvm-selected",
+    "system-role-kvm-virthost"
+  ]
+}
