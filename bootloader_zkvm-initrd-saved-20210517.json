@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 101,
+      "type": "match",
+      "height": 17,
+      "xpos": 579,
+      "ypos": 398,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "initrd-saved"
+  ]
+}
