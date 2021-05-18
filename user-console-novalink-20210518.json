@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 10,
+      "width": 35,
+      "xpos": 136,
+      "ypos": 193
+    },
+    {
+      "type": "match",
+      "height": 13,
+      "width": 55,
+      "xpos": 0,
+      "ypos": 194
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "user-console",
+    "novalink-ssh"
+  ]
+}
