@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 54,
+      "xpos": 1,
+      "type": "match",
+      "height": 10,
+      "ypos": 195
+    },
+    {
+      "ypos": 191,
+      "height": 14,
+      "type": "match",
+      "xpos": 131,
+      "width": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "text-logged-in-padmin"
+  ]
+}
