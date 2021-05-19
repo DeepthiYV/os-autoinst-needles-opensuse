@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "type": "match",
+      "xpos": 176,
+      "width": 146,
+      "ypos": 252
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-select-vol-management"
+  ]
+}
