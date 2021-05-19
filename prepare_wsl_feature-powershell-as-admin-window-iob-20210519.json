@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 217,
+      "ypos": 741,
+      "type": "match",
+      "xpos": 69,
+      "height": 10
+    },
+    {
+      "xpos": 233,
+      "height": 12,
+      "type": "match",
+      "ypos": 75,
+      "width": 144
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "powershell-as-admin-window"
+  ]
+}
