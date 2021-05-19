@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 442,
+      "width": 119,
+      "type": "match",
+      "height": 29,
+      "xpos": 577
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "logout-button"
+  ]
+}
