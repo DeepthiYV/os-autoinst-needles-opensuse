@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 302,
+      "ypos": 138,
+      "height": 28,
+      "xpos": 145,
+      "type": "match"
+    },
+    {
+      "xpos": 356,
+      "height": 27,
+      "type": "match",
+      "width": 66,
+      "ypos": 223
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "root-gnome-terminal"
+  ]
+}
