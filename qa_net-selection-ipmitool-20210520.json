@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 445,
+      "ypos": 16,
+      "type": "match",
+      "xpos": 92,
+      "height": 46
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qa-net-selection",
+    "qa-net-selection-ipmitool"
+  ]
+}
