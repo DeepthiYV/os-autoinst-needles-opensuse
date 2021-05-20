@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 534,
+      "ypos": 138,
+      "height": 390,
+      "xpos": 252,
+      "type": "match"
+    },
+    {
+      "ypos": 435,
+      "width": 38,
+      "type": "exclude",
+      "xpos": 353,
+      "height": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-login"
+  ]
+}
