@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "ypos": 354,
+      "type": "match",
+      "width": 213,
+      "xpos": 27
+    },
+    {
+      "height": 14,
+      "ypos": 33,
+      "type": "match",
+      "xpos": 16,
+      "width": 88
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "system-role-xen-focused"
+  ]
+}
