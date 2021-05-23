@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "type": "match",
+      "xpos": 16,
+      "ypos": 34,
+      "width": 154
+    },
+    {
+      "xpos": 977,
+      "ypos": 755,
+      "width": 45,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "partition-scheme",
+    "storage-ng"
+  ]
+}
