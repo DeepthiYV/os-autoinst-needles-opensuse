@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 18,
+      "width": 151,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 34,
+      "width": 150,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 219,
+      "ypos": 66,
+      "width": 43,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "guest-console-text-login"
+  ]
+}
