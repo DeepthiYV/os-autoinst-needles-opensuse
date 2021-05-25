@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 353,
+      "height": 12,
+      "type": "match",
+      "width": 145
+    },
+    {
+      "type": "match",
+      "width": 94,
+      "xpos": 361,
+      "height": 28,
+      "ypos": 369
+    },
+    {
+      "type": "match",
+      "width": 81,
+      "xpos": 574,
+      "ypos": 353,
+      "height": 11
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "select-hard-disks-one-selected"
+  ]
+}
