@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 57,
+      "ypos": 141,
+      "xpos": 230,
+      "width": 433,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-migration-upgrading"
+  ]
+}
