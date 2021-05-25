@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 438,
+      "ypos": 234,
+      "width": 148,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 323,
+      "ypos": 270,
+      "width": 89,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 454,
+      "ypos": 525,
+      "width": 30,
+      "height": 19,
+      "type": "match",
+      "click_point": {
+        "xpos": 15,
+        "ypos": 9.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-welcome-gpg-invalid"
+  ]
+}

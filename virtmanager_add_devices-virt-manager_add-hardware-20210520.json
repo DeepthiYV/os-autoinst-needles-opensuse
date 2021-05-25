@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 318,
+      "height": 20,
+      "type": "match",
+      "xpos": 369,
+      "width": 293
+    },
+    {
+      "click_point": {
+        "xpos": 15,
+        "ypos": 8
+      },
+      "ypos": 490,
+      "type": "match",
+      "height": 16,
+      "width": 30,
+      "xpos": 407
+    },
+    {
+      "ypos": 348,
+      "type": "match",
+      "height": 14,
+      "width": 202,
+      "xpos": 361
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_add-hardware-noliveattach"
+  ]
+}
