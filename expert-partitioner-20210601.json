@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 66,
+      "ypos": 157,
+      "width": 63,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "expert-partitioner",
+    "storage-ng"
+  ]
+}
