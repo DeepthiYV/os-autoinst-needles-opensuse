@@ -2,24 +2,24 @@
   "area": [
     {
       "width": 276,
-      "xpos": 45,
-      "ypos": 193,
-      "height": 39,
-      "type": "match"
-    },
-    {
+      "xpos": 730,
+      "type": "match",
       "ypos": 675,
-      "xpos": 348,
-      "width": 126,
-      "type": "match",
-      "height": 21
+      "height": 39
     },
     {
-      "ypos": 172,
-      "xpos": 357,
-      "width": 173,
+      "ypos": 677,
+      "height": 21,
+      "xpos": 353,
       "type": "match",
-      "height": 12
+      "width": 126
+    },
+    {
+      "type": "match",
+      "xpos": 376,
+      "ypos": 181,
+      "height": 10,
+      "width": 173
     }
   ],
   "properties": [],
