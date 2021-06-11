@@ -2,29 +2,17 @@
   "area": [
     {
       "xpos": 245,
-      "type": "exclude",
+      "type": "match",
       "height": 20,
       "ypos": 205,
       "width": 126,
-      "click_point": {
-        "xpos": 63,
-        "ypos": 10
-      },
-      "match": 90
-    },
-    {
-      "width": 48,
-      "height": 19,
-      "ypos": 563,
-      "xpos": 456,
-      "type": "match",
-      "match": 90
+      "match": 85
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-15SP1ORLATER-1",
     "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
     "startinstall"
   ]
 }
