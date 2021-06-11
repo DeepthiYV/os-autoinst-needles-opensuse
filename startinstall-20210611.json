@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 245,
+      "type": "exclude",
+      "height": 20,
+      "ypos": 205,
+      "width": 126,
+      "click_point": {
+        "xpos": 63,
+        "ypos": 10
+      },
+      "match": 90
+    },
+    {
+      "width": 48,
+      "height": 19,
+      "ypos": 563,
+      "xpos": 456,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "startinstall"
+  ]
+}
