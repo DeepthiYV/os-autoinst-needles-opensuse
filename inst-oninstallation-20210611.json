@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 181,
+      "ypos": 190,
+      "height": 38,
+      "xpos": 244,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-oninstallation"
+  ]
+}
