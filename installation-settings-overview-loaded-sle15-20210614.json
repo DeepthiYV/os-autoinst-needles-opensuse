@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 192,
+      "height": 41,
+      "xpos": 23,
+      "width": 299,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "ypos": 728,
+      "type": "match",
+      "width": 66,
+      "xpos": 939,
+      "height": 22,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "installation-settings-overview-loaded"
+  ]
+}
