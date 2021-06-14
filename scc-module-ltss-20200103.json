@@ -5,7 +5,8 @@
       "type": "match",
       "width": 200,
       "xpos": 380,
-      "height": 17
+      "height": 17,
+      "match": 90
     }
   ],
   "properties": [],
