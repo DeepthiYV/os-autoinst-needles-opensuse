@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 333,
+      "xpos": 400,
+      "width": 128,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-blocked"
+  ]
+}
