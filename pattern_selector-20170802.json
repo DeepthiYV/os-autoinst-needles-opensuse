@@ -2,22 +2,24 @@
   "area": [
     {
       "type": "match",
-      "xpos": 29,
       "width": 593,
-      "ypos": 90,
-      "height": 46
+      "xpos": 29,
+      "height": 46,
+      "ypos": 91,
+      "match": 90
     },
     {
-      "height": 34,
-      "xpos": 102,
-      "ypos": 147,
       "width": 145,
-      "type": "match"
+      "xpos": 102,
+      "height": 34,
+      "type": "match",
+      "ypos": 150,
+      "match": 90
     }
   ],
+  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "pattern_selector"
-  ],
-  "properties": []
+  ]
 }
