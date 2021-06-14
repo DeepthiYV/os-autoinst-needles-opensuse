@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 148,
+      "width": 307,
+      "xpos": 701,
+      "height": 29,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "inst-bootloader-options-highlighted"
+  ]
+}
