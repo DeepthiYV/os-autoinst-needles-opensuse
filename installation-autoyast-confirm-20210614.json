@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "ypos": 731,
+      "height": 17,
+      "xpos": 955,
+      "width": 42,
+      "type": "match"
+    },
+    {
+      "ypos": 105,
+      "type": "match",
+      "xpos": 131,
+      "width": 168,
+      "height": 37,
+      "match": 90
+    },
+    {
+      "type": "match",
+      "height": 31,
+      "xpos": 173,
+      "width": 127,
+      "ypos": 157,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "autoyast-confirm"
+  ]
+}
