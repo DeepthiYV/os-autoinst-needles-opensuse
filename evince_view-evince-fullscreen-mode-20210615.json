@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "width": 1024,
+      "height": 59,
+      "ypos": 0
+    }
+  ],
+  "properties": [
+    {
+      "value": "bsc#1180057 poo#80976",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evince-fullscreen-mode"
+  ]
+}
