@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 303,
+      "width": 118,
+      "xpos": 361,
+      "height": 13,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "scc-module-contm"
+  ]
+}
