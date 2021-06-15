@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 194,
+      "xpos": 42,
+      "width": 274,
+      "height": 35,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "ypos": 179,
+      "height": 13,
+      "width": 241,
+      "xpos": 382,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-addon-license-wsm"
+  ]
+}
