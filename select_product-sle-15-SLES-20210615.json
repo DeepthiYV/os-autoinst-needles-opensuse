@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 47,
+      "xpos": 52,
+      "width": 270,
+      "ypos": 264,
+      "match": 80
+    },
+    {
+      "height": 22,
+      "width": 55,
+      "xpos": 943,
+      "type": "match",
+      "ypos": 727
+    },
+    {
+      "type": "match",
+      "height": 16,
+      "xpos": 351,
+      "width": 94,
+      "ypos": 433,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "select-product"
+  ]
+}
