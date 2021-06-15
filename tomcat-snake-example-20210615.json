@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 146,
+      "height": 112,
+      "width": 273,
+      "xpos": 659,
+      "type": "match",
+      "match": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-snake-example"
+  ]
+}
