@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 282,
+      "type": "match",
+      "width": 65,
+      "xpos": 612,
+      "height": 28,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tweak-addapp-2startup"
+  ]
+}
