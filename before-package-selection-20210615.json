@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 190,
+      "type": "match",
+      "height": 42,
+      "xpos": 152,
+      "width": 164
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "before-package-selection"
+  ]
+}
