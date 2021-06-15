@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 369,
+      "width": 190,
+      "height": 12,
+      "ypos": 457
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-product-sles"
+  ]
+}
