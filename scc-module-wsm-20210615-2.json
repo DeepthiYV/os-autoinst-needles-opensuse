@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 504,
+      "type": "match",
+      "height": 14,
+      "width": 150,
+      "xpos": 365,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-wsm",
+    "scc-module-script"
+  ]
+}
