@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 334,
+      "xpos": 465,
+      "width": 179,
+      "height": 31,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "ypos": 238,
+      "type": "match",
+      "height": 21,
+      "xpos": 460,
+      "width": 185,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "import-untrusted-gpg-key",
+    "import-known-untrusted-gpg-key",
+    "import-trusted-gpg-key-nvidia-F5113243C66B6EAE"
+  ]
+}
