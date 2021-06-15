@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 205,
+      "type": "match",
+      "xpos": 315,
+      "width": 85,
+      "height": 21
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_meeting-view-new"
+  ]
+}
