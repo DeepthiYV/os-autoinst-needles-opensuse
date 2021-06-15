@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 163,
+      "xpos": 8,
+      "width": 382,
+      "type": "match",
+      "ypos": 315,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-panels-using-tag-files"
+  ]
+}
