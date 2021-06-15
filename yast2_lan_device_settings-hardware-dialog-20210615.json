@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 14,
+      "width": 123,
+      "height": 16,
+      "ypos": 32,
+      "match": 90
+    },
+    {
+      "ypos": 208,
+      "height": 15,
+      "xpos": 263,
+      "width": 87,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hardware-dialog"
+  ]
+}
