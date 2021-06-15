@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 13,
+      "xpos": 494,
+      "height": 32,
+      "ypos": 450,
+      "match": 90
+    },
+    {
+      "xpos": 492,
+      "width": 125,
+      "height": 19,
+      "type": "match",
+      "ypos": 574,
+      "match": 90
+    },
+    {
+      "ypos": 196,
+      "height": 29,
+      "width": 237,
+      "xpos": 80,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-menu-active"
+  ]
+}
