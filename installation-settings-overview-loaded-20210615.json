@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 181,
+      "type": "match",
+      "height": 53,
+      "xpos": 21,
+      "width": 307
+    },
+    {
+      "ypos": 726,
+      "height": 25,
+      "width": 71,
+      "xpos": 943,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "installation-settings-overview-loaded"
+  ]
+}
