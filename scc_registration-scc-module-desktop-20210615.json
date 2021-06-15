@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 22,
+      "width": 176,
+      "xpos": 361,
+      "ypos": 281
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-desktop"
+  ]
+}
