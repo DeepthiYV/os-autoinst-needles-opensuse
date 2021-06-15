@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 118,
+      "width": 399,
+      "xpos": 1,
+      "ypos": 2,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-fullscreen-enter"
+  ]
+}
