@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 628,
+      "type": "match",
+      "height": 21,
+      "width": 77,
+      "xpos": 642
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "edit-proposal-settings",
+    "storage-ng"
+  ]
+}
