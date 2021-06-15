@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 410,
+      "type": "match",
+      "height": 17,
+      "xpos": 361,
+      "width": 46,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_rmt_service_status"
+  ]
+}
