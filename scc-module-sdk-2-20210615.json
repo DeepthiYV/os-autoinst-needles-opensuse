@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "width": 276,
+      "xpos": 361,
+      "type": "match",
+      "ypos": 217,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-sdk"
+  ]
+}
