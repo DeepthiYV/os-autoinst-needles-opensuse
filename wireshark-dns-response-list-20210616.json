@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "xpos": 716,
+      "width": 208,
+      "type": "match",
+      "ypos": 184,
+      "match": 90
+    },
+    {
+      "height": 13,
+      "xpos": 590,
+      "width": 26,
+      "type": "match",
+      "ypos": 184,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-dns-response-list"
+  ]
+}
