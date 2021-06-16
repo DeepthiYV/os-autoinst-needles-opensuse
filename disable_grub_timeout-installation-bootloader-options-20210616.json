@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 39,
+      "xpos": 665,
+      "ypos": 134,
+      "width": 331,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "installation-bootloader-options"
+  ]
+}
