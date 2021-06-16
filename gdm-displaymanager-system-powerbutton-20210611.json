@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "xpos": 31.5,
+        "ypos": 26
+      },
+      "width": 63,
+      "height": 52,
+      "type": "match",
+      "xpos": 830,
+      "ypos": 151
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "displaymanager-system-powerbutton"
+  ]
+}
