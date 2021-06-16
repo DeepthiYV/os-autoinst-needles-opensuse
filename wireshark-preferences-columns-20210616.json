@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 62,
+      "type": "match",
+      "ypos": 172,
+      "height": 17,
+      "xpos": 207,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "wireshark-preferences-columns"
+  ]
+}
