@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 360,
+      "type": "match",
+      "width": 176,
+      "xpos": 360,
+      "height": 12,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-desktop"
+  ]
+}
