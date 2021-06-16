@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 374,
+      "width": 81,
+      "type": "match",
+      "height": 13,
+      "xpos": 125,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-discovery-auth-initiators-username"
+  ]
+}
