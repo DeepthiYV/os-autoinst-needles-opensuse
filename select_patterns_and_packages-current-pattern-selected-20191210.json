@@ -8,11 +8,12 @@
       "height": 10
     },
     {
-      "xpos": 32,
       "ypos": 254,
       "width": 17,
+      "type": "match",
       "height": 36,
-      "type": "match"
+      "xpos": 32,
+      "match": 90
     }
   ],
   "properties": [],
