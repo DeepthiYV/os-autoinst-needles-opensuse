@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "xpos": 487,
+      "ypos": 492,
+      "width": 110,
+      "type": "match"
+    },
+    {
+      "height": 20,
+      "xpos": 359,
+      "width": 121,
+      "type": "match",
+      "ypos": 159
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-contm-highlighted"
+  ]
+}
