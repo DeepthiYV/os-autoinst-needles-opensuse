@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 119,
+      "type": "match",
+      "xpos": 452,
+      "ypos": 325,
+      "width": 120
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "alt-tab-gedit"
+  ]
+}
