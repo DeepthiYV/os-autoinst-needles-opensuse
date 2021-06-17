@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 340,
+      "width": 87,
+      "type": "match",
+      "height": 11,
+      "xpos": 401
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-custom-size-selected",
+    "storage-ng"
+  ]
+}
