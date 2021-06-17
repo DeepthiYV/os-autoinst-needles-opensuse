@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 93,
+      "type": "match",
+      "width": 400,
+      "xpos": 3,
+      "height": 34
+    },
+    {
+      "xpos": 425,
+      "height": 18,
+      "type": "match",
+      "width": 140,
+      "ypos": 395
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "create-new-partition-table",
+    "ENV-15ORLATER-1",
+    "storage-ng"
+  ]
+}
