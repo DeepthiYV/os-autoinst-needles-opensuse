@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 208,
+      "type": "match",
+      "width": 309,
+      "xpos": 29,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-asmm"
+  ]
+}
