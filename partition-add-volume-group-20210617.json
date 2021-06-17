@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 38,
+      "xpos": 9,
+      "width": 289,
+      "type": "match",
+      "ypos": 94
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-add-volume-group"
+  ]
+}
