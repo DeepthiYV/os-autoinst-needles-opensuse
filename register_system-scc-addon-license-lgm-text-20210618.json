@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "type": "match",
+      "ypos": 30,
+      "width": 117,
+      "height": 23
+    },
+    {
+      "ypos": 28,
+      "type": "match",
+      "xpos": 197,
+      "width": 146,
+      "height": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-addon-license-lgm"
+  ]
+}
