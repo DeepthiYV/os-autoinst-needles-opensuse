@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "ypos": 693,
+      "xpos": 412,
+      "type": "match",
+      "width": 117
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "add-logical-volume"
+  ]
+}
