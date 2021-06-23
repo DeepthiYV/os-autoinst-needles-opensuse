@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 100,
+      "xpos": 15,
+      "height": 22,
+      "type": "match",
+      "width": 406
+    },
+    {
+      "width": 111,
+      "type": "match",
+      "height": 11,
+      "xpos": 436,
+      "ypos": 396
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-STORAGE_NG-1",
+    "volume-pick-os-role"
+  ]
+}
