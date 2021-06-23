@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "xpos": 66,
+      "ypos": 252,
+      "width": 42,
+      "type": "match"
+    },
+    {
+      "height": 15,
+      "xpos": 340,
+      "ypos": 149,
+      "width": 126,
+      "type": "match"
+    },
+    {
+      "xpos": 649,
+      "ypos": 177,
+      "height": 28,
+      "width": 221,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-disk_vdd_with_partitions-selected"
+  ]
+}
