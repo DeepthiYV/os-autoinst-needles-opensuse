@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 531,
+      "ypos": 249,
+      "xpos": 414,
+      "height": 97
+    },
+    {
+      "ypos": 276,
+      "xpos": 427,
+      "height": 22,
+      "width": 70,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "zfcp-channel-select"
+  ]
+}
