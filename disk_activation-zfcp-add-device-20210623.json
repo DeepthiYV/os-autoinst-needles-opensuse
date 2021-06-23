@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 82,
+      "ypos": 186,
+      "height": 86,
+      "type": "match",
+      "width": 241
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "zfcp-add-device"
+  ]
+}
