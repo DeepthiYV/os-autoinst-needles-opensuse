@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "ypos": 191,
+      "xpos": 144,
+      "height": 41,
+      "type": "match",
+      "width": 152
+    },
+    {
+      "height": 31,
+      "xpos": 514,
+      "ypos": 182,
+      "type": "match",
+      "width": 135
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-generalhw",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "installation",
+    "inst-returned-to-yast",
+    "inst-usersetup"
+  ]
+}
