@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 198,
+      "height": 21,
+      "ypos": 146,
+      "xpos": 339
+    },
+    {
+      "height": 12,
+      "xpos": 948,
+      "ypos": 723,
+      "type": "match",
+      "width": 60
+    },
+    {
+      "ypos": 261,
+      "xpos": 82,
+      "height": 10,
+      "type": "match",
+      "width": 59
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partition-select-vg-vg-system"
+  ]
+}
