@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "xpos": 958,
+      "ypos": 722,
+      "type": "match",
+      "width": 51
+    },
+    {
+      "xpos": 312,
+      "ypos": 145,
+      "height": 23,
+      "type": "match",
+      "width": 201
+    },
+    {
+      "height": 10,
+      "xpos": 82,
+      "ypos": 276,
+      "width": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-select-vg-vg-thin"
+  ]
+}
