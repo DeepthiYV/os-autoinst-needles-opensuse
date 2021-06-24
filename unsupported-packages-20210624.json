@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 160,
+      "type": "match",
+      "xpos": 41,
+      "ypos": 174,
+      "height": 21
+    },
+    {
+      "height": 19,
+      "ypos": 136,
+      "xpos": 391,
+      "type": "match",
+      "width": 136
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "unsupported-packages"
+  ]
+}
