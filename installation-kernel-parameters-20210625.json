@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 377,
+      "height": 30,
+      "width": 280,
+      "ypos": 146,
+      "type": "match"
+    },
+    {
+      "height": 20,
+      "xpos": 28,
+      "type": "match",
+      "ypos": 213,
+      "width": 234
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "installation-kernel-parameters"
+  ]
+}
