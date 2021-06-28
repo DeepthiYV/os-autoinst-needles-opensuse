@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "width": 82,
+      "xpos": 144,
+      "ypos": 113,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "dasd-active"
+  ]
+}
