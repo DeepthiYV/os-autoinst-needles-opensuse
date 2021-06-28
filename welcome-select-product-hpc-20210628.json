@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 369,
+      "ypos": 433,
+      "height": 10,
+      "width": 295
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-product-hpc"
+  ]
+}
