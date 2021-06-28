@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 274,
+      "type": "match",
+      "ypos": 196,
+      "width": 25,
+      "height": 31,
+      "match": 90
+    },
+    {
+      "ypos": 196,
+      "width": 29,
+      "height": 30,
+      "xpos": 416,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_shutdown"
+  ]
+}

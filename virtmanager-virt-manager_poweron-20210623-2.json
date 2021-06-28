@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 198,
+      "width": 23,
+      "height": 27,
+      "xpos": 276,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 333,
+      "type": "match",
+      "ypos": 200,
+      "height": 25,
+      "width": 22,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_poweron"
+  ]
+}

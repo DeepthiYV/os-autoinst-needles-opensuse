@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 500,
+      "ypos": 505,
+      "width": 219,
+      "height": 68,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "system-role-xen-selected",
+    "system-role-xen-virthost"
+  ]
+}
