@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "width": 21,
+      "ypos": 132,
+      "xpos": 277,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 231,
+      "type": "match",
+      "width": 30,
+      "height": 27,
+      "ypos": 132,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_graphical-console"
+  ]
+}
