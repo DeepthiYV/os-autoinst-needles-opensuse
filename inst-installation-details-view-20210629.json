@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 110,
+      "xpos": 128,
+      "type": "match",
+      "height": 78,
+      "width": 171
+    },
+    {
+      "height": 14,
+      "width": 104,
+      "type": "match",
+      "ypos": 367,
+      "xpos": 376
+    },
+    {
+      "height": 22,
+      "width": 63,
+      "type": "match",
+      "xpos": 431,
+      "ypos": 99
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "installation-details-view"
+  ]
+}
