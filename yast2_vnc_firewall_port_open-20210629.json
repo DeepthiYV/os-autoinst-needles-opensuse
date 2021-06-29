@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "width": 104,
+      "type": "match",
+      "ypos": 305,
+      "xpos": 417
+    },
+    {
+      "type": "match",
+      "xpos": 303,
+      "ypos": 452,
+      "height": 10,
+      "width": 58
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_vnc_firewall_port_open"
+  ]
+}
