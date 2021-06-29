@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 158,
+      "height": 32,
+      "ypos": 164,
+      "xpos": 389,
+      "type": "match"
+    },
+    {
+      "height": 19,
+      "width": 105,
+      "type": "match",
+      "ypos": 616,
+      "xpos": 99
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-yast-development"
+  ]
+}
