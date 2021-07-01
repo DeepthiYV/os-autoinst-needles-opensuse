@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "height": 47,
+      "width": 35,
+      "ypos": 164,
+      "xpos": 78,
+      "type": "match"
+    },
+    {
+      "height": 19,
+      "width": 121,
+      "xpos": 96,
+      "ypos": 214,
+      "type": "match"
+    },
+    {
+      "ypos": 164,
+      "xpos": 331,
+      "type": "match",
+      "width": 137,
+      "height": 17
+    },
+    {
+      "height": 24,
+      "width": 414,
+      "type": "match",
+      "ypos": 243,
+      "xpos": 333
+    },
+    {
+      "xpos": 338,
+      "ypos": 333,
+      "type": "match",
+      "height": 18,
+      "width": 148
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "yast2_snapper-selected_testdata"
+  ]
+}
