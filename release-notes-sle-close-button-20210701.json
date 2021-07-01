@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "width": 50,
+      "xpos": 478,
+      "ypos": 497,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "release-notes-sle-close-button"
+  ]
+}
