@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 362,
+      "ypos": 369,
+      "height": 14,
+      "width": 126
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "scc-module-pcm"
+  ]
+}
