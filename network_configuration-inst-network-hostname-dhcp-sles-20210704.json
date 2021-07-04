@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 284,
+      "xpos": 190,
+      "type": "match",
+      "width": 54,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-network-hostname-dhcp"
+  ]
+}
