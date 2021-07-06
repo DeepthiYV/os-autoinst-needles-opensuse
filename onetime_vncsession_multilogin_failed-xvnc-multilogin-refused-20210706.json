@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 335,
+      "ypos": 437,
+      "width": 345,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "generic-desktop",
+    "xvnc-multilogin-refused"
+  ]
+}
