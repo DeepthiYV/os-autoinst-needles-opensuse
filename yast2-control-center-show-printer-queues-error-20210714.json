@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 319,
+      "height": 17,
+      "width": 61,
+      "xpos": 207
+    },
+    {
+      "width": 175,
+      "height": 14,
+      "ypos": 354,
+      "type": "match",
+      "xpos": 210
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_show-printer-queues_error"
+  ]
+}
