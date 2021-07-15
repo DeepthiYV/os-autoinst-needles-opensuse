@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 358,
+      "height": 18,
+      "width": 244,
+      "type": "match",
+      "ypos": 320
+    },
+    {
+      "xpos": 575,
+      "width": 90,
+      "height": 38,
+      "ypos": 456,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-client-install-missing-package"
+  ]
+}
