@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 401,
+      "ypos": 282,
+      "width": 161,
+      "height": 77,
+      "type": "match"
+    },
+    {
+      "xpos": 394,
+      "ypos": 415,
+      "width": 207,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning-ext4_root-btrfs_home"
+  ]
+}
