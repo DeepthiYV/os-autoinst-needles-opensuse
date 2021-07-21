@@ -1,29 +1,30 @@
 {
   "area": [
     {
-      "width": 486,
-      "xpos": 288,
-      "height": 363,
+      "ypos": 0,
       "type": "match",
-      "ypos": 0
+      "xpos": 288,
+      "width": 486,
+      "height": 363
     },
     {
-      "ypos": 180,
       "type": "exclude",
-      "height": 48,
+      "ypos": 180,
       "width": 388,
-      "xpos": 315
+      "xpos": 315,
+      "height": 48
     },
     {
-      "xpos": 376,
-      "width": 15,
+      "height": 49,
       "ypos": 289,
       "type": "exclude",
-      "height": 49
+      "width": 15,
+      "xpos": 376
     }
   ],
   "properties": [],
   "tags": [
+    "ENV-DESKTOP-minimalx",
     "ENV-SP2ORLATER-1",
     "displaymanager"
   ]
