@@ -9,15 +9,16 @@
     },
     {
       "height": 45,
-      "xpos": 151,
       "type": "match",
       "ypos": 205,
-      "width": 70
+      "width": 70,
+      "xpos": 88
     }
   ],
   "properties": [],
   "tags": [
     "ENV-OFW-0",
+    "ENV-SLE_PRODUCT-slert",
     "bootloader",
     "grub2"
   ]
