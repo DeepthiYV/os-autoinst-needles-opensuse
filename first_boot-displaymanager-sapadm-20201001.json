@@ -1,24 +1,24 @@
 {
   "area": [
     {
-      "ypos": 679,
-      "xpos": 440,
       "height": 36,
-      "type": "match",
-      "width": 147
+      "xpos": 440,
+      "width": 147,
+      "ypos": 679,
+      "type": "match"
     },
     {
-      "xpos": 411,
-      "ypos": 357,
       "height": 27,
       "type": "match",
+      "ypos": 357,
+      "xpos": 411,
       "width": 226
     }
   ],
   "properties": [],
   "tags": [
     "ENV-15SP3ORLATER",
-    "ENV-SLES4SAP-1",
+    "SLE_PRODUCT-sles4sap",
     "displaymanager",
     "displaymanager-sapadm",
     "reboot-after-installation"
