@@ -2,22 +2,21 @@
   "area": [
     {
       "height": 12,
-      "width": 195,
       "type": "match",
       "xpos": 357,
+      "width": 195,
       "ypos": 144
     },
     {
-      "xpos": 358,
       "ypos": 277,
       "width": 128,
-      "height": 15,
-      "type": "match"
+      "type": "match",
+      "xpos": 358,
+      "height": 15
     }
   ],
   "properties": [],
   "tags": [
-    "migration_target_hscrollbar",
     "migration_target_sles15-sp4"
   ]
 }
