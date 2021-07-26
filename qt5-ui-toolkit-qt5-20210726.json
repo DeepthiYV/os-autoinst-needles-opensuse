@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 115,
+      "type": "match",
+      "xpos": 15,
+      "height": 18,
+      "ypos": 433
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ui-toolkit-qt5"
+  ]
+}
