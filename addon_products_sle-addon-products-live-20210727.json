@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 117,
+      "height": 69,
+      "xpos": 54,
+      "type": "match",
+      "width": 249
+    },
+    {
+      "height": 13,
+      "ypos": 220,
+      "width": 74,
+      "type": "match",
+      "xpos": 476
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-live"
+  ]
+}
