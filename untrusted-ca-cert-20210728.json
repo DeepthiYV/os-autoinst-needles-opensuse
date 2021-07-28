@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 97,
+      "width": 222,
+      "type": "match",
+      "ypos": 394,
+      "height": 47
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "untrusted-ca-cert"
+  ]
+}
