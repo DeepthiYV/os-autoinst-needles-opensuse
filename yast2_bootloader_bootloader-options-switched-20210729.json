@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 152,
+      "height": 23,
+      "ypos": 315,
+      "xpos": 284
+    },
+    {
+      "xpos": 133,
+      "height": 25,
+      "ypos": 217,
+      "width": 144,
+      "type": "match"
+    },
+    {
+      "xpos": 148,
+      "ypos": 407,
+      "height": 19,
+      "type": "match",
+      "width": 252
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP4ORLATER-1",
+    "yast2-bootloader_bootloader-options-switched"
+  ]
+}
