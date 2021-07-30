@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 397,
+      "ypos": 364,
+      "width": 283,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1188734"
+    }
+  ],
+  "tags": [
+    "nvidia-repo-missing"
+  ]
+}
