@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "ypos": 372,
+      "type": "match",
+      "width": 462,
+      "xpos": 276
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "use tag 'nvidia-validation-failed' for bsc#1188734"
+    }
+  ],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "ENV-DISTRI-sle",
+    "nvidia-validation-failed"
+  ]
+}
