@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "xpos": 231,
+      "ypos": 18,
+      "width": 152,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 50,
+      "width": 343,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 130,
+      "width": 87,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 210,
+      "width": 38,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-VIDEOMODE-text",
+    "qa-net-grub-boot-linux"
+  ]
+}
