@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 470,
+      "ypos": 386,
+      "width": 59,
+      "height": 21,
+      "type": "match",
+      "match": 55
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-testvideo-skip-ad"
+  ]
+}
