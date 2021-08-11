@@ -3,20 +3,20 @@
     {
       "height": 15,
       "width": 234,
-      "xpos": 506,
       "ypos": 235,
+      "xpos": 506,
       "type": "match"
     },
     {
       "type": "match",
       "xpos": 457,
       "ypos": 340,
-      "height": 26,
-      "width": 130
+      "width": 153,
+      "height": 28
     }
   ],
   "properties": [],
   "tags": [
-    "import-known-untrusted-gpg-key"
+    "import-untrusted-gpg-key"
   ]
 }
