@@ -28,7 +28,6 @@
     "ENV-DESKTOP-gnome",
     "GNOME",
     "desktop-gnome-shell",
-    "generic-desktop",
     "gnome-activities"
   ]
 }
