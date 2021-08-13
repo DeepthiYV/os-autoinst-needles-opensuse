@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 234,
+      "height": 15,
+      "ypos": 235,
+      "xpos": 506,
+      "type": "match"
+    },
+    {
+      "height": 16,
+      "width": 153,
+      "xpos": 473,
+      "ypos": 339,
+      "type": "match"
+    },
+    {
+      "xpos": 524,
+      "ypos": 369,
+      "width": 245,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "import-known-untrusted-gpg-key",
+    "import-untrusted-gpg-key",
+    "import-untrusted-gpg-key-idv-key-A5665AC46976A827"
+  ]
+}
