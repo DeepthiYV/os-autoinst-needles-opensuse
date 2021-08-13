@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 198,
+      "width": 195,
+      "height": 126,
+      "type": "match"
+    },
+    {
+      "xpos": 210,
+      "ypos": 202,
+      "width": 82,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 209,
+      "ypos": 227,
+      "width": 574,
+      "height": 99,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-request-header-example"
+  ]
+}
