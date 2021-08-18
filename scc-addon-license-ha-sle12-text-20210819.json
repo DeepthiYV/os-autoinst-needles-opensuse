@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "xpos": 13,
+      "ypos": 28,
+      "type": "match",
+      "width": 420
+    },
+    {
+      "type": "match",
+      "width": 544,
+      "height": 35,
+      "xpos": 38,
+      "ypos": 110
+    },
+    {
+      "width": 434,
+      "type": "match",
+      "ypos": 191,
+      "height": 14,
+      "xpos": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "scc-addon-license-ha"
+  ]
+}
