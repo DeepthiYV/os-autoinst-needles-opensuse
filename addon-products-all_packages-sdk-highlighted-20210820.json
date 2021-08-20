@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 13,
+      "ypos": 203,
+      "width": 118,
+      "xpos": 358
+    },
+    {
+      "xpos": 537,
+      "width": 99,
+      "ypos": 491,
+      "type": "match",
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-sdk-highlighted"
+  ]
+}
