@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 368,
+      "ypos": 257,
+      "width": 174,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 264,
+      "ypos": 343,
+      "width": 495,
+      "height": 199,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "logoutdialog-reboot-highlighted"
+  ]
+}
