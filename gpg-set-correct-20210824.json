@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "height": 16,
+      "ypos": 752,
+      "type": "match",
+      "width": 130
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-set-correct"
+  ]
+}
