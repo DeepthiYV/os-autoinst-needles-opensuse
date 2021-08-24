@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 752,
+      "type": "match",
+      "width": 105,
+      "height": 16,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-set-email"
+  ]
+}
