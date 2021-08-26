@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 160,
+      "xpos": 101,
+      "ypos": 600,
+      "height": 15
+    },
+    {
+      "type": "match",
+      "width": 239,
+      "xpos": 393,
+      "height": 25,
+      "ypos": 167
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "gnome-selected"
+  ]
+}
