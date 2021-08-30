@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "width": 260,
+      "height": 11,
+      "ypos": 35
+    },
+    {
+      "width": 42,
+      "xpos": 699,
+      "type": "match",
+      "height": 12,
+      "ypos": 34
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1160707"
+    }
+  ],
+  "tags": [
+    "text-login",
+    "tty6-selected"
+  ]
+}
