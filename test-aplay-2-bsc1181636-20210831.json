@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 749,
+      "ypos": 6,
+      "xpos": 2,
+      "type": "match",
+      "width": 1006
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugzilla.suse.com/show_bug.cgi?id=1181636"
+    }
+  ],
+  "tags": [
+    "test-aplay-2"
+  ]
+}
