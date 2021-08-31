@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 143,
+      "type": "match",
+      "xpos": 100,
+      "ypos": 197,
+      "height": 13
+    },
+    {
+      "width": 218,
+      "xpos": 391,
+      "type": "match",
+      "ypos": 174,
+      "height": 14
+    },
+    {
+      "height": 10,
+      "ypos": 213,
+      "xpos": 354,
+      "type": "match",
+      "width": 240
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-aws",
+    "pattern-aws_all"
+  ]
+}
