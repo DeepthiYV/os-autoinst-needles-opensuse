@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 278,
+      "xpos": 329,
+      "width": 168,
+      "height": 211,
+      "type": "match"
+    },
+    {
+      "xpos": 355,
+      "ypos": 619,
+      "width": 316,
+      "height": 111,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "displaymanager",
+    "reboot-after-installation"
+  ]
+}
