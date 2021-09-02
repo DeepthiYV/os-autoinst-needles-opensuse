@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 325,
+      "xpos": 274,
+      "width": 160,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-menu"
+  ]
+}
