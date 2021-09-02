@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 36,
+      "width": 247,
+      "xpos": 388,
+      "ypos": 133
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-launched"
+  ]
+}
