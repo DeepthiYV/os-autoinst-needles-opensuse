@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 50,
+      "xpos": 171,
+      "width": 643,
+      "height": 41,
+      "type": "match"
+    },
+    {
+      "height": 36,
+      "type": "match",
+      "xpos": 200,
+      "ypos": 367,
+      "width": 189
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evince-fullscreen-mode"
+  ]
+}
