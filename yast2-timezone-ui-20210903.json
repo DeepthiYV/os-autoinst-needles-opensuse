@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 209,
+      "height": 32,
+      "type": "match",
+      "xpos": 119,
+      "ypos": 111
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-timezone-ui"
+  ]
+}
