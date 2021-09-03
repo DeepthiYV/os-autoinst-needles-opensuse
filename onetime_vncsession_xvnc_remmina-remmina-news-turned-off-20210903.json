@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 33,
+      "xpos": 198,
+      "type": "match",
+      "height": 330,
+      "width": 633
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "The title of the pop up window is gone"
+    }
+  ],
+  "tags": [
+    "remmina-news-turned-off"
+  ]
+}
