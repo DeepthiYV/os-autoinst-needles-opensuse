@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 217,
+      "height": 32,
+      "type": "match",
+      "xpos": 61,
+      "ypos": 126
+    },
+    {
+      "width": 44,
+      "height": 20,
+      "type": "match",
+      "ypos": 164,
+      "xpos": 62
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-server-server-maps-setup"
+  ]
+}
