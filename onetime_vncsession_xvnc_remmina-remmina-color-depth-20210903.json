@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 30,
+      "type": "match",
+      "width": 615,
+      "ypos": 433,
+      "xpos": 169
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER",
+    "remmina-color-depth"
+  ]
+}
