@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 290,
+      "ypos": 436,
+      "width": 104,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "dont-save-libreoffice-btn"
+  ]
+}
