@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 62,
+      "ypos": 124,
+      "width": 453,
+      "height": 42
+    },
+    {
+      "ypos": 422,
+      "type": "match",
+      "xpos": 305,
+      "height": 23,
+      "width": 89
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "nis-server-setup-status"
+  ]
+}
