@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "width": 217,
+      "ypos": 460,
+      "type": "match",
+      "xpos": 498
+    },
+    {
+      "ypos": 105,
+      "width": 67,
+      "type": "match",
+      "height": 21,
+      "xpos": 185
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-sharedir-opened"
+  ]
+}
