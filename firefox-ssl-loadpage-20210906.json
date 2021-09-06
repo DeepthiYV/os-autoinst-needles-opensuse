@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 74,
+      "height": 21,
+      "xpos": 249,
+      "type": "match",
+      "width": 152
+    },
+    {
+      "width": 435,
+      "type": "match",
+      "xpos": 28,
+      "ypos": 220,
+      "height": 28
+    },
+    {
+      "xpos": 225,
+      "ypos": 76,
+      "height": 18,
+      "width": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-ssl-loadpage"
+  ]
+}
