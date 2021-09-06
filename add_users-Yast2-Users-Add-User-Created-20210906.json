@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 123,
+      "xpos": 84,
+      "ypos": 285,
+      "type": "match",
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Yast2-Users-Add-User-Created"
+  ]
+}
