@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 555,
+      "height": 22,
+      "type": "match",
+      "ypos": 301,
+      "width": 87
+    },
+    {
+      "type": "match",
+      "ypos": 7,
+      "width": 360,
+      "height": 46,
+      "xpos": 332
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "test-desktop_mainmenu-1"
+  ]
+}
