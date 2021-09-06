@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "ypos": 115,
+      "type": "match",
+      "height": 25,
+      "width": 223,
+      "xpos": 119
+    },
+    {
+      "width": 215,
+      "xpos": 220,
+      "height": 20,
+      "ypos": 318,
+      "type": "match"
+    },
+    {
+      "height": 38,
+      "type": "match",
+      "ypos": 335,
+      "width": 93,
+      "xpos": 124
+    },
+    {
+      "xpos": 171,
+      "width": 535,
+      "type": "match",
+      "ypos": 404,
+      "height": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP4ORLATER-1",
+    "sap-wizard-proto-nfs-selected"
+  ]
+}
