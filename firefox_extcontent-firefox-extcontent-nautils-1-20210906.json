@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 264,
+      "height": 100,
+      "ypos": 133,
+      "width": 210,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-extcontent-nautils"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 54,
+      "ypos": 149,
+      "height": 40,
+      "width": 90,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-email_link-send"
+  ]
+}

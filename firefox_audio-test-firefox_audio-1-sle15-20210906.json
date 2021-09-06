@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 691,
+      "ypos": 403,
+      "height": 68,
+      "xpos": 170
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "test-firefox_audio-1"
+  ]
+}

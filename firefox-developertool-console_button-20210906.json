@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 320,
+      "height": 16,
+      "ypos": 525,
+      "width": 53,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-developertool-console_button"
+  ]
+}

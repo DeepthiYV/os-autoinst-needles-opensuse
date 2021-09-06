@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 96,
+      "type": "match",
+      "xpos": 74,
+      "height": 25,
+      "ypos": 184
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-downloading-saving_dialog"
+  ]
+}
