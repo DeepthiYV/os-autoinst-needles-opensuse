@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "type": "match",
+      "ypos": 243,
+      "width": 105,
+      "xpos": 151,
+      "match": 96
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-network-settings_global-options_wicked-service"
+  ]
+}
