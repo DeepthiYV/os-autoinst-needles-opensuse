@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 305,
+      "width": 133,
+      "type": "match",
+      "height": 21,
+      "xpos": 172
+    },
+    {
+      "type": "match",
+      "width": 75,
+      "ypos": 409,
+      "height": 24,
+      "xpos": 542
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_printer_running-cups-daemon_no-delay"
+  ]
+}
