@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 145,
+      "type": "match",
+      "height": 14,
+      "xpos": 358,
+      "width": 320
+    },
+    {
+      "height": 16,
+      "ypos": 278,
+      "type": "match",
+      "width": 128,
+      "xpos": 358
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_hpc15-sp4"
+  ]
+}
