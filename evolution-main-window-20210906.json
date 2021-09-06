@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 123,
+      "xpos": 449,
+      "height": 20,
+      "ypos": 112,
+      "type": "match"
+    },
+    {
+      "width": 372,
+      "xpos": 387,
+      "type": "match",
+      "ypos": 212,
+      "height": 64
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution-main-window"
+  ]
+}
