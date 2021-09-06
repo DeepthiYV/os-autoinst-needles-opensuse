@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 104,
+      "xpos": 382,
+      "ypos": 380,
+      "type": "match",
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "samba-server-configuration-shares-newshare-createdir"
+  ]
+}
