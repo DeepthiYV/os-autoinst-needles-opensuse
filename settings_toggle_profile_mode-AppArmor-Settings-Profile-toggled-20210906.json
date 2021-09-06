@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "type": "match",
+      "ypos": 156,
+      "xpos": 56,
+      "width": 133
+    },
+    {
+      "xpos": 63,
+      "width": 106,
+      "type": "match",
+      "ypos": 218,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Settings-Profile-toggled"
+  ]
+}
