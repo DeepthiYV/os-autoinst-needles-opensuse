@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 152,
+      "xpos": 433,
+      "height": 35,
+      "ypos": 110,
+      "type": "match"
+    },
+    {
+      "xpos": 221,
+      "ypos": 156,
+      "width": 156,
+      "height": 265,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "seahorse",
+    "seahorse-launched"
+  ]
+}
