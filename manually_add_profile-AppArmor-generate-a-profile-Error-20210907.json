@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "width": 532,
+      "ypos": 126,
+      "type": "match",
+      "xpos": 190
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-generate-a-profile-Error"
+  ]
+}
