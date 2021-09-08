@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 121,
+      "width": 250,
+      "height": 36,
+      "xpos": 56
+    },
+    {
+      "xpos": 208,
+      "height": 23,
+      "width": 103,
+      "ypos": 160,
+      "type": "match"
+    },
+    {
+      "width": 91,
+      "height": 30,
+      "xpos": 63,
+      "type": "match",
+      "ypos": 634
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-client-nfs-client-shares-conf"
+  ]
+}
