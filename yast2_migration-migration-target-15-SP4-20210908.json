@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 288,
+      "height": 21,
+      "xpos": 21,
+      "type": "match",
+      "ypos": 79
+    },
+    {
+      "height": 17,
+      "xpos": 219,
+      "width": 143,
+      "ypos": 751,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration-target-15-SP4"
+  ]
+}
