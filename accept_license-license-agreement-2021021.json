@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "ypos": 728,
+      "type": "match",
+      "xpos": 954,
+      "height": 23,
+      "width": 55
+    },
+    {
+      "width": 113,
+      "height": 26,
+      "xpos": 16,
+      "type": "match",
+      "ypos": 202,
+      "match": 90
+    },
+    {
+      "xpos": 134,
+      "height": 30,
+      "width": 163,
+      "ypos": 201,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "type": "match",
+      "ypos": 689,
+      "width": 174,
+      "xpos": 355,
+      "height": 14,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "ENV-DISTRI-sle",
+    "license-agreement"
+  ]
+}
