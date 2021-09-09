@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 297,
+      "type": "match",
+      "height": 18,
+      "xpos": 157,
+      "width": 175
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-gui-qt"
+  ]
+}
