@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 106,
+      "height": 20,
+      "xpos": 142,
+      "type": "match",
+      "ypos": 286
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-bootloader_not-managed"
+  ]
+}
