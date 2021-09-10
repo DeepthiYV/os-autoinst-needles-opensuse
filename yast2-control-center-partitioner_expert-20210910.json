@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 128,
+      "xpos": 221,
+      "ypos": 36,
+      "height": 24
+    },
+    {
+      "type": "match",
+      "width": 73,
+      "xpos": 65,
+      "height": 15,
+      "ypos": 145
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center-partitioner_expert"
+  ]
+}
