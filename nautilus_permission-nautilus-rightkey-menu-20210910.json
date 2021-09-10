@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 524,
+      "height": 51,
+      "ypos": 245,
+      "width": 56,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "nautilus-rightkey-menu"
+  ]
+}
