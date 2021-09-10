@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 259,
+      "xpos": 4,
+      "height": 38,
+      "ypos": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnome-settings"
+  ]
+}
