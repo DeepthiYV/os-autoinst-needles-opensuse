@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 47,
+      "ypos": 173,
+      "height": 78,
+      "width": 284,
+      "type": "match"
+    },
+    {
+      "xpos": 626,
+      "ypos": 172,
+      "type": "match",
+      "width": 42,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-for-update-x86_64"
+  ]
+}
