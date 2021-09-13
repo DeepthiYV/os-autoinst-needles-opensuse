@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 544,
+      "ypos": 276,
+      "height": 55,
+      "type": "match",
+      "width": 81
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hostname_textfield_empty"
+  ]
+}
