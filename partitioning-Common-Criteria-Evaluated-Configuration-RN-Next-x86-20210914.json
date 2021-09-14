@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 35,
+      "xpos": 193,
+      "height": 12,
+      "width": 120,
+      "type": "match"
+    },
+    {
+      "xpos": 951,
+      "ypos": 721,
+      "height": 17,
+      "type": "match",
+      "width": 52
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Common-Criteria-Evaluated-Configuration-RN-Next"
+  ]
+}
