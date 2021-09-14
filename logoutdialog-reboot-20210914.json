@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 432,
+      "xpos": 562,
+      "width": 118,
+      "type": "match",
+      "height": 36
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "logoutdialog-reboot-highlighted"
+  ]
+}
