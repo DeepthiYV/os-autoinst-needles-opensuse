@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 116,
+      "xpos": 45,
+      "height": 30,
+      "type": "match",
+      "width": 172
+    },
+    {
+      "ypos": 673,
+      "xpos": 754,
+      "width": 57,
+      "type": "match",
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan"
+  ]
+}
