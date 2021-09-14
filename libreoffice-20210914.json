@@ -3,9 +3,9 @@
     {
       "ypos": 33,
       "xpos": 459,
+      "height": 24,
       "width": 101,
-      "type": "match",
-      "height": 24
+      "type": "match"
     },
     {
       "width": 239,
@@ -26,6 +26,7 @@
   "tags": [
     "ENV-15ORLATER-1",
     "libreoffice",
-    "ooffice"
+    "ooffice",
+    "welcome-to-libreoffice"
   ]
 }
