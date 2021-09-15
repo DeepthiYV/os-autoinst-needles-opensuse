@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 47,
+      "height": 35,
+      "width": 206,
+      "ypos": 115
+    },
+    {
+      "width": 116,
+      "type": "match",
+      "height": 22,
+      "xpos": 638,
+      "ypos": 156
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_hardware_tab"
+  ]
+}
