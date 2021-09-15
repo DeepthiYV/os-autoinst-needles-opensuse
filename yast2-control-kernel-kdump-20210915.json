@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 276,
+      "width": 129,
+      "type": "match",
+      "xpos": 438,
+      "height": 28
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-kernel-kdump"
+  ]
+}
