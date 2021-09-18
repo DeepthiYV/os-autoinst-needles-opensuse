@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 519,
+      "click_point": {
+        "ypos": 13,
+        "xpos": 32
+      },
+      "xpos": 811,
+      "height": 28,
+      "width": 130
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dm-gnome"
+  ]
+}
