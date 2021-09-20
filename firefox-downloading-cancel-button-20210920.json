@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 16,
+      "ypos": 191,
+      "height": 16,
+      "xpos": 720,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-cancel-button"
+  ]
+}
