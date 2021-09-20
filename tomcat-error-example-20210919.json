@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 210,
+      "xpos": 6,
+      "ypos": 184,
+      "width": 230,
+      "type": "match",
+      "match": 55
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-error-example"
+  ]
+}
