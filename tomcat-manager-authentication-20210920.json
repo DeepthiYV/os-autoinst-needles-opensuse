@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 54,
+      "type": "match",
+      "height": 21,
+      "xpos": 680,
+      "ypos": 375,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-manager-authentication"
+  ]
+}
