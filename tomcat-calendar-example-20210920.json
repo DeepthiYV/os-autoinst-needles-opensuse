@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 874,
+      "type": "match",
+      "xpos": 82,
+      "height": 152,
+      "ypos": 124,
+      "match": 55
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-calendar-example"
+  ]
+}
