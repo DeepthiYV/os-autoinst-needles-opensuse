@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 302,
+      "ypos": 254,
+      "xpos": 4,
+      "height": 46,
+      "match": 70
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-sessions-example-result-1"
+  ]
+}
