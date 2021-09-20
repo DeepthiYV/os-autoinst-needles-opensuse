@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 629,
+      "height": 16,
+      "ypos": 359,
+      "width": 40,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-click-save-login"
+  ]
+}
