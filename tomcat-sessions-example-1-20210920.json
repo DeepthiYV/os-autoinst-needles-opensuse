@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "xpos": 8,
+      "ypos": 293,
+      "width": 361,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 219.5,
+        "ypos": 8.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-sessions-example-1"
+  ]
+}
