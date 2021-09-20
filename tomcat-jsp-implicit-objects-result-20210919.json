@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 957,
+      "type": "match",
+      "height": 206,
+      "xpos": 29,
+      "match": 75,
+      "ypos": 465
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-jsp-implicit-objects-result"
+  ]
+}
