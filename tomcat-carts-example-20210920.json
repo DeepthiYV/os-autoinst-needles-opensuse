@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 490,
+      "type": "match",
+      "height": 159,
+      "xpos": 3,
+      "ypos": 137,
+      "match": 55
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-carts-example"
+  ]
+}
