@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 469,
+      "ypos": 38,
+      "width": 87,
+      "height": 26,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 10,
+      "ypos": 56,
+      "width": 93,
+      "height": 43,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 940,
+      "ypos": 720,
+      "width": 56,
+      "height": 24,
+      "type": "match",
+      "match": 86,
+      "click_point": {
+        "xpos": 28,
+        "ypos": 12
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_welcome-max-window-click"
+  ]
+}
