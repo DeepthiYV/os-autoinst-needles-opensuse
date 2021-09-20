@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 456,
+      "ypos": 129,
+      "height": 262,
+      "xpos": 4,
+      "match": 55
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-checkbox-example"
+  ]
+}
