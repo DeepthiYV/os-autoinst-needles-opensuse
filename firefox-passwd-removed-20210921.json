@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 161,
+      "type": "match",
+      "xpos": 277,
+      "height": 18,
+      "ypos": 433,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-passwd-removed"
+  ]
+}
