@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 660,
+      "ypos": 315,
+      "xpos": 174,
+      "height": 119,
+      "match": 75
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "smt-cert"
+  ]
+}
