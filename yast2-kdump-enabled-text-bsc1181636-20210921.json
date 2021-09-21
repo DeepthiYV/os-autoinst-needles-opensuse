@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "width": 181,
+      "type": "match",
+      "xpos": 309,
+      "height": 77,
+      "ypos": 31,
+      "match": 85
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "yast2-kdump-enabled"
+  ]
+}
