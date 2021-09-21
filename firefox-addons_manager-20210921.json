@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 22,
+      "xpos": 255,
+      "ypos": 38,
+      "width": 116,
+      "type": "match",
+      "match": 75
+    },
+    {
+      "ypos": 194,
+      "height": 29,
+      "xpos": 75,
+      "type": "match",
+      "width": 137,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-addons_manager"
+  ]
+}
