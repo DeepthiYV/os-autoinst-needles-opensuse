@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "width": 357,
+      "type": "match",
+      "xpos": 27,
+      "height": 27,
+      "ypos": 642,
+      "match": 85
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "yast2_apparmor_profile_mode_configuration_toggle"
+  ]
+}
