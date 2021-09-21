@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 329,
+      "height": 21,
+      "ypos": 311,
+      "width": 60,
+      "type": "match",
+      "match": 75
+    },
+    {
+      "ypos": 243,
+      "xpos": 72,
+      "height": 26,
+      "type": "match",
+      "width": 89,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extensions-flagfox_installed"
+  ]
+}
