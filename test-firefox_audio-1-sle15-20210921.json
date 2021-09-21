@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 378,
+      "xpos": 170,
+      "height": 68,
+      "type": "match",
+      "width": 691,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-firefox_audio-1"
+  ]
+}
