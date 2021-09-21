@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 351,
+      "height": 22,
+      "ypos": 329,
+      "width": 154,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-email_link-welcome"
+  ]
+}
