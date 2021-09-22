@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 67,
+      "ypos": 235,
+      "width": 400,
+      "height": 31,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_mail_send_mail_dialog"
+  ]
+}
