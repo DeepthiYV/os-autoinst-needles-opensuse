@@ -1,21 +1,21 @@
 {
   "area": [
     {
+      "xpos": 283,
+      "ypos": 238,
+      "width": 95,
+      "height": 17,
       "type": "match",
-      "height": 21,
-      "width": 86,
-      "xpos": 291,
-      "ypos": 234,
       "match": 86,
       "click_point": {
-        "xpos": 43,
-        "ypos": 10.5
+        "xpos": 47.5,
+        "ypos": 8.5
       }
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-SP2ORLATER-1",
+    "ENV-15ORLATER-1",
     "evolution_meeting-view-new"
   ]
 }
