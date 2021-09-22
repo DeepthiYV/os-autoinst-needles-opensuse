@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 146,
+      "xpos": 357,
+      "height": 12,
+      "type": "match",
+      "width": 195
+    },
+    {
+      "width": 128,
+      "type": "match",
+      "xpos": 358,
+      "height": 15,
+      "ypos": 278
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_sles15-sp4"
+  ]
+}
