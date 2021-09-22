@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 13,
+      "ypos": 0,
+      "xpos": 0,
+      "type": "match",
+      "height": 152,
+      "match": 75
+    },
+    {
+      "ypos": 3,
+      "width": 189,
+      "xpos": 1,
+      "height": 10,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [
+    {
+      "value": "boo#1160707",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "cleared-console",
+    "cleared-console-root"
+  ]
+}
