@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 328,
+      "ypos": 314,
+      "width": 172,
+      "height": 22,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_wizard-receiving-ssl"
+  ]
+}
