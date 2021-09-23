@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "width": 99,
+      "height": 21,
+      "type": "match",
+      "ypos": 199
+    },
+    {
+      "width": 62,
+      "height": 18,
+      "xpos": 245,
+      "ypos": 203,
+      "type": "match"
+    },
+    {
+      "width": 45,
+      "height": 17,
+      "type": "match",
+      "ypos": 725,
+      "click_point": {
+        "xpos": 22.5,
+        "ypos": 8.5
+      },
+      "xpos": 943
+    },
+    {
+      "height": 16,
+      "width": 41,
+      "xpos": 270,
+      "ypos": 418,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_wizard-sending_username_filled"
+  ]
+}

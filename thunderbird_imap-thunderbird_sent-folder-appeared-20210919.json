@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 182,
+      "height": 24,
+      "width": 39,
+      "xpos": 56
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_sent-folder-appeared"
+  ]
+}

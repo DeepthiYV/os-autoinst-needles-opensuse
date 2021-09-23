@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 912,
+      "width": 66,
+      "height": 27,
+      "ypos": 224,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "timezone-select"
+  ]
+}

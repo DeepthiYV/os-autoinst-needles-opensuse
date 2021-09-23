@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 223,
+      "xpos": 6,
+      "width": 145,
+      "height": 189
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libreoffice-test-ods"
+  ]
+}

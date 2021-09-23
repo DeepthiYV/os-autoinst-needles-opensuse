@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 180,
+      "type": "match",
+      "height": 22,
+      "width": 107,
+      "xpos": 315
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "oowriter-menus-file-recentDocuments"
+  ]
+}

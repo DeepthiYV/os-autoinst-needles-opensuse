@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 118,
+      "height": 23,
+      "xpos": 791,
+      "type": "match",
+      "ypos": 242
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_mail_show-allcount"
+  ]
+}

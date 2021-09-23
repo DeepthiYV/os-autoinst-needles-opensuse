@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "width": 389,
+      "xpos": 73,
+      "ypos": 284,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_mail_send_mail_dialog"
+  ]
+}

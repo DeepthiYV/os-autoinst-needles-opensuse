@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 270,
+      "height": 147,
+      "xpos": 286,
+      "type": "match",
+      "ypos": 365
+    },
+    {
+      "type": "match",
+      "ypos": 213,
+      "height": 117,
+      "width": 168,
+      "xpos": 5
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libreoffice-test-pptx"
+  ]
+}
