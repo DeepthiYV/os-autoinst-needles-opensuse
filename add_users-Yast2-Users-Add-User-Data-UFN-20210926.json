@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 121,
+      "ypos": 297,
+      "height": 55,
+      "xpos": 356
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Yast2-Users-Add-User-Data-UFN"
+  ]
+}
