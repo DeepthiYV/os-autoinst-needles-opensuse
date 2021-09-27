@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 489,
+      "ypos": 162,
+      "width": 125,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 965,
+      "ypos": 431,
+      "width": 58,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-confirm-fips_enabled"
+  ]
+}
