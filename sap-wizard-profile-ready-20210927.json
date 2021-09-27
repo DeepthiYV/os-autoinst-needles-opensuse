@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 44,
+      "ypos": 356,
+      "width": 405,
+      "xpos": 309
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sap-wizard-profile-ready"
+  ]
+}
