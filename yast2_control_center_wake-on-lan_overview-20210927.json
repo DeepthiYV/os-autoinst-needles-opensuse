@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 238,
+      "xpos": 8,
+      "type": "match",
+      "height": 66,
+      "ypos": 77
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_wake-on-lan_overview"
+  ]
+}
