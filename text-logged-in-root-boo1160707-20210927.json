@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 67,
+      "width": 28,
+      "ypos": 161,
+      "height": 12,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1160707"
+    }
+  ],
+  "tags": [
+    "text-logged-in-root"
+  ]
+}
