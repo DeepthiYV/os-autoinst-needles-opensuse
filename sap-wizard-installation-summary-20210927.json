@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 189,
+      "height": 26,
+      "type": "match",
+      "xpos": 361,
+      "width": 300
+    },
+    {
+      "width": 197,
+      "xpos": 284,
+      "type": "match",
+      "height": 86,
+      "ypos": 427
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "sap-wizard-installation-summary"
+  ]
+}
