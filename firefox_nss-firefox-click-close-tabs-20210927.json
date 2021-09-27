@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 647,
+      "width": 101,
+      "ypos": 451,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-click-close-tabs"
+  ]
+}
