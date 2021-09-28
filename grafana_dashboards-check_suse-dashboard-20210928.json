@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 134,
+      "height": 22,
+      "width": 143,
+      "ypos": 311
+    },
+    {
+      "height": 22,
+      "xpos": 137,
+      "type": "match",
+      "ypos": 353,
+      "width": 198
+    },
+    {
+      "type": "match",
+      "height": 18,
+      "xpos": 139,
+      "width": 247,
+      "ypos": 418
+    },
+    {
+      "type": "match",
+      "xpos": 137,
+      "height": 17,
+      "ypos": 480,
+      "width": 79
+    },
+    {
+      "xpos": 139,
+      "height": 16,
+      "type": "match",
+      "width": 101,
+      "ypos": 543
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "check_suse-dashboard"
+  ]
+}
