@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "type": "match",
+      "ypos": 651,
+      "xpos": 87,
+      "width": 194
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_migration-license-agreenment-accepted"
+  ]
+}
