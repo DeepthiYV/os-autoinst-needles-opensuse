@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 146,
+      "xpos": 175,
+      "width": 280,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-kernel-parameters-highlighted"
+  ]
+}
