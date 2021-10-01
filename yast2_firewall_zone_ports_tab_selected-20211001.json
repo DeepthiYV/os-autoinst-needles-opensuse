@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 619,
+      "width": 160,
+      "ypos": 653,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 429,
+      "ypos": 156,
+      "width": 76,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_firewall_zone_ports_tab_selected"
+  ]
+}
