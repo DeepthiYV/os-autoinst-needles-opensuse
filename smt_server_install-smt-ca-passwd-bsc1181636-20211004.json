@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 288,
+      "height": 193,
+      "width": 615,
+      "xpos": 200,
+      "match": 85
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "smt-ca-passwd"
+  ]
+}
