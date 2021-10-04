@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "height": 38,
+      "ypos": 92,
+      "type": "match",
+      "xpos": 9,
+      "width": 241,
+      "match": 86
+    },
+    {
+      "ypos": 729,
+      "height": 21,
+      "type": "match",
+      "xpos": 959,
+      "width": 41
+    },
+    {
+      "type": "match",
+      "xpos": 375,
+      "width": 261,
+      "height": 15,
+      "ypos": 404,
+      "match": 86
+    },
+    {
+      "width": 216,
+      "xpos": 372,
+      "type": "match",
+      "ypos": 488,
+      "height": 15,
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "existing-partitions",
+    "storage-ng"
+  ]
+}
