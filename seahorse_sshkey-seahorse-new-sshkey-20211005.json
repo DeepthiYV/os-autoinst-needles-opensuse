@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 206,
+      "ypos": 239,
+      "width": 456,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 432,
+      "ypos": 198,
+      "width": 156,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "seahorse-new-sshkey"
+  ]
+}
