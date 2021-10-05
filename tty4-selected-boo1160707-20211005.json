@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 30,
+      "type": "match",
+      "xpos": 0,
+      "width": 84,
+      "height": 17,
+      "match": 75
+    },
+    {
+      "xpos": 703,
+      "height": 14,
+      "width": 33,
+      "ypos": 31,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1160707"
+    }
+  ],
+  "tags": [
+    "tty4-selected"
+  ]
+}
