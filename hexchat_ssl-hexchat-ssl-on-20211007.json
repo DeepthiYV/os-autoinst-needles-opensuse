@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 295,
+      "ypos": 324,
+      "width": 298,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-ssl-on"
+  ]
+}
