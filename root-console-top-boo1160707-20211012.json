@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 15,
+      "ypos": 162,
+      "height": 12,
+      "xpos": 88
+    }
+  ],
+  "properties": [
+    {
+      "value": "boo#1160707",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "tunnel-console",
+    "root-console",
+    "log-console"
+  ]
+}
