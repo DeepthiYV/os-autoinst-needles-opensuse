@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 328,
+      "xpos": 324,
+      "type": "match",
+      "height": 114,
+      "width": 373
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "yast2-kdump-restart-info"
+  ]
+}
