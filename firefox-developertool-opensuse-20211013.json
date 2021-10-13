@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 124,
+      "type": "match",
+      "height": 110,
+      "width": 385,
+      "match": 85
+    },
+    {
+      "xpos": 29,
+      "ypos": 39,
+      "width": 73,
+      "type": "match",
+      "height": 23,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-developertool-opensuse"
+  ]
+}
