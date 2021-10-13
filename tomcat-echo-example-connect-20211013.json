@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 257,
+      "xpos": 18,
+      "width": 53,
+      "type": "match",
+      "height": 15,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-echo-example-connect"
+  ]
+}
