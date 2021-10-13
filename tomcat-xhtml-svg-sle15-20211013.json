@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 130,
+      "type": "match",
+      "height": 469,
+      "width": 477,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-xhtml-svg"
+  ]
+}
