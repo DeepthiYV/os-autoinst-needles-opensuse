@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 115,
+      "height": 19,
+      "type": "match",
+      "ypos": 406,
+      "xpos": 277,
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-appearance-default"
+  ]
+}
