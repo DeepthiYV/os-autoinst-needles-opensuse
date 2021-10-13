@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 34,
+      "type": "match",
+      "width": 65,
+      "xpos": 77,
+      "ypos": 287,
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-appearance-tabicon"
+  ]
+}
