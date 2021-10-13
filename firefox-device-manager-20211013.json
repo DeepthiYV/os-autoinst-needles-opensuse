@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "type": "match",
+      "width": 216,
+      "xpos": 32,
+      "ypos": 220,
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-device-manager"
+  ]
+}
