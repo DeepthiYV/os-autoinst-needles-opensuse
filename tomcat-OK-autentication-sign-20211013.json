@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "type": "match",
+      "width": 54,
+      "ypos": 370,
+      "xpos": 683,
+      "match": 55
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-OK-autentication"
+  ]
+}
