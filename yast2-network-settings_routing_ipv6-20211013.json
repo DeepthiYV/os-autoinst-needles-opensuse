@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 22,
+      "xpos": 121,
+      "type": "match",
+      "ypos": 205,
+      "width": 103
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-network-settings_routing_ipv6"
+  ]
+}
