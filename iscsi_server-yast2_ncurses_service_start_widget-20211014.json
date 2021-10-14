@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "ypos": 216,
+      "type": "match",
+      "width": 148,
+      "xpos": 241
+    },
+    {
+      "xpos": 256,
+      "width": 100,
+      "type": "match",
+      "ypos": 240,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_ncurses_service_start_widget"
+  ]
+}
