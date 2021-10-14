@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "match": 75,
+      "ypos": 84,
+      "height": 22,
+      "type": "match",
+      "width": 127,
+      "xpos": 69
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-url-loaded"
+  ]
+}
