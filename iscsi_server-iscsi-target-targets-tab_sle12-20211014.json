@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 39,
+      "ypos": 114,
+      "type": "match",
+      "width": 176,
+      "xpos": 45
+    },
+    {
+      "height": 17,
+      "ypos": 291,
+      "xpos": 48,
+      "width": 70,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 91,
+      "xpos": 305,
+      "ypos": 415,
+      "height": 36
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-target-targets-tab"
+  ]
+}
