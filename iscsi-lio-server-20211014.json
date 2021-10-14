@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 188,
+      "xpos": 46,
+      "ypos": 121,
+      "height": 27
+    },
+    {
+      "xpos": 56,
+      "ypos": 156,
+      "width": 62,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 132,
+      "ypos": 158,
+      "width": 53,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 198,
+      "ypos": 159,
+      "width": 61,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-lio-server"
+  ]
+}
