@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 30,
+      "height": 18,
+      "xpos": 12,
+      "width": 237,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "smt-ca-new-server-vertificate"
+  ]
+}
