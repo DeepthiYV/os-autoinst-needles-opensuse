@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 80,
+      "ypos": 2,
+      "type": "match",
+      "width": 193,
+      "xpos": 5,
+      "match": 75
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "smt-yast-ca"
+  ]
+}
