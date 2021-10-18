@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 175,
+      "width": 41,
+      "height": 20,
+      "xpos": 79,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 25,
+      "xpos": 68,
+      "width": 148,
+      "ypos": 138
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Yast2-Users-Add-User-Data"
+  ]
+}
