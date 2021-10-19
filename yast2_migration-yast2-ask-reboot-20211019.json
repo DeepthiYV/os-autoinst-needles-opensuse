@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "xpos": 273,
+      "type": "match",
+      "ypos": 345,
+      "width": 125
+    },
+    {
+      "width": 112,
+      "ypos": 424,
+      "type": "match",
+      "xpos": 542,
+      "height": 34
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1190254:  [Build 31.2] openQA test fails in yast2_migration: the shown name of yast2 module is incorrect"
+    }
+  ],
+  "tags": [
+    "yast2-ask-reboot"
+  ]
+}
