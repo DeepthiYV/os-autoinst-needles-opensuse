@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "width": 61,
+      "xpos": 764,
+      "ypos": 655,
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_risks-done"
+  ]
+}

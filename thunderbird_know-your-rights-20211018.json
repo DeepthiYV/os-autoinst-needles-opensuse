@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 841,
+      "ypos": 716,
+      "width": 167,
+      "height": 13,
+      "type": "match",
+      "match": 65,
+      "click_point": {
+        "xpos": 161.5,
+        "ypos": 7.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_know-your-rights"
+  ]
+}

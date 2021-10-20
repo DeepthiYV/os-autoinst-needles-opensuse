@@ -1,15 +1,17 @@
 {
   "area": [
     {
+      "height": 35,
+      "ypos": 144,
       "type": "match",
       "width": 482,
       "xpos": 55,
-      "ypos": 144,
-      "height": 35
+      "match": 65
     }
   ],
   "properties": [],
   "tags": [
-    "thunderbird"
+    "thunderbird",
+    "thunderbird-new-gui"
   ]
 }
