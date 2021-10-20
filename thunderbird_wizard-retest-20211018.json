@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "type": "match",
+      "width": 68,
+      "xpos": 74,
+      "ypos": 676,
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_wizard-retest"
+  ]
+}

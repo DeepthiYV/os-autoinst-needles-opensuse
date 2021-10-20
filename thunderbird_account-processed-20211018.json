@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 803,
+      "ypos": 436,
+      "width": 38,
+      "height": 19,
+      "type": "match",
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_account-processed"
+  ]
+}
