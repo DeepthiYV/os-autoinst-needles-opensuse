@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 297,
+      "ypos": 85,
+      "width": 194,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-secureboot-not-enabled"
+  ]
+}
