@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 126,
+      "ypos": 86,
+      "width": 120,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1191916"
+    }
+  ],
+  "tags": [
+    "thunderbird_sending-stuck"
+  ]
+}
