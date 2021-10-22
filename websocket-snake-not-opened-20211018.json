@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 217,
+      "ypos": 62,
+      "width": 772,
+      "height": 640,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 990,
+      "ypos": 701,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "websocket-snake-not-opened"
+  ]
+}
