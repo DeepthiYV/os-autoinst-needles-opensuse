@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 200,
+      "type": "match",
+      "ypos": 159,
+      "height": 200,
+      "xpos": 534
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_rgradient_range1"
+  ]
+}
