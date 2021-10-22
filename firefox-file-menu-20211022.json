@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 15,
+      "width": 80,
+      "ypos": 232,
+      "xpos": 12,
+      "match": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-file-menu"
+  ]
+}
