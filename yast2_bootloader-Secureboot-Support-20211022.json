@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 35,
+      "ypos": 128,
+      "width": 177,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_bootloader-Secureboot-Support"
+  ]
+}
