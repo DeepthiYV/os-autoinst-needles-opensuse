@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 259,
+      "type": "match",
+      "width": 100,
+      "ypos": 195,
+      "height": 39
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-preferences"
+  ]
+}
