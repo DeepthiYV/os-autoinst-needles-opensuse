@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 75,
+      "type": "match",
+      "xpos": 730,
+      "width": 291,
+      "ypos": 674,
+      "match": 75
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "smt-export-ca"
+  ]
+}
