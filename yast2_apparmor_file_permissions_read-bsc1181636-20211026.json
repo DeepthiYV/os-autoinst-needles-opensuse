@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 61,
+      "ypos": 307,
+      "width": 134,
+      "xpos": 538,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "yast2_apparmor_file_permissions_read"
+  ]
+}
