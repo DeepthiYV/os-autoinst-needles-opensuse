@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 77,
+      "width": 143,
+      "xpos": 20,
+      "type": "match",
+      "height": 21
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636"
+    }
+  ],
+  "tags": [
+    "http_htdocs_new_dir"
+  ]
+}
