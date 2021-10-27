@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "xpos": 0,
+      "type": "match",
+      "width": 72,
+      "ypos": 162,
+      "match": 85
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1160707"
+    }
+  ],
+  "tags": [
+    "text-logged-in-bernhard"
+  ]
+}
