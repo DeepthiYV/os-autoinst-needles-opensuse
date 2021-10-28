@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 17,
+      "ypos": 382,
+      "height": 209,
+      "width": 170,
+      "match": 86
+    },
+    {
+      "xpos": 26,
+      "type": "exclude",
+      "ypos": 423,
+      "height": 27,
+      "width": 134
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-second-xterm"
+  ]
+}
