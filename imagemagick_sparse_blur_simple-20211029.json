@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 163,
+      "height": 200,
+      "width": 200,
+      "type": "match",
+      "xpos": 537
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_sparse_blur_simple"
+  ]
+}
