@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "type": "match",
+      "xpos": 625,
+      "ypos": 318,
+      "width": 47
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-passwd-confirm_remember"
+  ]
+}
