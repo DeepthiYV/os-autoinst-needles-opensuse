@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 29,
+      "width": 140,
+      "ypos": 735,
+      "xpos": 781
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-saved-logins-button"
+  ]
+}
