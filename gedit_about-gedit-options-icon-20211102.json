@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 28,
+      "xpos": 940,
+      "ypos": 41,
+      "width": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gedit-options-icon"
+  ]
+}
