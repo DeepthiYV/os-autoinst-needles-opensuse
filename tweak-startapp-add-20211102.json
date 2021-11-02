@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 23,
+      "width": 218,
+      "ypos": 140,
+      "xpos": 494
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tweak-startapp-add"
+  ]
+}
