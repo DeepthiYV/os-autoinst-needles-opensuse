@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 75,
+      "ypos": 499,
+      "width": 171,
+      "type": "match",
+      "height": 29
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ftp-path-selected"
+  ]
+}
