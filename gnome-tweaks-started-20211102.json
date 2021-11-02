@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 25,
+      "width": 90,
+      "ypos": 4,
+      "xpos": 108
+    },
+    {
+      "type": "match",
+      "height": 393,
+      "ypos": 37,
+      "xpos": 3,
+      "width": 193
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-tweaks"
+  ]
+}
