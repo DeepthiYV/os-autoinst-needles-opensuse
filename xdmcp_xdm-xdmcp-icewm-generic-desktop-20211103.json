@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 90,
+      "xpos": 59,
+      "width": 476,
+      "type": "match",
+      "height": 508
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "xdmcp-icewm-generic-desktop"
+  ]
+}
