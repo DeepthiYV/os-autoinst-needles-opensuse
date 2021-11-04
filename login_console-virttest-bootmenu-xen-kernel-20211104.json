@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 232,
+      "ypos": 17,
+      "width": 152,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 17,
+      "ypos": 97,
+      "width": 262,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "grub2",
+    "virttest-bootmenu-xen-kernel"
+  ]
+}
