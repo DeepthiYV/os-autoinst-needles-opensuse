@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "width": 188,
+      "xpos": 404,
+      "ypos": 147,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 23,
+      "xpos": 147,
+      "width": 152,
+      "ypos": 388
+    },
+    {
+      "ypos": 386,
+      "width": 144,
+      "xpos": 155,
+      "type": "match",
+      "height": 25
+    },
+    {
+      "type": "match",
+      "height": 19,
+      "ypos": 209,
+      "width": 252,
+      "xpos": 197
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-bootloader_bootloader-options-switched"
+  ]
+}
