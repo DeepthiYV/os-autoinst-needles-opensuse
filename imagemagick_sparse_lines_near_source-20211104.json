@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 200,
+      "xpos": 537,
+      "ypos": 163,
+      "height": 200,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_sparse_lines_near_source"
+  ]
+}
