@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 232,
+      "ypos": 18,
+      "width": 152,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 9,
+      "ypos": 52,
+      "width": 103,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP4",
+    "ENV-BACKEND-ipmi",
+    "ENV-VIDEOMODE-text",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
