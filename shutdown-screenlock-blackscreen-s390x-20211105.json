@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 882,
+      "width": 91,
+      "ypos": 20,
+      "height": 740
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "This is a workaround for s390x."
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "screenlock"
+  ]
+}
