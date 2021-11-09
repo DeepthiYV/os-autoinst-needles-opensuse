@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 154,
+      "ypos": 600,
+      "width": 117,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "save_old_setting_language_changed"
+  ]
+}
