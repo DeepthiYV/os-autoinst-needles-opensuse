@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 326,
+      "type": "match",
+      "height": 10,
+      "ypos": 141,
+      "width": 29,
+      "match": 85
+    },
+    {
+      "type": "match",
+      "xpos": 505,
+      "height": 10,
+      "ypos": 142,
+      "width": 176,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "packages-grub2-selected"
+  ]
+}
