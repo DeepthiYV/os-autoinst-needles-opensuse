@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 320,
+      "type": "match",
+      "height": 200,
+      "xpos": 306,
+      "width": 200,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_gradient_angle_odd"
+  ]
+}
