@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 91,
+      "ypos": 20,
+      "type": "match",
+      "height": 740,
+      "xpos": 882
+    }
+  ],
+  "properties": [
+    {
+      "value": "This is a workaround for bug#1168979",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "screenlock",
+    "screenlock-password"
+  ]
+}
