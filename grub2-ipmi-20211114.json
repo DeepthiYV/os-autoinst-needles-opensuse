@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 42,
+      "height": 12,
+      "type": "match",
+      "ypos": 66,
+      "xpos": 18,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "grub2"
+  ]
+}
