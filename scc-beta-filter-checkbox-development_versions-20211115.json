@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "width": 118,
+      "ypos": 125,
+      "type": "match",
+      "xpos": 351,
+      "match": 80
+    },
+    {
+      "height": 66,
+      "width": 259,
+      "type": "match",
+      "xpos": 57,
+      "ypos": 197,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "scc-beta-filter-checkbox"
+  ]
+}
