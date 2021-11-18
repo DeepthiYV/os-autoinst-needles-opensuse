@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 283,
+      "ypos": 288,
+      "width": 457,
+      "height": 153,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close-terminal-warning-dialog"
+  ]
+}
