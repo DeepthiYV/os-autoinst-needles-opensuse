@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 256,
+      "ypos": 436,
+      "width": 148,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-gedit-close"
+  ]
+}
