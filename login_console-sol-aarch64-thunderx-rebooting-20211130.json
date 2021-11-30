@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 133,
+      "width": 199,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 677,
+      "width": 86,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sol",
+    "sol-aarch64"
+  ]
+}
