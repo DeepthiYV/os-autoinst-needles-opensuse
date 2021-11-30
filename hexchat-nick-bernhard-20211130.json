@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 181,
+      "type": "match",
+      "xpos": 331,
+      "click_point": {
+        "xpos": 119,
+        "ypos": 18
+      },
+      "height": 34,
+      "width": 184
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-nick-bernhard"
+  ]
+}
