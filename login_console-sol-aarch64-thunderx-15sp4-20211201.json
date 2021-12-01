@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 594,
+      "width": 310,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 522,
+      "ypos": 593,
+      "width": 69,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 874,
+      "ypos": 594,
+      "width": 68,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 58,
+      "ypos": 754,
+      "width": 44,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 2,
+      "ypos": 514,
+      "width": 301,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sol",
+    "sol-aarch64"
+  ]
+}
