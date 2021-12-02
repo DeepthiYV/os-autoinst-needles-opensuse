@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 93,
+      "xpos": 214,
+      "height": 17,
+      "ypos": 358
+    },
+    {
+      "type": "match",
+      "xpos": 217,
+      "width": 285,
+      "ypos": 400,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_vlan_id_warning"
+  ]
+}
