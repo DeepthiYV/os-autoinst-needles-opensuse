@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 152,
+      "xpos": 333,
+      "ypos": 92,
+      "height": 182
+    },
+    {
+      "xpos": 357,
+      "ypos": 145,
+      "width": 97,
+      "height": 29,
+      "type": "exclude"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "Avoid checking also the hostname on vino_screensharing"
+    }
+  ],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "without_screensharing"
+  ]
+}
