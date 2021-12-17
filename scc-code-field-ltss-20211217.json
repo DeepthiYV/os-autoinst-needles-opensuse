@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 48,
+      "width": 225,
+      "xpos": 467,
+      "type": "match",
+      "ypos": 502,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-code-field-ltss"
+  ]
+}
