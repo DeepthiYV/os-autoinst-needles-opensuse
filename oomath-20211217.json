@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 116,
+      "type": "match",
+      "width": 179,
+      "ypos": 245,
+      "xpos": 577
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "test-oomath-1"
+  ]
+}
