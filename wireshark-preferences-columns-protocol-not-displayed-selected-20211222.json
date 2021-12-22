@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 331,
+      "type": "match",
+      "width": 215,
+      "height": 15,
+      "ypos": 278
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-preferences-columns-protocol-not-displayed-selected"
+  ]
+}
