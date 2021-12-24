@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 266,
+      "ypos": 367,
+      "xpos": 272,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Scan-system-log"
+  ]
+}
