@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "xpos": 406,
+      "width": 99,
+      "ypos": 126
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Scan-Audit-logs-view-changes-clean-profile"
+  ]
+}
