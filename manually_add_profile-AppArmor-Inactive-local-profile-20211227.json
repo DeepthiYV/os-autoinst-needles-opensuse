@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 171,
+      "width": 179,
+      "xpos": 309,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Inactive-local-profile"
+  ]
+}
