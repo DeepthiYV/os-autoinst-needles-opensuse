@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 235,
+      "height": 139,
+      "width": 552,
+      "type": "match",
+      "ypos": 347
+    },
+    {
+      "height": 73,
+      "xpos": 234,
+      "width": 69,
+      "type": "match",
+      "ypos": 270
+    },
+    {
+      "ypos": 281,
+      "type": "match",
+      "width": 213,
+      "height": 26,
+      "xpos": 304
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-s390x",
+    "displaymanager"
+  ]
+}
