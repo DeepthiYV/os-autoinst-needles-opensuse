@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 38,
+      "width": 317,
+      "xpos": 345,
+      "ypos": 384,
+      "type": "match"
+    },
+    {
+      "height": 16,
+      "width": 64,
+      "xpos": 111,
+      "ypos": 688,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-migration-packagebroken"
+  ]
+}
