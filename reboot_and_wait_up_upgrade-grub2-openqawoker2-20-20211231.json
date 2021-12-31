@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 673,
+      "width": 292,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 689,
+      "width": 198,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sshd-server-started"
+  ]
+}
