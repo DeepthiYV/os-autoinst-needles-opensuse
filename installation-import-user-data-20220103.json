@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 41,
+      "width": 163,
+      "xpos": 132,
+      "ypos": 109
+    },
+    {
+      "height": 21,
+      "width": 272,
+      "xpos": 524,
+      "ypos": 511,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "import-user-data",
+    "installation",
+    "inst-returned-to-yast"
+  ]
+}
