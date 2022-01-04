@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "ypos": 180,
+      "width": 72,
+      "type": "match",
+      "xpos": 186
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BRIDGED_NETWORKING-1",
+    "ENV-SP2ORLATER-1",
+    "gnome-terminal"
+  ]
+}
