@@ -1,19 +1,23 @@
 {
   "area": [
     {
-      "xpos": 486,
       "ypos": 183,
+      "click_point": {
+        "ypos": 8,
+        "xpos": 25
+      },
       "width": 50,
       "height": 16,
       "type": "match",
-      "match": 75,
-      "click_point": {
-        "xpos": 25,
-        "ypos": 8
-      }
+      "xpos": 486
     }
   ],
-  "properties": [],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1191916"
+    }
+  ],
   "tags": [
     "thunderbird_cancel"
   ]
