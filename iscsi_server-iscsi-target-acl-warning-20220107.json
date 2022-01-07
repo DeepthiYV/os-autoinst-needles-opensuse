@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "width": 82,
+      "ypos": 356,
+      "xpos": 6,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 39,
+      "ypos": 394,
+      "width": 211,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-target-acl-warning"
+  ]
+}
