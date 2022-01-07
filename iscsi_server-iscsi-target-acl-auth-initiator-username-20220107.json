@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 354,
+      "xpos": 166,
+      "type": "match",
+      "height": 17,
+      "width": 81
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-target-acl-auth-initiator-username"
+  ]
+}
