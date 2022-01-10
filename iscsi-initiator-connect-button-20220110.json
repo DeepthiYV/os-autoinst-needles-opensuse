@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 622,
+      "height": 36,
+      "xpos": 139,
+      "width": 88,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-initiator-connect-button"
+  ]
+}
