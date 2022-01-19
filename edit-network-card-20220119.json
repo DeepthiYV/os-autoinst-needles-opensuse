@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 29,
+      "width": 160,
+      "height": 20,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 67,
+      "ypos": 206,
+      "width": 295,
+      "height": 14,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "edit-network-card"
+  ]
+}
