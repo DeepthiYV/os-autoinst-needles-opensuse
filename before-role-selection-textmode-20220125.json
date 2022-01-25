@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 29,
+      "width": 511,
+      "height": 59,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "before-role-selection"
+  ]
+}
