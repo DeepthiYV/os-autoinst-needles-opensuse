@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "ypos": 488,
+      "width": 166,
+      "type": "match",
+      "xpos": 21,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "quick-features-menu"
+  ]
+}
