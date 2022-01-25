@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 307,
+      "height": 17,
+      "width": 142,
+      "ypos": 238,
+      "match": 75
+    },
+    {
+      "height": 11,
+      "width": 35,
+      "ypos": 400,
+      "xpos": 583,
+      "type": "match",
+      "click_point": {
+        "xpos": 17.5,
+        "ypos": 5.5
+      },
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "user-acount-ctl-allow-make-changes"
+  ]
+}
