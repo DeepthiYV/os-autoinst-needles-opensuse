@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 572,
+      "height": 15,
+      "ypos": 398,
+      "width": 57,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "user-acount-ctl-yes"
+  ]
+}
