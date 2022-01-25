@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 104,
+      "ypos": 101,
+      "width": 207,
+      "height": 77,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "before-role-selection"
+  ]
+}
