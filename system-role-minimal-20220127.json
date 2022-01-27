@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 57,
+      "ypos": 335,
+      "xpos": 385,
+      "type": "match",
+      "height": 15,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-minimal"
+  ]
+}
