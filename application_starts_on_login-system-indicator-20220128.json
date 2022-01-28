@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 740,
+      "width": 35,
+      "height": 22,
+      "type": "match",
+      "xpos": 989
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-indicator"
+  ]
+}
