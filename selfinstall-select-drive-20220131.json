@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 215,
+      "ypos": 227,
+      "width": 192,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 259,
+      "ypos": 255,
+      "width": 70,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 367,
+      "ypos": 498,
+      "width": 85,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle-micro",
+    "selfinstall-select-drive"
+  ]
+}
