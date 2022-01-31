@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 170,
+      "height": 38,
+      "xpos": 83,
+      "ypos": 243,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle-micro",
+    "ENV-UEFI-1",
+    "inst-oninstallation"
+  ]
+}
