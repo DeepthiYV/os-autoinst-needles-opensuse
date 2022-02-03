@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 135,
+      "height": 20,
+      "ypos": 45,
+      "xpos": 340,
+      "type": "match"
+    },
+    {
+      "width": 32,
+      "ypos": 83,
+      "height": 10,
+      "xpos": 375,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-timezone-en_US",
+    "ENV-DESKTOP-textmode"
+  ]
+}

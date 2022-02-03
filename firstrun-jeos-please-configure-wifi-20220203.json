@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 167,
+      "height": 30,
+      "ypos": 338,
+      "xpos": 400,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-please-configure-wifi"
+  ]
+}
