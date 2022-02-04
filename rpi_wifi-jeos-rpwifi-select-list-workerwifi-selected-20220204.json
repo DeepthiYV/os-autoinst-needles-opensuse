@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 366,
+      "ypos": 367,
+      "width": 111,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 197,
+      "ypos": 175,
+      "width": 282,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-rpiwifi-select",
+    "jeos-rpwifi-select-list-workerwifi-selected"
+  ]
+}
