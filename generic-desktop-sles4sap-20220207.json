@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 132,
+      "type": "match",
+      "width": 762,
+      "height": 162,
+      "ypos": 31,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SLE_PRODUCT-sles4sap",
+    "generic-desktop"
+  ]
+}
