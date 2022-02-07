@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 118,
+      "width": 775,
+      "ypos": 36,
+      "height": 155,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLE_PRODUCT-sles4sap",
+    "GNOME",
+    "generic-desktop",
+    "x11"
+  ]
+}
