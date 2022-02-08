@@ -1,0 +1,57 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "xpos": 34,
+      "ypos": 310,
+      "width": 199,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 179,
+      "width": 335,
+      "height": 14,
+      "xpos": 387
+    },
+    {
+      "width": 36,
+      "ypos": 311,
+      "xpos": 240,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 131,
+      "ypos": 273,
+      "height": 30,
+      "xpos": 185
+    },
+    {
+      "type": "match",
+      "height": 24,
+      "xpos": 25,
+      "ypos": 391,
+      "width": 116
+    },
+    {
+      "ypos": 390,
+      "width": 167,
+      "xpos": 152,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 393,
+      "height": 10,
+      "ypos": 701,
+      "width": 152
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-addon-license-sdk"
+  ]
+}
