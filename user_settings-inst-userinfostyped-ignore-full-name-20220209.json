@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 157,
+      "type": "match",
+      "xpos": 142,
+      "ypos": 114,
+      "height": 29
+    },
+    {
+      "height": 161,
+      "xpos": 567,
+      "width": 106,
+      "type": "match",
+      "ypos": 329
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-userinfostyped-ignore-full-name"
+  ]
+}
