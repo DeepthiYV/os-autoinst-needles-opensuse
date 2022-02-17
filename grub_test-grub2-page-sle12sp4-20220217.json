@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 18,
+      "xpos": 229,
+      "width": 69,
+      "ypos": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP4ORLATER-1",
+    "grub2-page"
+  ]
+}
