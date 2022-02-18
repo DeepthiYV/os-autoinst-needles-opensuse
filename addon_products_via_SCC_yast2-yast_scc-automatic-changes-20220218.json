@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "ypos": 123,
+      "xpos": 17,
+      "type": "match",
+      "width": 281
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast_scc-installation-summary"
+  ]
+}
