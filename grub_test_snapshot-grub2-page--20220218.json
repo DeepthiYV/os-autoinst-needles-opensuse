@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 232,
+      "height": 19,
+      "type": "match",
+      "ypos": 31,
+      "width": 73
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "grub2-page"
+  ]
+}
