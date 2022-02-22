@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "width": 275,
+      "xpos": 13,
+      "type": "match",
+      "ypos": 96
+    },
+    {
+      "height": 20,
+      "ypos": 459,
+      "type": "match",
+      "xpos": 588,
+      "width": 99
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "security-configuration"
+  ]
+}
