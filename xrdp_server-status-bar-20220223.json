@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 72,
+      "height": 24,
+      "ypos": 4,
+      "xpos": 948
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "status-bar"
+  ]
+}
