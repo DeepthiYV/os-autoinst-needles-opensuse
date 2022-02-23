@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 701,
+      "ypos": 172,
+      "click_point": {
+        "ypos": 21.5,
+        "xpos": 101.5
+      },
+      "type": "match",
+      "width": 203,
+      "height": 43
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "user-logout-sector"
+  ]
+}
