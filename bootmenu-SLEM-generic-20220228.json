@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 125,
+      "width": 130,
+      "xpos": 337,
+      "type": "match",
+      "ypos": 47
+    },
+    {
+      "xpos": 98,
+      "height": 36,
+      "width": 81,
+      "type": "match",
+      "ypos": 210
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle-micro",
+    "bootloader",
+    "grub2"
+  ]
+}
