@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 348,
+      "height": 36,
+      "width": 268,
+      "ypos": 325
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "registration-online-repos",
+    "ENV-INSTLANG-en_US"
+  ]
+}
