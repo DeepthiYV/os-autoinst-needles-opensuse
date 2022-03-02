@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "click_point": {
+        "xpos": 19.5,
+        "ypos": 7
+      },
+      "ypos": 190,
+      "height": 14,
+      "width": 39,
+      "xpos": 505,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-dns-response-list"
+  ]
+}
