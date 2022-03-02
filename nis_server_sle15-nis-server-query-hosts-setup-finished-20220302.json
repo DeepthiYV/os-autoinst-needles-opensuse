@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 120,
+      "type": "match",
+      "height": 45,
+      "width": 316,
+      "xpos": 49
+    },
+    {
+      "height": 16,
+      "type": "match",
+      "ypos": 193,
+      "xpos": 70,
+      "width": 175
+    },
+    {
+      "width": 93,
+      "xpos": 751,
+      "ypos": 667,
+      "type": "match",
+      "height": 40
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-server-query-hosts-setup-finished"
+  ]
+}
