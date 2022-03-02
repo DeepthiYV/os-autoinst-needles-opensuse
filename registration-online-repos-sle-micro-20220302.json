@@ -1,14 +1,15 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 253,
+      "height": 18,
+      "type": "match",
       "ypos": 334,
-      "width": 423,
-      "height": 23,
-      "type": "match"
+      "xpos": 253,
+      "width": 412,
+      "match": 90
     }
   ],
+  "properties": [],
   "tags": [
     "registration-online-repos",
     "ENV-VIDEOMODE-text",
