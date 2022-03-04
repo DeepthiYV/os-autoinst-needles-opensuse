@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 1,
+      "height": 763,
+      "type": "match",
+      "xpos": 0,
+      "width": 946
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#95818 -- needle compaired failed"
+    }
+  ],
+  "tags": [
+    "gb18030-double-page-29"
+  ]
+}
