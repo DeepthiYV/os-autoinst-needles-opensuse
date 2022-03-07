@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 253,
+      "type": "match",
+      "width": 400,
+      "height": 10,
+      "ypos": 339,
+      "match": 81
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "registration-online-repos",
+    "ENV-VIDEOMODE-text",
+    "ENV-DISTRI-sle-micro",
+    "ENV-INSTLANG-en_US"
+  ]
+}
