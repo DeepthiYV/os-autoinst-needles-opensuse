@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "width": 49,
+      "ypos": 726,
+      "xpos": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "installation",
+    "yast-still-running"
+  ]
+}
