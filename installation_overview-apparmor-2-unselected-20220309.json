@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 10,
+      "xpos": 397,
+      "width": 152,
+      "ypos": 531,
+      "match": 90
+    },
+    {
+      "ypos": 161,
+      "height": 26,
+      "xpos": 358,
+      "width": 307,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP4ORLATER-1",
+    "apparmor-not-selected"
+  ]
+}
