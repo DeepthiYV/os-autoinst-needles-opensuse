@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 652,
+      "width": 132,
+      "height": 13,
+      "type": "match",
+      "xpos": 361
+    },
+    {
+      "ypos": 494,
+      "width": 108,
+      "height": 11,
+      "type": "match",
+      "xpos": 494
+    },
+    {
+      "ypos": 285,
+      "width": 130,
+      "height": 17,
+      "type": "match",
+      "xpos": 358
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-pcm-highlighted"
+  ]
+}
