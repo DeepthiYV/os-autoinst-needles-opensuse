@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 197,
+      "type": "match",
+      "width": 98,
+      "ypos": 97,
+      "height": 141
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1196951"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "favorites-list-libreoffice"
+  ]
+}
