@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 161,
+      "type": "match",
+      "height": 11,
+      "ypos": 494,
+      "xpos": 488
+    },
+    {
+      "type": "match",
+      "width": 173,
+      "xpos": 358,
+      "ypos": 412,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-tsm-highlighted"
+  ]
+}
