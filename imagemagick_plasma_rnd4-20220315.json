@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 200,
+      "ypos": 320,
+      "xpos": 307,
+      "width": 200
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_plasma_rnd4"
+  ]
+}
