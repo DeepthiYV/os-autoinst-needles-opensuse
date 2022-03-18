@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 132,
+      "xpos": 361,
+      "height": 13,
+      "ypos": 652
+    },
+    {
+      "width": 108,
+      "type": "match",
+      "ypos": 494,
+      "height": 11,
+      "xpos": 494
+    },
+    {
+      "xpos": 358,
+      "ypos": 285,
+      "height": 17,
+      "type": "match",
+      "width": 130
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-pcm-highlighted"
+  ]
+}
