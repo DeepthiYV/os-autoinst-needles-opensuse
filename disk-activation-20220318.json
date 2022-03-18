@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 109,
+      "height": 35,
+      "xpos": 72,
+      "width": 232,
+      "type": "match"
+    },
+    {
+      "width": 160,
+      "type": "match",
+      "height": 48,
+      "ypos": 301,
+      "xpos": 599
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "disk-activation"
+  ]
+}
