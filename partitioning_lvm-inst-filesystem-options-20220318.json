@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "width": 133,
+      "type": "match",
+      "xpos": 9,
+      "ypos": 98
+    },
+    {
+      "ypos": 732,
+      "xpos": 23,
+      "type": "match",
+      "width": 35,
+      "height": 15
+    },
+    {
+      "ypos": 101,
+      "xpos": 150,
+      "width": 92,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-filesystem-options",
+    "storage-ng"
+  ]
+}
