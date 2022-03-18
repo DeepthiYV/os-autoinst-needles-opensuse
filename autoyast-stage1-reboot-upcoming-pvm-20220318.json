@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 18,
+      "width": 106,
+      "type": "match",
+      "xpos": 362,
+      "ypos": 378
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "autoyast-stage1-reboot-upcoming"
+  ]
+}
