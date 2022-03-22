@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 347,
+      "ypos": 327,
+      "width": 38,
+      "height": 15,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast-scc-error"
+  ]
+}
