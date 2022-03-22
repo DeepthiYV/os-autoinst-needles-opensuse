@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 200,
+      "ypos": 320,
+      "xpos": 306,
+      "type": "match",
+      "height": 200
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_shape_in_lights"
+  ]
+}
