@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 17,
+      "ypos": 98,
+      "width": 237,
+      "height": 41,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-filesystem-options"
+  ]
+}
