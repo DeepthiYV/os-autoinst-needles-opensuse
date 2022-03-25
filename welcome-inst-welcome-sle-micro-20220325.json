@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 128,
+      "type": "match",
+      "ypos": 116,
+      "xpos": 16,
+      "width": 294
+    },
+    {
+      "width": 162,
+      "type": "match",
+      "height": 91,
+      "ypos": 251,
+      "xpos": 360,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle-micro",
+    "inst-welcome"
+  ]
+}
