@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 187,
+      "xpos": 483,
+      "type": "match",
+      "ypos": 31,
+      "height": 31
+    },
+    {
+      "type": "match",
+      "ypos": 556,
+      "height": 21,
+      "xpos": 14,
+      "width": 216
+    },
+    {
+      "type": "match",
+      "ypos": 34,
+      "height": 22,
+      "xpos": 17,
+      "width": 328
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_migration-license-agreement"
+  ]
+}
