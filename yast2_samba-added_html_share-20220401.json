@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 177,
+      "ypos": 191,
+      "width": 244,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-added_html_share"
+  ]
+}
