@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 169,
+      "ypos": 45,
+      "width": 65,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_identity_navigated"
+  ]
+}
