@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 85,
+      "width": 29,
+      "height": 53,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_ldap_advanced_expert_settings_not-use-ssl"
+  ]
+}
