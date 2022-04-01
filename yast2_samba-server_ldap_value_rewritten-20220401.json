@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 446,
+      "ypos": 387,
+      "width": 128,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_ldap_value_rewritten"
+  ]
+}
