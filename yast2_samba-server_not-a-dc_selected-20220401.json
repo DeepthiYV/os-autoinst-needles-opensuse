@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 43,
+      "ypos": 131,
+      "width": 157,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_not-a-dc_selected"
+  ]
+}
