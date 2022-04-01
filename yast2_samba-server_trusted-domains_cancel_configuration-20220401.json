@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 453,
+      "ypos": 334,
+      "width": 114,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 476,
+      "ypos": 370,
+      "width": 68,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_trusted-domains_cancel_configuration"
+  ]
+}
