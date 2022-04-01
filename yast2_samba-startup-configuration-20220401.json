@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 48,
+      "width": 50,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 122,
+      "ypos": 240,
+      "width": 106,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-startup-configuration"
+  ]
+}
