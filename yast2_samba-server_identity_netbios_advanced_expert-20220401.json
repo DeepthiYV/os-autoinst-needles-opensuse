@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 171,
+      "ypos": 389,
+      "width": 234,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_identity_netbios_advanced_expert"
+  ]
+}
