@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 395,
+      "ypos": 413,
+      "width": 171,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-389ds-setup"
+  ]
+}
