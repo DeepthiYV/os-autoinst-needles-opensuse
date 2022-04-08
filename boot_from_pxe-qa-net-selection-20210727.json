@@ -1,24 +1,25 @@
 {
   "area": [
     {
+      "height": 11,
+      "width": 151,
       "xpos": 232,
       "ypos": 18,
-      "width": 151,
-      "height": 11,
       "type": "match"
     },
     {
+      "type": "match",
       "xpos": 9,
-      "ypos": 51,
-      "width": 54,
       "height": 26,
-      "type": "match"
+      "width": 54,
+      "ypos": 51
     }
   ],
   "properties": [],
   "tags": [
     "ENV-VIDEOMODE-text",
     "qa-net-selection",
+    "qa-net-selection-grub",
     "qa-net-selection-ipmitool"
   ]
 }
