@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 337,
+      "ypos": 321,
+      "height": 136,
+      "width": 346
+    },
+    {
+      "width": 10,
+      "ypos": 382,
+      "height": 24,
+      "xpos": 365,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "desktop-runner"
+  ]
+}
