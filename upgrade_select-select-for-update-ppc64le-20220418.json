@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 176,
+      "height": 73,
+      "width": 279,
+      "type": "match",
+      "xpos": 48
+    },
+    {
+      "ypos": 169,
+      "xpos": 622,
+      "type": "match",
+      "width": 38,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-for-update-ppc64le"
+  ]
+}
