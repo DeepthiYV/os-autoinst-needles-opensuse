@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 304,
+      "height": 85,
+      "type": "match",
+      "xpos": 20,
+      "ypos": 191
+    },
+    {
+      "type": "match",
+      "height": 19,
+      "ypos": 112,
+      "xpos": 348,
+      "width": 156
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "select-migration-target"
+  ]
+}
