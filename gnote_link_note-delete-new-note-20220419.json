@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 25,
+      "xpos": 273,
+      "ypos": 361,
+      "width": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "delete-new-note"
+  ]
+}
