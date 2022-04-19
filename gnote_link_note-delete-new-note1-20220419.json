@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 143,
+      "ypos": 185,
+      "width": 151,
+      "height": 20,
+      "type": "match",
+      "click_point": {
+        "xpos": 141.5,
+        "ypos": 11
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "delete-new-note"
+  ]
+}
