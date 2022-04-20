@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 213,
+      "height": 23,
+      "ypos": 289,
+      "width": 255
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnote-new-note-matched"
+  ]
+}
