@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 388,
+      "ypos": 185,
+      "width": 228,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 857,
+      "ypos": 505,
+      "width": 84,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Diagnostics-Close"
+  ]
+}
