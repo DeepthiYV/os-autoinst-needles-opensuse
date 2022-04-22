@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 953,
+      "ypos": 45,
+      "width": 49,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Save-Results-XCCDF-Save"
+  ]
+}
