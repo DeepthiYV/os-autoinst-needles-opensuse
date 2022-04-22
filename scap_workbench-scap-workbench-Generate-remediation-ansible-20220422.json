@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 621,
+      "ypos": 649,
+      "width": 51,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Generate-remediation-ansible"
+  ]
+}
