@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 959,
+      "ypos": 46,
+      "width": 41,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Save-Results-ARF-Save"
+  ]
+}
