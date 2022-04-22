@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 502,
+      "ypos": 676,
+      "width": 96,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Save-Results-HTML"
+  ]
+}
