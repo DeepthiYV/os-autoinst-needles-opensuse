@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 77,
+      "width": 71,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 833,
+      "ypos": 104,
+      "width": 185,
+      "height": 345,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "stunnel-server-desktop"
+  ]
+}
