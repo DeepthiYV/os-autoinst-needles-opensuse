@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 381,
+      "height": 16,
+      "ypos": 279,
+      "type": "match",
+      "width": 122
+    },
+    {
+      "xpos": 739,
+      "ypos": 493,
+      "height": 30,
+      "width": 85,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Customize-Profile-OK"
+  ]
+}
