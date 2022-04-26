@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 34,
+      "xpos": 593,
+      "ypos": 696,
+      "width": 191,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Generate-remediation"
+  ]
+}
