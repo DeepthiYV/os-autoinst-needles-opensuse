@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 206,
+      "height": 10,
+      "xpos": 3,
+      "ypos": 210,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-vterm-closed"
+  ]
+}
