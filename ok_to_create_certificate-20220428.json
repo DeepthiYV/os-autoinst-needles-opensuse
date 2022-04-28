@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 699,
+      "ypos": 667,
+      "width": 78,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ok_to_create_certificate"
+  ]
+}
