@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 144,
+      "width": 823,
+      "height": 624,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "this is the workaround for generic desktop with printer added"
+    }
+  ],
+  "tags": [
+    "generic-desktop"
+  ]
+}
