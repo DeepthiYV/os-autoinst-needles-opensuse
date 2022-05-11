@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 208,
+      "ypos": 221,
+      "width": 219,
+      "height": 21,
+      "type": "match",
+      "margin": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "selfinstall-screen"
+  ]
+}
