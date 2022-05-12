@@ -1,17 +1,17 @@
 {
   "area": [
     {
-      "xpos": 4,
-      "ypos": 144,
-      "width": 823,
-      "height": 624,
-      "type": "match"
+      "type": "match",
+      "width": 786,
+      "ypos": 7,
+      "height": 758,
+      "xpos": 14
     }
   ],
   "properties": [
     {
-      "name": "workaround",
-      "value": "this is the workaround for generic desktop with printer added"
+      "value": "this is the workaround for generic desktop with printer added",
+      "name": "workaround"
     }
   ],
   "tags": [
