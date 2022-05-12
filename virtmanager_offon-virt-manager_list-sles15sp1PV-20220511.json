@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "ypos": 309,
+      "width": 66,
+      "xpos": 60,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_list-sles15sp1PV"
+  ]
+}
