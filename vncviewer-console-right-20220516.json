@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 79,
+      "ypos": 37,
+      "xpos": 701,
+      "type": "match",
+      "height": 24
+    },
+    {
+      "height": 20,
+      "type": "match",
+      "xpos": 514,
+      "ypos": 69,
+      "width": 136
+    },
+    {
+      "xpos": 580,
+      "ypos": 70,
+      "width": 40,
+      "height": 20,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vncviewer-console-right"
+  ]
+}
