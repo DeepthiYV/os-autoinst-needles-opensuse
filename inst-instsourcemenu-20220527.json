@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 334,
+      "width": 155,
+      "ypos": 250,
+      "height": 247,
+      "match": 95
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-instsourcemenu"
+  ]
+}
