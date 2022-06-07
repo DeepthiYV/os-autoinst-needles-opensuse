@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 22,
+      "width": 1013,
+      "height": 725,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-ncurses-closed"
+  ]
+}
