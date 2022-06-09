@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 37,
+      "ypos": 261,
+      "width": 180,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-pcm-selected"
+  ]
+}
