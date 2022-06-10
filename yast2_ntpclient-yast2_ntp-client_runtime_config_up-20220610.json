@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 206,
+      "width": 50,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_ntp-client_runtime_config_up"
+  ]
+}
