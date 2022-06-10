@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 122,
+      "ypos": 289,
+      "xpos": 286,
+      "width": 145
+    },
+    {
+      "width": 44,
+      "height": 38,
+      "type": "match",
+      "xpos": 593,
+      "ypos": 511,
+      "click_point": {
+        "xpos": 22,
+        "ypos": 19
+      }
+    },
+    {
+      "width": 217,
+      "xpos": 452,
+      "type": "match",
+      "height": 16,
+      "ypos": 289
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl2-install-kernel-finished"
+  ]
+}
