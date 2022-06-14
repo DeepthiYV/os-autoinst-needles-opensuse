@@ -1,0 +1,56 @@
+{
+  "area": [
+    {
+      "xpos": 46,
+      "ypos": 108,
+      "width": 19,
+      "height": 22,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 45,
+      "ypos": 137,
+      "width": 142,
+      "height": 14,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 54,
+      "ypos": 164,
+      "width": 57,
+      "height": 24,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 942,
+      "ypos": 562,
+      "width": 50,
+      "height": 25,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 638,
+      "ypos": 568,
+      "width": 57,
+      "height": 19,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 346,
+      "ypos": 568,
+      "width": 43,
+      "height": 18,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "SUSE-WSL-firstrun"
+  ]
+}
