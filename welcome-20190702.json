@@ -21,6 +21,7 @@
     "ENV-INSTLANG-en_US",
     "ENV-SP2ORLATER-1",
     "inst-welcome",
+    "inst-welcome-no-product-list",
     "installation",
     "languagepicked"
   ]

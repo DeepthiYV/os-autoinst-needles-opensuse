@@ -12,6 +12,8 @@
   "tags": [
     "ENV-VIDEOMODE-text",
     "inst-welcome",
+    "inst-welcome-no-product-list",
+    "license-agreement",
     "installation",
     "languagepicked"
   ]
