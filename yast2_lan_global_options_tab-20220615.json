@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 49,
+      "ypos": 124,
+      "width": 126,
+      "type": "match",
+      "height": 57
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_global_options_tab"
+  ]
+}
