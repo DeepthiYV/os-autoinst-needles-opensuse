@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "width": 36,
+      "type": "match",
+      "xpos": 698,
+      "ypos": 733,
+      "click_point": {
+        "xpos": 18,
+        "ypos": 14
+      }
+    },
+    {
+      "height": 13,
+      "width": 165,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 24
+    },
+    {
+      "xpos": 653,
+      "ypos": 733,
+      "height": 30,
+      "type": "match",
+      "width": 33
+    },
+    {
+      "ypos": 2,
+      "xpos": 3,
+      "width": 210,
+      "type": "match",
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "foreground-SUSE-WSL"
+  ]
+}
