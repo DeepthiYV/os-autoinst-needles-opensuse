@@ -27,6 +27,14 @@
       "ypos": 733,
       "xpos": 653,
       "match": 85
+    },
+    {
+      "xpos": 3,
+      "ypos": 2,
+      "width": 210,
+      "height": 20,
+      "type": "match",
+      "match": 85
     }
   ],
   "properties": [],
