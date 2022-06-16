@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 156,
+      "ypos": 485,
+      "width": 66,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-bootloader_pwd_filled_up"
+  ]
+}
