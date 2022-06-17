@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 31,
+      "type": "match",
+      "height": 19,
+      "ypos": 280,
+      "xpos": 387
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-partition-created"
+  ]
+}
