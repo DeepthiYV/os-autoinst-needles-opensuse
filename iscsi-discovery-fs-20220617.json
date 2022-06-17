@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 98,
+      "xpos": 13,
+      "width": 293,
+      "type": "match",
+      "height": 36
+    },
+    {
+      "ypos": 351,
+      "xpos": 146,
+      "type": "match",
+      "click_point": {
+        "ypos": 6.5,
+        "xpos": 15
+      },
+      "width": 178,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-discovery-fs"
+  ]
+}
