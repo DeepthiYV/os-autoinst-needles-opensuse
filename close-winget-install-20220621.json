@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 70,
+      "ypos": 86,
+      "width": 481,
+      "height": 73,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 577,
+      "ypos": 76,
+      "width": 108,
+      "height": 102,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 568,
+      "ypos": 35,
+      "width": 123,
+      "height": 29,
+      "type": "match",
+      "match": 90,
+      "click_point": {
+        "xpos": 106.5,
+        "ypos": 13.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close-winget-install"
+  ]
+}
