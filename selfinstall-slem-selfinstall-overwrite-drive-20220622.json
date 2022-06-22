@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 174,
+      "xpos": 201,
+      "height": 10,
+      "ypos": 342,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 10,
+      "ypos": 402,
+      "width": 61,
+      "xpos": 391
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle-micro",
+    "slem-selfinstall-overwrite-drive"
+  ]
+}
