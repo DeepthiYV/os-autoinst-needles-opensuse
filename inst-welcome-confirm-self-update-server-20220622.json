@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 351,
+      "ypos": 323,
+      "width": 91,
+      "height": 14,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-welcome-confirm-self-update-server"
+  ]
+}
