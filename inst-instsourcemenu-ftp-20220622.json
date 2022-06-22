@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 347,
+      "height": 57,
+      "width": 119,
+      "xpos": 324,
+      "match": 90
+    },
+    {
+      "xpos": 242,
+      "ypos": 194,
+      "width": 311,
+      "height": 32,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-instsourcemenu-ftp"
+  ]
+}
