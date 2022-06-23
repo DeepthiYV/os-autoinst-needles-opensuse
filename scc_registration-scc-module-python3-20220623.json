@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "ypos": 10,
+        "xpos": 7
+      },
+      "height": 21,
+      "xpos": 360,
+      "type": "match",
+      "ypos": 381,
+      "width": 110
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-python3"
+  ]
+}
