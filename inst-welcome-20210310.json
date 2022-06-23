@@ -19,6 +19,8 @@
   ],
   "properties": [],
   "tags": [
-    "inst-welcome"
+    "inst-welcome",
+    "inst-welcome-no-product-list",
+    "license-agreement"
   ]
 }

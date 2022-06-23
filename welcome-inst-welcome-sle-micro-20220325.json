@@ -19,6 +19,8 @@
   "properties": [],
   "tags": [
     "ENV-DISTRI-sle-micro",
-    "inst-welcome"
+    "inst-welcome",
+    "inst-welcome-no-product-list",
+    "license-agreement"
   ]
 }
