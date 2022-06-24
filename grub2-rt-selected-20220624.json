@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 357,
+      "type": "match",
+      "xpos": 100,
+      "height": 15,
+      "width": 59
+    },
+    {
+      "width": 91,
+      "height": 12,
+      "type": "match",
+      "ypos": 359,
+      "xpos": 456
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-0",
+    "grub2-rt-selected"
+  ]
+}
