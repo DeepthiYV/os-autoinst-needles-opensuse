@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 207,
+      "type": "match",
+      "height": 13,
+      "width": 269
+    },
+    {
+      "height": 65,
+      "width": 255,
+      "type": "match",
+      "ypos": 251,
+      "xpos": 361
+    },
+    {
+      "width": 171,
+      "height": 10,
+      "xpos": 358,
+      "type": "match",
+      "ypos": 693
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle-micro",
+    "inst-welcome",
+    "inst-welcome-no-product-list",
+    "license-agreement"
+  ]
+}
