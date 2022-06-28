@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 289,
+      "height": 19,
+      "type": "match",
+      "width": 86,
+      "xpos": 91,
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tunnel-console",
+    "root-console",
+    "log-console"
+  ]
+}
