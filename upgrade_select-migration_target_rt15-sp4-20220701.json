@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 147,
+      "width": 215,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 406,
+      "ypos": 120,
+      "width": 95,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_rt15-sp4"
+  ]
+}
