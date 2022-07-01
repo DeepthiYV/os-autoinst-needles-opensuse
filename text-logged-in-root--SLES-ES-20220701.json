@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 12,
+      "width": 168,
+      "height": 19,
+      "type": "match",
+      "match": 92
+    },
+    {
+      "xpos": 79,
+      "ypos": 63,
+      "width": 48,
+      "height": 18,
+      "type": "match",
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "text-logged-in-root"
+  ]
+}
