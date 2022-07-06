@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 376,
+      "ypos": 305,
+      "width": 267,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_registration-registration-page-registered"
+  ]
+}
