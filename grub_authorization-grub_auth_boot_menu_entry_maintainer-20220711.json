@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 163,
+      "width": 152,
+      "ypos": 252,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub_auth_boot_menu_entry_maintainer"
+  ]
+}
