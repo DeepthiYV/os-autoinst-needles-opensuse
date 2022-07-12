@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 83,
+      "width": 297,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 30,
+      "ypos": 100,
+      "width": 305,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 33,
+      "ypos": 115,
+      "width": 384,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 29,
+      "ypos": 130,
+      "width": 163,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 30,
+      "ypos": 147,
+      "width": 229,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_registration-extension-registration"
+  ]
+}
