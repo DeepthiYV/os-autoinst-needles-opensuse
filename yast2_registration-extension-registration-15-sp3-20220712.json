@@ -1,0 +1,85 @@
+{
+  "area": [
+    {
+      "xpos": 33,
+      "ypos": 127,
+      "width": 385,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 30,
+      "ypos": 142,
+      "width": 171,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 30,
+      "ypos": 177,
+      "width": 177,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 31,
+      "ypos": 194,
+      "width": 198,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 31,
+      "ypos": 207,
+      "width": 169,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 29,
+      "ypos": 224,
+      "width": 148,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 34,
+      "ypos": 253,
+      "width": 188,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 272,
+      "width": 157,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 33,
+      "ypos": 321,
+      "width": 188,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 333,
+      "width": 195,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 30,
+      "ypos": 352,
+      "width": 229,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_registration-extension-registration"
+  ]
+}
