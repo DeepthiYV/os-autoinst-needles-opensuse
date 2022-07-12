@@ -1,0 +1,71 @@
+{
+  "area": [
+    {
+      "xpos": 34,
+      "ypos": 144,
+      "width": 300,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 33,
+      "ypos": 194,
+      "width": 173,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 33,
+      "ypos": 223,
+      "width": 246,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 33,
+      "ypos": 243,
+      "width": 225,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 257,
+      "width": 136,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 33,
+      "ypos": 289,
+      "width": 155,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 35,
+      "ypos": 322,
+      "width": 238,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 35,
+      "ypos": 337,
+      "width": 251,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 35,
+      "ypos": 354,
+      "width": 220,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_registration-extension-registration"
+  ]
+}
