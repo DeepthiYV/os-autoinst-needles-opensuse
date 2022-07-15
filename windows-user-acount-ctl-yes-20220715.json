@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 306,
+      "ypos": 263,
+      "width": 344,
+      "height": 53,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 313,
+      "ypos": 487,
+      "width": 194,
+      "height": 26,
+      "type": "match",
+      "click_point": {
+        "xpos": 97,
+        "ypos": 13
+      },
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-user-acount-ctl-yes"
+  ]
+}
