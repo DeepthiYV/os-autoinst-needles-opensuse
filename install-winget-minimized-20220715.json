@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 315,
+      "ypos": 251,
+      "width": 208,
+      "height": 15,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 8,
+      "ypos": 271,
+      "width": 297,
+      "height": 14,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 694,
+      "ypos": 728,
+      "width": 34,
+      "height": 29,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 17,
+        "ypos": 14.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-winget-minimized"
+  ]
+}
