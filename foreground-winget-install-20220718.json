@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 7,
+      "width": 155,
+      "height": 16,
+      "xpos": 19,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 8,
+      "ypos": 178,
+      "width": 302,
+      "height": 11
+    },
+    {
+      "height": 36,
+      "ypos": 724,
+      "width": 42,
+      "click_point": {
+        "xpos": 21,
+        "ypos": 18
+      },
+      "xpos": 690,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "foreground-winget-install"
+  ]
+}
