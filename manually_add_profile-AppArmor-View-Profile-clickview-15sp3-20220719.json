@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 31,
+      "ypos": 211,
+      "xpos": 237,
+      "click_point": {
+        "ypos": 15.5,
+        "xpos": 46
+      },
+      "width": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-View-Profile-clickview"
+  ]
+}
