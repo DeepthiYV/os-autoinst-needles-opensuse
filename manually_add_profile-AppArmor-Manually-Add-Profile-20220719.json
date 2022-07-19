@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 139,
+      "xpos": 139,
+      "height": 20,
+      "ypos": 295
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Manually-Add-Profile"
+  ]
+}
