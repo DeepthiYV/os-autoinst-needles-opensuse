@@ -3,10 +3,10 @@
     {
       "xpos": 306,
       "height": 53,
+      "width": 344,
       "ypos": 263,
       "type": "match",
-      "width": 344,
-      "match": 90
+      "match": 85
     },
     {
       "height": 26,
@@ -18,7 +18,7 @@
         "ypos": 13
       },
       "ypos": 487,
-      "match": 90
+      "match": 85
     }
   ],
   "properties": [],
