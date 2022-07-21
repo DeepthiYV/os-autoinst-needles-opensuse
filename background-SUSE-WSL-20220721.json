@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "xpos": 18,
+        "ypos": 14
+      },
+      "ypos": 733,
+      "type": "match",
+      "width": 36,
+      "xpos": 672,
+      "height": 28
+    },
+    {
+      "ypos": 25,
+      "type": "match",
+      "width": 165,
+      "xpos": 3,
+      "height": 13
+    },
+    {
+      "xpos": 2,
+      "height": 20,
+      "ypos": 2,
+      "type": "match",
+      "width": 216
+    },
+    {
+      "xpos": 135,
+      "ypos": 126,
+      "width": 366,
+      "height": 122,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "background-SUSE-WSL"
+  ]
+}
