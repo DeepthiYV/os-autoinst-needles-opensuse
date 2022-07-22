@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 114,
+      "type": "match",
+      "width": 157,
+      "height": 38,
+      "ypos": 296
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "inst-oninstallation"
+  ]
+}
