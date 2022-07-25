@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 386,
+      "width": 248,
+      "type": "match",
+      "height": 25,
+      "ypos": 363
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "display-output-not-active",
+    "guest-disabled-display"
+  ]
+}
