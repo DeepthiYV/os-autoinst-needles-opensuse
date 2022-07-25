@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 360,
+      "ypos": 398,
+      "width": 380,
+      "height": 51,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-Common_Criteria"
+  ]
+}
