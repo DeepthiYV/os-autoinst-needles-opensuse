@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 85,
+      "height": 17,
+      "type": "match",
+      "width": 148,
+      "xpos": 242
+    },
+    {
+      "ypos": 582,
+      "type": "match",
+      "height": 14,
+      "width": 41,
+      "xpos": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-headers-website"
+  ]
+}
