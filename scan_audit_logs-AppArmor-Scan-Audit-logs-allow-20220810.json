@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 49,
+      "type": "match",
+      "width": 489,
+      "ypos": 145,
+      "xpos": 208
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Scan-Audit-logs-allow"
+  ]
+}
