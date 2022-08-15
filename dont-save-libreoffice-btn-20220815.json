@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 104,
+      "ypos": 441,
+      "type": "match",
+      "height": 29,
+      "xpos": 293,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dont-save-libreoffice-btn"
+  ]
+}
