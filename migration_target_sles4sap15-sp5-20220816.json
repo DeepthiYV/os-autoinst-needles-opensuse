@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 311,
+      "ypos": 145,
+      "height": 11,
+      "xpos": 357
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_sles4sap15-sp5"
+  ]
+}
