@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 209,
+      "type": "match",
+      "xpos": 7,
+      "height": 199,
+      "width": 132
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-test-fods"
+  ]
+}
