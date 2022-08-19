@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 292,
+      "ypos": 95,
+      "width": 157,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-scc-ui"
+  ]
+}
