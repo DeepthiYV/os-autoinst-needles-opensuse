@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "type": "match",
+      "click_point": {
+        "xpos": 23.5,
+        "ypos": 9
+      },
+      "width": 67,
+      "xpos": 243,
+      "ypos": 195
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_wizard-imap-selected"
+  ]
+}
