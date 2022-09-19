@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 159,
+      "width": 233,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 15,
+      "ypos": 66,
+      "width": 64,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-kvm"
+  ]
+}
