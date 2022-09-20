@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 57,
+      "width": 32,
+      "height": 17,
+      "ypos": 650,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-developertool-console_contents"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 63,
+      "width": 46,
+      "type": "match",
+      "ypos": 275,
+      "height": 17
+    },
+    {
+      "xpos": 678,
+      "ypos": 300,
+      "width": 47,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extensions-confirm-add"
+  ]
+}
