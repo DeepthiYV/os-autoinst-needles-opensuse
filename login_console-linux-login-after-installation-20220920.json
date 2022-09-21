@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 59,
+      "ypos": 535,
+      "width": 72,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "linux-login",
+    "reboot-after-installation"
+  ]
+}
