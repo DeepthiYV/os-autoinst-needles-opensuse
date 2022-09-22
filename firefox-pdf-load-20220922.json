@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 300,
+      "height": 53,
+      "width": 538,
+      "xpos": 242
+    },
+    {
+      "ypos": 11,
+      "type": "match",
+      "xpos": 8,
+      "width": 102,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-pdf-load"
+  ]
+}
