@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "width": 62,
+      "xpos": 348,
+      "type": "match",
+      "ypos": 71
+    }
+  ],
+  "properties": [
+    {
+      "value": "bsc#1203578",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "firefox-help-menu"
+  ]
+}
