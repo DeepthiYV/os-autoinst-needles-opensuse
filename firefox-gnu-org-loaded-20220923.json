@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 88,
+      "width": 18,
+      "xpos": 87,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 240,
+      "ypos": 86,
+      "width": 154,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-gnu-org-loaded"
+  ]
+}
