@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 469,
+      "width": 319,
+      "ypos": 394,
+      "height": 144,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-firefox-3"
+  ]
+}
