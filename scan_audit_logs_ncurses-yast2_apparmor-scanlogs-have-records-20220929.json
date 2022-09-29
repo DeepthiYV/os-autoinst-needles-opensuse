@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 428,
+      "ypos": 123,
+      "width": 169,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_apparmor-scanlogs-have-records"
+  ]
+}
