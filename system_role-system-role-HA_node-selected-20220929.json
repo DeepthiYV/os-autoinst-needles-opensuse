@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 365,
+      "height": 21,
+      "width": 92,
+      "ypos": 196
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-HA_node-selected"
+  ]
+}
