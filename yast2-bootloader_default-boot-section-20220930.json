@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 263,
+      "width": 47,
+      "height": 13,
+      "ypos": 297
+    },
+    {
+      "ypos": 295,
+      "xpos": 262,
+      "width": 139,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-bootloader_default-boot-section_tw"
+  ]
+}
