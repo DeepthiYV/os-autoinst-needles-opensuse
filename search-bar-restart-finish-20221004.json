@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 260,
+      "ypos": 173,
+      "width": 134,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 277,
+      "ypos": 328,
+      "width": 491,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 272,
+      "ypos": 418,
+      "width": 200,
+      "height": 23,
+      "type": "match",
+      "click_point": {
+        "xpos": 100,
+        "ypos": 11.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "search-bar-restart-finish"
+  ]
+}
