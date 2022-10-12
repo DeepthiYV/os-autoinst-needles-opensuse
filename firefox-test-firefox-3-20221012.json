@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 204,
+      "ypos": 232,
+      "width": 617,
+      "height": 413,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1203578"
+    }
+  ],
+  "tags": [
+    "test-firefox-3"
+  ]
+}
