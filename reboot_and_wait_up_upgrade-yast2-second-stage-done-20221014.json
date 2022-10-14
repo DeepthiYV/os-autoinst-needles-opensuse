@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 391,
+      "type": "match",
+      "ypos": 178,
+      "height": 93,
+      "xpos": 1
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-second-stage-done"
+  ]
+}
