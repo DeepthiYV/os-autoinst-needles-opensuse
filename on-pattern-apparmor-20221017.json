@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 124,
+      "width": 88,
+      "ypos": 440,
+      "height": 22
+    },
+    {
+      "type": "match",
+      "xpos": 208,
+      "width": 10,
+      "ypos": 51,
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "on-pattern",
+    "pattern-apparmor"
+  ]
+}
