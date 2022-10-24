@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 448,
+      "ypos": 480,
+      "width": 97,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "all-do-not-install"
+  ]
+}
