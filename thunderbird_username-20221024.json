@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 288,
+      "xpos": 63,
+      "width": 293,
+      "click_point": {
+        "xpos": 214.5,
+        "ypos": 19
+      },
+      "height": 82,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_username"
+  ]
+}
