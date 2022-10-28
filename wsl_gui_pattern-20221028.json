@@ -1,29 +1,36 @@
 {
   "area": [
     {
-      "xpos": 241,
-      "ypos": 295,
-      "width": 200,
+      "xpos": 8,
+      "ypos": 24,
+      "width": 133,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 239,
+      "ypos": 294,
+      "width": 202,
       "height": 19,
       "type": "match"
     },
     {
-      "xpos": 302,
-      "ypos": 391,
-      "width": 123,
-      "height": 18,
+      "xpos": 241,
+      "ypos": 328,
+      "width": 308,
+      "height": 15,
       "type": "match"
     },
     {
-      "xpos": 7,
-      "ypos": 24,
-      "width": 223,
-      "height": 14,
+      "xpos": 241,
+      "ypos": 434,
+      "width": 406,
+      "height": 28,
       "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "wsl_gui_pattern"
+    "wsl-gui-pattern"
   ]
 }
