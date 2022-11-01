@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 379,
+      "ypos": 136,
+      "type": "match",
+      "height": 17,
+      "width": 308,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-ltss"
+  ]
+}
