@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "width": 138,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 752
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-set-expiration"
+  ]
+}
