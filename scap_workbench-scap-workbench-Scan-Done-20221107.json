@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "ypos": 659,
+      "width": 67,
+      "type": "match",
+      "xpos": 367,
+      "match": 90
+    },
+    {
+      "xpos": 117,
+      "height": 19,
+      "ypos": 745,
+      "type": "match",
+      "width": 198
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Scan-Done"
+  ]
+}
