@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 138,
+      "ypos": 80,
+      "width": 520,
+      "height": 585,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-horizframetest-overview"
+  ]
+}

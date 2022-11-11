@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 263,
+      "height": 44,
+      "width": 761,
+      "ypos": 34,
+      "click_point": {
+        "xpos": 716.5,
+        "ypos": 16
+      },
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-output-save"
+  ]
+}
