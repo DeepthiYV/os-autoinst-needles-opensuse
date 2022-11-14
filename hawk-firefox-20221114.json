@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 80,
+      "ypos": 39,
+      "xpos": 344,
+      "type": "match",
+      "height": 23,
+      "match": 85
+    },
+    {
+      "height": 32,
+      "type": "match",
+      "xpos": 14,
+      "ypos": 163,
+      "width": 147,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "hawk-firefox"
+  ]
+}
