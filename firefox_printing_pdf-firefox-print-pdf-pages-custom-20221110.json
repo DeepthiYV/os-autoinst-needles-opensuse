@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 759,
+      "ypos": 456,
+      "width": 117,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-pdf-pages-custom"
+  ]
+}

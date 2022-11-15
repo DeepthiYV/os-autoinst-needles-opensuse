@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 160,
+      "ypos": 126,
+      "width": 460,
+      "height": 270,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-alignmenttest-2ndPage"
+  ]
+}

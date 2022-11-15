@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "width": 106,
+      "click_point": {
+        "ypos": 15.5,
+        "xpos": 53
+      },
+      "ypos": 679,
+      "type": "match",
+      "xpos": 394
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-testpage-overview-NextPage"
+  ]
+}

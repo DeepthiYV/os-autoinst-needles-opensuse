@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "ypos": 38,
+      "width": 1012,
+      "height": 725,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evince-indentationtest-output-pdf"
+  ]
+}

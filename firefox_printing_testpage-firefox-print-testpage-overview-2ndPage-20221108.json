@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 988,
+      "height": 696,
+      "ypos": 56,
+      "type": "match",
+      "xpos": 32
+    },
+    {
+      "xpos": 531,
+      "ypos": 693,
+      "type": "exclude",
+      "width": 104,
+      "height": 37
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-testpage-overview-2ndPage"
+  ]
+}

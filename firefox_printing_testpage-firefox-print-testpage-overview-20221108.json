@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 9,
+      "height": 722,
+      "width": 1009,
+      "click_point": {
+        "xpos": 378.5,
+        "ypos": 417
+      },
+      "type": "match",
+      "ypos": 36
+    },
+    {
+      "xpos": 548,
+      "ypos": 700,
+      "width": 71,
+      "height": 23,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-testpage-overview"
+  ]
+}
