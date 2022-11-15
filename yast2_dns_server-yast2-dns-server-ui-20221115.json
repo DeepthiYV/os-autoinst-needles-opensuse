@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 329,
+      "ypos": 72,
+      "width": 134,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 123,
+      "ypos": 116,
+      "width": 216,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-dns-server-ui"
+  ]
+}
