@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 551,
+      "width": 193,
+      "ypos": 35,
+      "height": 40
+    },
+    {
+      "xpos": 502,
+      "type": "match",
+      "height": 178,
+      "width": 256,
+      "ypos": 92
+    },
+    {
+      "type": "match",
+      "xpos": 366,
+      "width": 93,
+      "ypos": 377,
+      "height": 176
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome_control_center-1"
+  ]
+}
