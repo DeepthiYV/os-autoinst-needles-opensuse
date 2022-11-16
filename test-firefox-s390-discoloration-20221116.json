@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 264,
+      "ypos": 603,
+      "width": 79,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1203578 - Discoloration on firefox for s390"
+    }
+  ],
+  "tags": [
+    "test-firefox-s390-discoloration"
+  ]
+}
