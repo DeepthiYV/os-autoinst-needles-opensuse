@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 372,
+      "ypos": 92,
+      "type": "match",
+      "height": 32,
+      "width": 219
+    },
+    {
+      "ypos": 634,
+      "type": "match",
+      "xpos": 64,
+      "width": 156,
+      "height": 25
+    },
+    {
+      "height": 27,
+      "width": 147,
+      "type": "match",
+      "ypos": 168,
+      "xpos": 487
+    },
+    {
+      "xpos": 734,
+      "ypos": 184,
+      "width": 91,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-updates-installing"
+  ]
+}
