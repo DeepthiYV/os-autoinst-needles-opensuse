@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "ypos": 90,
+      "type": "match",
+      "xpos": 369,
+      "height": 35,
+      "width": 220
+    },
+    {
+      "width": 143,
+      "height": 24,
+      "xpos": 480,
+      "type": "match",
+      "ypos": 149
+    },
+    {
+      "width": 146,
+      "height": 26,
+      "ypos": 316,
+      "type": "match",
+      "xpos": 383
+    },
+    {
+      "height": 78,
+      "width": 90,
+      "xpos": 381,
+      "ypos": 155,
+      "type": "match"
+    },
+    {
+      "xpos": 699,
+      "ypos": 191,
+      "width": 79,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-updates-required-restart"
+  ]
+}
