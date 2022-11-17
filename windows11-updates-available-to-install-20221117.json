@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "ypos": 173,
+      "type": "match",
+      "xpos": 488,
+      "height": 21,
+      "width": 222
+    },
+    {
+      "xpos": 372,
+      "ypos": 92,
+      "type": "match",
+      "height": 37,
+      "width": 222
+    },
+    {
+      "ypos": 630,
+      "type": "match",
+      "xpos": 63,
+      "width": 160,
+      "height": 32
+    },
+    {
+      "xpos": 741,
+      "ypos": 191,
+      "width": 78,
+      "height": 21,
+      "type": "match",
+      "click_point": {
+        "xpos": 39,
+        "ypos": 10.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-updates-available"
+  ]
+}
