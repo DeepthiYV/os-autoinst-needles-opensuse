@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 472,
+      "ypos": 403,
+      "width": 23,
+      "height": 24,
+      "type": "exclude"
+    },
+    {
+      "xpos": 480,
+      "ypos": 412,
+      "width": 106,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "suse-pool"
+  ]
+}
