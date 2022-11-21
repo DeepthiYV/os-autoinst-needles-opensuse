@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 198,
+      "ypos": 355,
+      "width": 218,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 472,
+      "ypos": 385,
+      "width": 66,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "failed-to-kexec"
+  ]
+}
