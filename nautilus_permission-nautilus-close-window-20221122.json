@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 915,
+      "ypos": 97,
+      "width": 31,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-close-window"
+  ]
+}
