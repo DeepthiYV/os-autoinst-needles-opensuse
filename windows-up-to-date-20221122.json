@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 220,
+      "type": "match",
+      "height": 35,
+      "xpos": 373,
+      "ypos": 91
+    },
+    {
+      "width": 93,
+      "type": "match",
+      "height": 84,
+      "xpos": 379,
+      "ypos": 151
+    },
+    {
+      "width": 156,
+      "type": "match",
+      "height": 26,
+      "xpos": 483,
+      "ypos": 160
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-up-to-date"
+  ]
+}
