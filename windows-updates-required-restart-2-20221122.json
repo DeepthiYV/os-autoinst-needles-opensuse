@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 35,
+      "width": 220,
+      "ypos": 90,
+      "xpos": 367
+    },
+    {
+      "height": 24,
+      "type": "match",
+      "width": 59,
+      "ypos": 145,
+      "xpos": 486
+    },
+    {
+      "ypos": 216,
+      "xpos": 735,
+      "type": "match",
+      "height": 20,
+      "width": 79
+    },
+    {
+      "ypos": 630,
+      "xpos": 64,
+      "height": 31,
+      "type": "match",
+      "width": 154
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-updates-required-restart"
+  ]
+}
