@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 29,
+      "ypos": 88,
+      "width": 277,
+      "xpos": 69,
+      "type": "match"
+    },
+    {
+      "height": 28,
+      "ypos": 399,
+      "xpos": 556,
+      "width": 114,
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 55
+      },
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-winget-wsl"
+  ]
+}
