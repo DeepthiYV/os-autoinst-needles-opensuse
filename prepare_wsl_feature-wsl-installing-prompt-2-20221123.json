@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 2,
+      "width": 330,
+      "ypos": 25,
+      "height": 44
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-installing-prompt"
+  ]
+}
