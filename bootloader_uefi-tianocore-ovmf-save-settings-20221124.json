@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 216,
+      "ypos": 193,
+      "width": 218,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-ovmf-save-settings"
+  ]
+}
