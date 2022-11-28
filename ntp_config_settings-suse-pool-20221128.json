@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 10,
+      "xpos": 314,
+      "ypos": 388,
+      "width": 149
+    },
+    {
+      "xpos": 304,
+      "width": 20,
+      "ypos": 385,
+      "type": "exclude",
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-TEXTMODE-1",
+    "suse-pool"
+  ]
+}
