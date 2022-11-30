@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "ypos": 92,
+      "width": 301,
+      "height": 37,
+      "xpos": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 223,
+      "type": "match",
+      "height": 14,
+      "width": 73,
+      "ypos": 333
+    },
+    {
+      "type": "match",
+      "xpos": 244,
+      "height": 16,
+      "width": 209,
+      "ypos": 403
+    },
+    {
+      "width": 61,
+      "ypos": 731,
+      "height": 19,
+      "xpos": 941,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "preparing-disk-overview"
+  ]
+}
