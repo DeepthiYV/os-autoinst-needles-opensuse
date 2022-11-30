@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "width": 212,
+      "ypos": 15,
+      "height": 36
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openssl-fips-dhparam_accept_conn"
+  ]
+}
