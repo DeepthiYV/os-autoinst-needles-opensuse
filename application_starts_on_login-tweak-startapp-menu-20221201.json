@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "width": 151,
+      "ypos": 284,
+      "click_point": {
+        "ypos": 13,
+        "xpos": 75.5
+      },
+      "type": "match",
+      "xpos": 4
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "tweak-startapp-menu"
+  ]
+}
