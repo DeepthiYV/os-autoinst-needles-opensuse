@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 284,
+      "ypos": 319,
+      "width": 447,
+      "height": 128,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1181636 - ncurses sometimes uses accented letters (èèè ààà) instead of lines"
+    }
+  ],
+  "tags": [
+    "gpg-passphrase-enter"
+  ]
+}
