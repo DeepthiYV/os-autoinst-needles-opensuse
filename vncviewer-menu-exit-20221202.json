@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 445,
+      "ypos": 497,
+      "width": 77,
+      "height": 17,
+      "click_point": {
+        "xpos": 38.5,
+        "ypos": 8.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vncviewer-menu-exit"
+  ]
+}
