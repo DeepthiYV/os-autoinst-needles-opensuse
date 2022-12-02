@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 271,
+      "width": 188,
+      "height": 18,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 19,
+      "ypos": 42,
+      "width": 99,
+      "height": 64,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "load-initrd-error"
+  ]
+}
