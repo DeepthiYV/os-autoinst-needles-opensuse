@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 440,
+      "width": 88,
+      "xpos": 630,
+      "type": "match",
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-new-folder"
+  ]
+}
