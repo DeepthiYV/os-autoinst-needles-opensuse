@@ -2,15 +2,23 @@
   "area": [
     {
       "xpos": 0,
-      "ypos": 539,
-      "width": 445,
-      "height": 142,
+      "ypos": 596,
+      "width": 343,
+      "height": 29,
       "type": "match",
       "match": 86
+    },
+    {
+      "xpos": 164,
+      "ypos": 317,
+      "width": 369,
+      "height": 156,
+      "type": "match",
+      "match": 90
     }
   ],
   "properties": [],
   "tags": [
-    "no_image_detected"
+    "no-image-detected"
   ]
 }
