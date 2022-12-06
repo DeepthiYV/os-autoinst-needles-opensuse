@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "ypos": 42,
+      "xpos": 2,
+      "width": 589,
+      "height": 69,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 3,
+      "ypos": 319,
+      "width": 85,
+      "height": 19,
+      "type": "exclude",
+      "match": 86
+    },
+    {
+      "xpos": 0,
+      "ypos": 274,
+      "width": 186,
+      "height": 16,
+      "type": "exclude",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-grub-command-line"
+  ]
+}
