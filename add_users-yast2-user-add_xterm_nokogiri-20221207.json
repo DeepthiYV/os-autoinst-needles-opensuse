@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 170,
+      "ypos": 50,
+      "width": 181,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-user-add_xterm_nokogiri"
+  ]
+}
