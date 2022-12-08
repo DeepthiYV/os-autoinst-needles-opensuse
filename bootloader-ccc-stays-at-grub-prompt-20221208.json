@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 720,
+      "width": 128,
+      "height": 48,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ccc-stays-at-grub-prompt"
+  ]
+}
