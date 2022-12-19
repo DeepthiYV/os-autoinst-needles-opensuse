@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 631,
+      "ypos": 358,
+      "type": "match",
+      "width": 36,
+      "click_point": {
+        "xpos": 17,
+        "ypos": 8
+      },
+      "height": 19
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "adminer-save-passwd",
+    "tomcat-click-save-login"
+  ]
+}
