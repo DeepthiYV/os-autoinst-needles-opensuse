@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 704,
+      "width": 175,
+      "height": 63,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 164,
+      "ypos": 101,
+      "width": 344,
+      "height": 169,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-rescue-mode"
+  ]
+}
