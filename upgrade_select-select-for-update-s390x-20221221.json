@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 69,
+      "width": 275,
+      "type": "match",
+      "ypos": 91,
+      "xpos": 33
+    },
+    {
+      "xpos": 652,
+      "ypos": 178,
+      "height": 14,
+      "type": "match",
+      "width": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-for-update-s390x"
+  ]
+}
