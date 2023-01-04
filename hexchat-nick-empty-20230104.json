@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 325,
+      "height": 38,
+      "ypos": 182,
+      "type": "match",
+      "width": 159,
+      "click_point": {
+        "xpos": 127.5,
+        "ypos": 18
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-nick-empty"
+  ]
+}
