@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 55,
+      "ypos": 115,
+      "width": 221,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 215,
+      "ypos": 465,
+      "width": 236,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "addon-products-all_packages-desktop-highlighted"
+  ]
+}
