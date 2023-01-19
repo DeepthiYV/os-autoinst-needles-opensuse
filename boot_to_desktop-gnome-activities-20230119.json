@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "height": 403,
+      "ypos": 5,
+      "width": 1023,
+      "type": "match"
+    },
+    {
+      "ypos": 1,
+      "width": 97,
+      "type": "exclude",
+      "xpos": 462,
+      "height": 25
+    },
+    {
+      "ypos": 32,
+      "width": 528,
+      "type": "exclude",
+      "xpos": 245,
+      "height": 82
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP4ORLATER",
+    "ENV-DESKTOP-gnome",
+    "GNOME",
+    "desktop-gnome-shell",
+    "gnome-activities"
+  ]
+}
