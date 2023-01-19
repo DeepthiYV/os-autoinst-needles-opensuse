@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 30,
+      "xpos": 175,
+      "type": "match",
+      "width": 280,
+      "ypos": 150
+    },
+    {
+      "width": 234,
+      "type": "match",
+      "ypos": 213,
+      "height": 20,
+      "xpos": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation-kernel-parameters"
+  ]
+}
