@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 144,
+      "xpos": 437,
+      "width": 223,
+      "type": "match",
+      "ypos": 232
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1203578"
+    }
+  ],
+  "tags": [
+    "test-firefox-s390-discoloration"
+  ]
+}
