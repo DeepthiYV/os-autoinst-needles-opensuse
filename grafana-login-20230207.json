@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 60,
+      "ypos": 42,
+      "type": "match",
+      "xpos": 29,
+      "height": 25
+    },
+    {
+      "type": "match",
+      "xpos": 478,
+      "height": 21,
+      "ypos": 583,
+      "width": 71
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grafana-login"
+  ]
+}
