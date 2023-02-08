@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 89,
+      "ypos": 219,
+      "width": 253,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grafana-home"
+  ]
+}
