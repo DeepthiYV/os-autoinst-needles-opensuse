@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 124,
+      "ypos": 287,
+      "width": 146,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 150,
+      "ypos": 161,
+      "width": 106,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select_suse-dashboard"
+  ]
+}
