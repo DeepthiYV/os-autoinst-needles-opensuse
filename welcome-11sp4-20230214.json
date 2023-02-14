@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "width": 165,
+      "height": 35,
+      "type": "match",
+      "ypos": 13,
+      "xpos": 278
+    },
+    {
+      "xpos": 291,
+      "height": 23,
+      "width": 143,
+      "ypos": 230,
+      "type": "match"
+    },
+    {
+      "xpos": 335,
+      "width": 116,
+      "height": 56,
+      "type": "match",
+      "ypos": 73
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-welcome",
+    "inst-welcome-no-product-list",
+    "installation",
+    "languagepicked",
+    "license-agreement"
+  ]
+}
