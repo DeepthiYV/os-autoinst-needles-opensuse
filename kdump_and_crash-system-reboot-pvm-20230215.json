@@ -1,0 +1,100 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 13,
+      "xpos": 0,
+      "ypos": 16,
+      "width": 185
+    },
+    {
+      "height": 15,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 192,
+      "width": 258
+    },
+    {
+      "ypos": 33,
+      "xpos": 0,
+      "height": 14,
+      "type": "match",
+      "width": 192
+    },
+    {
+      "width": 424,
+      "height": 14,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 96
+    },
+    {
+      "ypos": 48,
+      "xpos": 1,
+      "type": "match",
+      "height": 14,
+      "width": 383
+    },
+    {
+      "width": 375,
+      "ypos": 65,
+      "xpos": 1,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "ypos": 112,
+      "xpos": 0,
+      "type": "match",
+      "height": 14,
+      "width": 409
+    },
+    {
+      "width": 264,
+      "xpos": 0,
+      "ypos": 175,
+      "type": "match",
+      "height": 15
+    },
+    {
+      "width": 79,
+      "type": "match",
+      "height": 16,
+      "xpos": 1,
+      "ypos": 736
+    },
+    {
+      "width": 391,
+      "xpos": 2,
+      "ypos": 161,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "width": 278,
+      "type": "match",
+      "height": 16,
+      "ypos": 704,
+      "xpos": 0
+    },
+    {
+      "type": "match",
+      "height": 19,
+      "ypos": 670,
+      "xpos": 0,
+      "width": 377
+    },
+    {
+      "width": 325,
+      "ypos": 145,
+      "xpos": 0,
+      "type": "match",
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-reboot",
+    "ENV-BACKEND-spvm"
+  ]
+}
