@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 426,
+      "xpos": 32,
+      "ypos": 418,
+      "height": 12,
+      "match": 96
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SLES4SAP-1",
+    "ENV-VIDEOMODE-text",
+    "select-product-sles4sap"
+  ]
+}
