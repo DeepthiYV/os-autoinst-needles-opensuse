@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 98,
+      "xpos": 308,
+      "ypos": 80,
+      "width": 188
+    },
+    {
+      "type": "match",
+      "height": 45,
+      "width": 70,
+      "xpos": 151,
+      "ypos": 205
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-0",
+    "ENV-SLE_PRODUCT-slert",
+    "bootloader",
+    "grub2"
+  ]
+}
