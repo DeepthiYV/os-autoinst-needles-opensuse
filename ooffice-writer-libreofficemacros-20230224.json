@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "xpos": 5.5,
+        "ypos": 8
+      },
+      "ypos": 297,
+      "width": 170,
+      "xpos": 196,
+      "type": "match",
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ooffice-writer-libreofficemacros"
+  ]
+}
