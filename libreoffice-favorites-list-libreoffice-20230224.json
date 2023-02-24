@@ -1,19 +1,14 @@
 {
   "area": [
     {
-      "height": 125,
-      "xpos": 8,
+      "width": 45,
       "type": "match",
-      "width": 123,
-      "ypos": 107
+      "xpos": 510,
+      "height": 37,
+      "ypos": 703
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "bsc#1196951"
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "favorites-list-libreoffice"
