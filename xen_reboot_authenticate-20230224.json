@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 401,
+      "width": 405,
+      "height": 174,
+      "type": "match",
+      "click_point": {
+        "xpos": 301.5,
+        "ypos": 158
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#123999"
+    }
+  ],
+  "tags": [
+    "xen_reboot_authenticate"
+  ]
+}
