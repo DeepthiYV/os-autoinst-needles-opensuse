@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 200,
+      "ypos": 232,
+      "type": "match",
+      "height": 15,
+      "xpos": 374,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-hpc-server"
+  ]
+}
