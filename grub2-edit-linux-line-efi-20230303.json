@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "type": "match",
+      "width": 127,
+      "ypos": 350,
+      "xpos": 98
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-MACHINE-uefi",
+    "grub2-edit-linux-line"
+  ]
+}
