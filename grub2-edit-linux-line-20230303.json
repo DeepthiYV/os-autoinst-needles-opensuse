@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 350,
+      "xpos": 98,
+      "height": 26,
+      "type": "match",
+      "width": 119
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-MACHINE-64bit",
+    "grub2-edit-linux-line"
+  ]
+}
