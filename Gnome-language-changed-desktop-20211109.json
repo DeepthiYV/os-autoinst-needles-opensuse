@@ -1,22 +1,23 @@
 {
   "area": [
     {
-      "height": 125,
-      "ypos": 27,
+      "xpos": 6,
+      "ypos": 14,
       "type": "match",
       "width": 1018,
-      "xpos": 0
+      "height": 125
     },
     {
-      "ypos": 698,
+      "ypos": 649,
+      "xpos": 521,
       "height": 10,
       "width": 10,
-      "type": "match",
-      "xpos": 527
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "generic-desktop"
+    "generic-desktop",
+    "gnome-activities"
   ]
 }
