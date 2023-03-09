@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 152,
+      "ypos": 107,
+      "xpos": 145,
+      "type": "match",
+      "height": 41
+    },
+    {
+      "height": 31,
+      "type": "match",
+      "xpos": 512,
+      "width": 135,
+      "ypos": 234
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "inst-usersetup",
+    "installation",
+    "inst-returned-to-yast"
+  ]
+}
