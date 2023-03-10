@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 154,
+      "ypos": 335,
+      "type": "match",
+      "height": 18,
+      "xpos": 382
+    },
+    {
+      "type": "match",
+      "xpos": 377,
+      "height": 22,
+      "ypos": 426,
+      "width": 209
+    },
+    {
+      "xpos": 379,
+      "height": 27,
+      "type": "match",
+      "ypos": 492,
+      "width": 147
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "scc-registration"
+  ]
+}
