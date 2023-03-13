@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 285,
+      "ypos": 92,
+      "height": 40,
+      "type": "match",
+      "xpos": 12
+    },
+    {
+      "xpos": 975,
+      "type": "match",
+      "height": 19,
+      "width": 31,
+      "ypos": 729
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-overview"
+  ]
+}
