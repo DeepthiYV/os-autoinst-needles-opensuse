@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 274,
+      "height": 18,
+      "type": "match",
+      "ypos": 318,
+      "width": 48
+    },
+    {
+      "xpos": 493,
+      "type": "match",
+      "height": 23,
+      "ypos": 449,
+      "width": 38
+    },
+    {
+      "width": 118,
+      "ypos": 370,
+      "type": "match",
+      "height": 17,
+      "xpos": 273
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autoyast-error",
+    "nonexisting-package"
+  ]
+}
