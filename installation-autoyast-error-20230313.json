@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 32,
+      "ypos": 318,
+      "height": 16,
+      "type": "match",
+      "xpos": 356
+    },
+    {
+      "width": 198,
+      "ypos": 359,
+      "xpos": 355,
+      "type": "match",
+      "height": 22
+    },
+    {
+      "width": 30,
+      "ypos": 451,
+      "height": 17,
+      "type": "match",
+      "xpos": 498
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autoyast-error",
+    "autoyast-postinstall-error"
+  ]
+}
