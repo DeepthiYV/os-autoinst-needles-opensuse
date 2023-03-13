@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "ypos": 98,
+      "width": 261,
+      "xpos": 9,
+      "type": "match",
+      "height": 34
+    },
+    {
+      "height": 23,
+      "type": "match",
+      "xpos": 56,
+      "width": 114,
+      "ypos": 152
+    },
+    {
+      "width": 130,
+      "ypos": 155,
+      "xpos": 242,
+      "type": "match",
+      "height": 18
+    },
+    {
+      "xpos": 449,
+      "height": 15,
+      "type": "match",
+      "width": 119,
+      "ypos": 158
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-bootloader-settings"
+  ]
+}
