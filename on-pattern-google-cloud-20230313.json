@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 125,
+      "height": 16,
+      "type": "match",
+      "ypos": 473,
+      "width": 147
+    },
+    {
+      "type": "match",
+      "height": 10,
+      "xpos": 355,
+      "ypos": 220,
+      "width": 241
+    },
+    {
+      "type": "match",
+      "height": 20,
+      "xpos": 972,
+      "ypos": 730,
+      "width": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "on-pattern",
+    "pattern-googlecloud",
+    "pattern-googlecloud_all",
+    "pattern-pcm"
+  ]
+}
