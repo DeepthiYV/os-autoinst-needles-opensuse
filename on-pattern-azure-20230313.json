@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "type": "match",
+      "xpos": 125,
+      "ypos": 339,
+      "width": 114
+    },
+    {
+      "width": 207,
+      "ypos": 220,
+      "height": 10,
+      "type": "match",
+      "xpos": 354
+    },
+    {
+      "ypos": 731,
+      "width": 29,
+      "height": 19,
+      "type": "match",
+      "xpos": 971
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "on-pattern",
+    "pattern-azure",
+    "pattern-azure_all"
+  ]
+}
