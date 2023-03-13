@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 357,
+      "click_point": {
+        "ypos": 5,
+        "xpos": 147.5
+      },
+      "type": "match",
+      "height": 12,
+      "ypos": 478,
+      "width": 299
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "before-select-product-hpc"
+  ]
+}
