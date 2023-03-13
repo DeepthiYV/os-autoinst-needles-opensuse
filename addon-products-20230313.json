@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 351,
+      "type": "match",
+      "height": 23,
+      "ypos": 95,
+      "width": 220
+    },
+    {
+      "xpos": 26,
+      "height": 84,
+      "type": "match",
+      "ypos": 107,
+      "width": 281
+    },
+    {
+      "width": 33,
+      "ypos": 731,
+      "height": 18,
+      "type": "match",
+      "xpos": 965
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products"
+  ]
+}
