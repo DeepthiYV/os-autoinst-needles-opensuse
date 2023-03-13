@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 35,
+      "click_point": {
+        "xpos": 13,
+        "ypos": 19.5
+      },
+      "type": "match",
+      "xpos": 158,
+      "ypos": 84,
+      "width": 108
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP3ORLATER-1",
+    "packages-search-field-selected"
+  ]
+}
