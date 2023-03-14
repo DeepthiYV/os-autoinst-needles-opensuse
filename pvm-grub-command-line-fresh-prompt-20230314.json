@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "height": 15,
+      "width": 60,
+      "ypos": 130
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-grub-command-line-fresh-prompt"
+  ]
+}
