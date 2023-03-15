@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "ypos": 217,
+      "xpos": 109,
+      "type": "match",
+      "width": 105
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "yast2_lan_select_eth_card"
+  ]
+}
