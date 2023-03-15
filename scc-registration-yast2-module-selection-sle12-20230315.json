@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 19,
+      "height": 26,
+      "ypos": 73,
+      "type": "match",
+      "width": 301
+    },
+    {
+      "width": 296,
+      "xpos": 19,
+      "ypos": 34,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "module-selection",
+    "ENV-INSTLANG-en_US"
+  ]
+}
