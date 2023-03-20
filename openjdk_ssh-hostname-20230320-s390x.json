@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 189,
+      "type": "match",
+      "height": 55,
+      "xpos": 413,
+      "ypos": 346
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openjdk-hostname"
+  ]
+}
