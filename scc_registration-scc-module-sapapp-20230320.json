@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 392,
+      "width": 152,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-sapapp",
+    "scc-module-sapapp-selected"
+  ]
+}
