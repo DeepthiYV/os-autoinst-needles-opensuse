@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 406,
+      "ypos": 120,
+      "width": 93,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 358,
+      "ypos": 145,
+      "width": 214,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_rt15-sp5"
+  ]
+}
