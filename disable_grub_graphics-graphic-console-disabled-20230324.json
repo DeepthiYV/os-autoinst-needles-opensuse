@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 100,
+      "width": 249,
+      "xpos": 17,
+      "height": 32
+    },
+    {
+      "type": "match",
+      "ypos": 158,
+      "width": 111,
+      "height": 16,
+      "xpos": 254
+    },
+    {
+      "type": "match",
+      "height": 15,
+      "xpos": 23,
+      "width": 121,
+      "ypos": 369
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "graphic-console-disabled",
+    "installation-bootloader-kernel"
+  ]
+}
