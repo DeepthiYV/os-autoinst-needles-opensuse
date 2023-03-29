@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 194,
+      "ypos": 381,
+      "width": 508,
+      "height": 75,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-migration-leap_to_sle"
+  ]
+}
