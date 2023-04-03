@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 476,
+      "type": "match",
+      "xpos": 74,
+      "width": 209,
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-fips"
+  ]
+}
