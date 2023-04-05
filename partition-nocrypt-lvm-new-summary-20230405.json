@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 417,
+      "ypos": 220,
+      "type": "match",
+      "height": 10,
+      "width": 152,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-lvm-new-summary",
+    "storage-ng"
+  ]
+}
