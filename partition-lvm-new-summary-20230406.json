@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 416,
+      "ypos": 127,
+      "width": 151,
+      "height": 13,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-lvm-new-summary"
+  ]
+}
