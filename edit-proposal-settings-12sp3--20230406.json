@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 14,
+      "width": 110,
+      "xpos": 624,
+      "ypos": 534,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP3",
+    "edit-proposal-settings"
+  ]
+}
