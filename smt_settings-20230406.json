@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 2,
+      "type": "match",
+      "width": 821,
+      "height": 559,
+      "xpos": 4,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "smt_settings"
+  ]
+}
