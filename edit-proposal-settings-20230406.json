@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 624,
+      "type": "match",
+      "height": 16,
+      "width": 110,
+      "ypos": 533,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "edit-proposal-settings"
+  ]
+}
