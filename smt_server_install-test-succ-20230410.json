@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 287,
+      "type": "match",
+      "height": 198,
+      "xpos": 308,
+      "width": 413
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "smt-test-succ"
+  ]
+}
