@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 88,
+      "ypos": 337,
+      "width": 100,
+      "xpos": 330,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "displaymanager-sapadm",
+    "reboot-after-installation"
+  ]
+}
