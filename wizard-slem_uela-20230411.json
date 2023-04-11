@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "xpos": 87,
+      "type": "match",
+      "ypos": 189,
+      "width": 416
+    },
+    {
+      "type": "match",
+      "xpos": 5,
+      "ypos": 1,
+      "width": 219,
+      "height": 16
+    },
+    {
+      "width": 541,
+      "ypos": 62,
+      "type": "match",
+      "xpos": 14,
+      "height": 115
+    },
+    {
+      "height": 82,
+      "ypos": 189,
+      "width": 547,
+      "type": "match",
+      "xpos": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-license-eula"
+  ]
+}
