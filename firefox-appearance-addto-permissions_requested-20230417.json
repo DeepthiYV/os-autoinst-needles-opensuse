@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 18,
+      "ypos": 712,
+      "width": 42,
+      "xpos": 115
+    },
+    {
+      "type": "match",
+      "ypos": 217,
+      "height": 21,
+      "width": 34,
+      "xpos": 663,
+      "click_point": {
+        "xpos": 17,
+        "ypos": 10.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-appearance-addto-permissions_requested"
+  ]
+}
