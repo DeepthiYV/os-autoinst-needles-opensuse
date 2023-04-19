@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 197,
+      "ypos": 285,
+      "width": 288,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "memtest-Fail-Safe-Mode"
+  ]
+}
