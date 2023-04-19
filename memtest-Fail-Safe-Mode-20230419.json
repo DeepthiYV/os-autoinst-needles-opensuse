@@ -1,14 +1,19 @@
 {
   "area": [
     {
-      "xpos": 197,
       "ypos": 285,
-      "width": 288,
+      "type": "match",
+      "xpos": 197,
       "height": 19,
-      "type": "match"
+      "width": 288
     }
   ],
-  "properties": [],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1210633"
+    }
+  ],
   "tags": [
     "memtest-Fail-Safe-Mode"
   ]
