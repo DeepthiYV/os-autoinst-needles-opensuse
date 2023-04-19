@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 205,
+      "type": "match",
+      "height": 30,
+      "xpos": 369,
+      "ypos": 70
+    },
+    {
+      "xpos": 162,
+      "ypos": 379,
+      "width": 217,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sw_single_ui_installation_status"
+  ]
+}
