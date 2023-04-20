@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 529,
+      "type": "match",
+      "height": 30,
+      "width": 111,
+      "xpos": 369
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dependency-issue"
+  ]
+}
