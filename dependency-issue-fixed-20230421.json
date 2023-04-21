@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 34,
+      "height": 144,
+      "xpos": 275,
+      "width": 408
+    },
+    {
+      "xpos": 294,
+      "width": 684,
+      "type": "match",
+      "ypos": 473,
+      "height": 284
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dependency-issue-fixed"
+  ]
+}
