@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "type": "match",
+      "ypos": 39,
+      "width": 128,
+      "xpos": 454
+    },
+    {
+      "width": 129,
+      "xpos": 7,
+      "ypos": 197,
+      "height": 58,
+      "type": "match"
+    },
+    {
+      "xpos": 173,
+      "ypos": 85,
+      "width": 550,
+      "height": 67,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "partial refreshment"
+    }
+  ],
+  "tags": [
+    "evolution_wizard-sending"
+  ]
+}
