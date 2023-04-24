@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 188,
+      "type": "match",
+      "height": 45,
+      "xpos": 26,
+      "width": 110,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "input-area-oocalc"
+  ]
+}
