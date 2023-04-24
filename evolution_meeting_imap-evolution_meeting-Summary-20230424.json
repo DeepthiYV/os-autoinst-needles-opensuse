@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 371,
+      "width": 176,
+      "xpos": 89,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_meeting-Summary"
+  ]
+}
