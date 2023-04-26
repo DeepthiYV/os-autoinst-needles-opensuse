@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 410,
+      "ypos": 423,
+      "width": 93,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hard-disk-dev-pmem0-selected"
+  ]
+}
