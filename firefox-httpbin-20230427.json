@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 140,
+      "width": 492,
+      "height": 39,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-httpbin"
+  ]
+}
