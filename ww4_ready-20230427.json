@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 77,
+      "ypos": 145,
+      "width": 71,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 3,
+      "ypos": 16,
+      "width": 140,
+      "height": 93,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ww4-ready"
+  ]
+}
