@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 99,
+      "type": "match",
+      "width": 225,
+      "height": 29,
+      "xpos": 18
+    },
+    {
+      "type": "match",
+      "width": 92,
+      "ypos": 423,
+      "xpos": 410,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hard-disk-dev-nvme0n1-selected"
+  ]
+}
