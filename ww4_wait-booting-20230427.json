@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 1,
+      "width": 212,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 78,
+      "ypos": 434,
+      "width": 66,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ww4-booting"
+  ]
+}
