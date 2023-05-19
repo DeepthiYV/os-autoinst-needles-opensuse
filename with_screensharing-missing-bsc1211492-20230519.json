@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "width": 617,
+      "type": "match",
+      "ypos": 111,
+      "height": 230,
+      "xpos": 345
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1211492"
+    }
+  ],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "with_screensharing"
+  ]
+}
