@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 203,
+      "ypos": 175,
+      "width": 179,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-elemental",
+    "elemental-bootmenu-default"
+  ]
+}

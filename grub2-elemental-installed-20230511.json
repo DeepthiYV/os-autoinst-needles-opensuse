@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 54,
+      "type": "match",
+      "xpos": 211,
+      "width": 125,
+      "ypos": 174
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-elemental",
+    "bootloader",
+    "grub2"
+  ]
+}
