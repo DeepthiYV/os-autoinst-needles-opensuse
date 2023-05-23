@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "width": 409,
+      "xpos": 292,
+      "ypos": 340,
+      "type": "match",
+      "height": 71
+    },
+    {
+      "xpos": 15,
+      "width": 348,
+      "ypos": 48,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "type": "match",
+      "height": 39,
+      "xpos": 26,
+      "width": 202,
+      "ypos": 85
+    },
+    {
+      "type": "match",
+      "height": 18,
+      "width": 459,
+      "xpos": 30,
+      "ypos": 599,
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-sled-license-not-accepted"
+  ]
+}
