@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 312,
+      "xpos": 207,
+      "height": 132,
+      "width": 378,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libreoffice-test-fodp"
+  ]
+}
