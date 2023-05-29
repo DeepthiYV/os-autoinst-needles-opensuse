@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 212,
+      "ypos": 126,
+      "width": 113,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "allow-vendor-change"
+  ]
+}
