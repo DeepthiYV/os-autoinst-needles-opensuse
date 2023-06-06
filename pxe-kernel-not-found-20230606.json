@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 224,
+      "xpos": 1,
+      "height": 14,
+      "type": "match",
+      "ypos": 352
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pxe-kernel-not-found"
+  ]
+}
