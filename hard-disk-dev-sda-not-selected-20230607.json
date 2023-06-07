@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 289,
+      "xpos": 10,
+      "type": "match",
+      "height": 50,
+      "ypos": 85
+    },
+    {
+      "width": 69,
+      "xpos": 406,
+      "type": "match",
+      "ypos": 458,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hard-disk-dev-sda-not-selected"
+  ]
+}
