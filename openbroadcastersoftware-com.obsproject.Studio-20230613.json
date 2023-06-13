@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 881,
+      "ypos": 568,
+      "width": 96,
+      "height": 163,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "flatpak-obsproject"
+  ]
+}
