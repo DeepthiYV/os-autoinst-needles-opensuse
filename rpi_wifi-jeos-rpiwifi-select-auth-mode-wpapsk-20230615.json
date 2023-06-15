@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 399,
+      "height": 14,
+      "type": "match",
+      "ypos": 289,
+      "width": 210
+    },
+    {
+      "width": 59,
+      "height": 14,
+      "ypos": 320,
+      "type": "match",
+      "xpos": 462
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-rpiwifi-select-auth-mode-wpapsk"
+  ]
+}
