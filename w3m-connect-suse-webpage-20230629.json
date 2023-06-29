@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 171,
+      "xpos": 117,
+      "width": 131,
+      "height": 25
+    },
+    {
+      "xpos": 0,
+      "ypos": 19,
+      "width": 354,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "w3m-connect-suse-webpage"
+  ]
+}
