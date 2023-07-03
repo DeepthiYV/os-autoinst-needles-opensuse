@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 577,
+      "height": 31,
+      "ypos": 445,
+      "type": "match",
+      "width": 156
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "updates_installed-restart"
+  ]
+}
