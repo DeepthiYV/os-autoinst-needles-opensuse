@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 211,
+      "type": "match",
+      "width": 49,
+      "height": 36,
+      "ypos": 44,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-empty-bar"
+  ]
+}
