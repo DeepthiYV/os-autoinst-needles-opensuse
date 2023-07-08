@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "ypos": 90,
+      "height": 25,
+      "xpos": 409,
+      "width": 26,
+      "click_point": {
+        "xpos": 13,
+        "ypos": 12.5
+      },
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-pdf-zoom_out",
+    "firefox-pdf-zoom_out_button"
+  ]
+}
