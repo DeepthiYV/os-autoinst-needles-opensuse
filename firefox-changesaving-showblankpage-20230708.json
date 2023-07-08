@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 34,
+      "ypos": 164,
+      "width": 93,
+      "type": "match",
+      "xpos": 258,
+      "match": 85
+    },
+    {
+      "ypos": 12,
+      "height": 21,
+      "xpos": 299,
+      "type": "match",
+      "width": 78,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-changesaving-showblankpage"
+  ]
+}
