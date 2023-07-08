@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 75,
+      "type": "match",
+      "xpos": 64,
+      "ypos": 274,
+      "height": 23,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-edit-menu"
+  ]
+}
