@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "width": 150,
+      "ypos": 81,
+      "xpos": 241,
+      "match": 75
+    },
+    {
+      "xpos": 61,
+      "ypos": 581,
+      "type": "match",
+      "width": 41,
+      "height": 14,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-headers-website"
+  ]
+}
