@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 130,
+      "click_point": {
+        "xpos": 21.5,
+        "ypos": 9
+      },
+      "height": 20,
+      "type": "match",
+      "ypos": 124,
+      "width": 99,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-pdf-page"
+  ]
+}
