@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 169,
+      "height": 11,
+      "xpos": 51,
+      "ypos": 323,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "network-config-created"
+  ]
+}
