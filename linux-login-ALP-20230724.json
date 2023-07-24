@@ -3,22 +3,23 @@
     {
       "xpos": 4,
       "ypos": 302,
-      "width": 253,
       "height": 21,
+      "width": 253,
       "type": "match"
     },
     {
-      "xpos": 78,
+      "type": "match",
       "ypos": 429,
+      "xpos": 78,
       "width": 53,
-      "height": 18,
-      "type": "match"
+      "height": 18
     }
   ],
   "properties": [],
   "tags": [
     "ENV-DISTRI-alp",
     "bootloader-shim-import-prompt",
-    "grub2"
+    "grub2",
+    "linux-login-microos"
   ]
 }
