@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 301,
+      "width": 258,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 78,
+      "ypos": 431,
+      "width": 51,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-alp",
+    "linux-login-microos"
+  ]
+}
