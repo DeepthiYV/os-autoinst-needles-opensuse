@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 121,
+      "height": 26,
+      "click_point": {
+        "xpos": 57,
+        "ypos": 11.5
+      },
+      "ypos": 3,
+      "xpos": 890
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "window-max"
+  ]
+}
