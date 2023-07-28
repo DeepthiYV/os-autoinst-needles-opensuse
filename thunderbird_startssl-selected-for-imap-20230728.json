@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 191,
+      "height": 82,
+      "click_point": {
+        "xpos": 113,
+        "ypos": 18
+      },
+      "xpos": 236,
+      "width": 234,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_startssl-selected-for-imap"
+  ]
+}
