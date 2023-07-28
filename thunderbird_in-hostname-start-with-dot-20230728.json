@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 108,
+      "xpos": 234,
+      "click_point": {
+        "xpos": 10.5,
+        "ypos": 45.5
+      },
+      "ypos": 355,
+      "height": 63,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_in-hostname-start-with-dot"
+  ]
+}
