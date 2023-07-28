@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 126,
+      "height": 63,
+      "type": "match",
+      "width": 94,
+      "xpos": 239,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_wizard_imap_on_top"
+  ]
+}
