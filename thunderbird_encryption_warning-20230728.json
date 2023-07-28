@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 192,
+      "ypos": 673,
+      "width": 161,
+      "height": 19,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_encryption_warning"
+  ]
+}
