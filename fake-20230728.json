@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 254,
+      "ypos": 689,
+      "width": 164,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#123456"
+    }
+  ],
+  "tags": [
+    "thunderbird_SSL_done_config"
+  ]
+}
