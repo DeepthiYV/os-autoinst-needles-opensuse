@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 628,
+      "width": 58,
+      "type": "match",
+      "height": 31,
+      "ypos": 273,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_select-message"
+  ]
+}
