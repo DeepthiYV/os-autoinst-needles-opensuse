@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 109,
+      "type": "match",
+      "height": 19,
+      "width": 42,
+      "ypos": 200,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_select-inbox"
+  ]
+}
