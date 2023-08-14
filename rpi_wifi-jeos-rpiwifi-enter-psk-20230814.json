@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 396,
+      "width": 137,
+      "height": 17,
+      "ypos": 319,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-rpiwifi-enter-psk"
+  ]
+}
