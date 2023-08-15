@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 385,
+      "width": 138,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ipxe-shell"
+  ]
+}
