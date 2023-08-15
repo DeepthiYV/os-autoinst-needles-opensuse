@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 42,
+      "height": 18,
+      "width": 123,
+      "ypos": 191,
+      "type": "match"
+    },
+    {
+      "xpos": 168,
+      "ypos": 14,
+      "width": 292,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nue-ipxe-menu"
+  ]
+}
