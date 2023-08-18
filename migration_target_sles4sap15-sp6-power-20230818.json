@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "width": 308,
+      "type": "match",
+      "xpos": 357,
+      "ypos": 145
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_hscrollbar",
+    "migration_target_sles4sap15-sp6"
+  ]
+}
