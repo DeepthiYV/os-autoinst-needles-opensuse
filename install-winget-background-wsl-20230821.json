@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 240,
+      "width": 229,
+      "type": "match",
+      "ypos": 116,
+      "height": 19,
+      "match": 90
+    },
+    {
+      "width": 231,
+      "type": "match",
+      "ypos": 135,
+      "xpos": 0,
+      "height": 16,
+      "match": 90
+    },
+    {
+      "height": 30,
+      "click_point": {
+        "ypos": 15,
+        "xpos": 16.5
+      },
+      "type": "match",
+      "ypos": 729,
+      "width": 33,
+      "xpos": 673,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-winget-background-wsl"
+  ]
+}
