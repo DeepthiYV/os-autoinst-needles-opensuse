@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 588,
+      "ypos": 372,
+      "width": 149,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 278,
+      "ypos": 431,
+      "width": 71,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nvidia-validation-failed"
+  ]
+}
