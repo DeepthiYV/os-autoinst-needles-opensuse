@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 689,
+      "width": 270,
+      "height": 30,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "emergency-mode",
+    "slem"
+  ]
+}
