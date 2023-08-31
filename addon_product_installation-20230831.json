@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 50,
+      "ypos": 107,
+      "width": 254,
+      "height": 86,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon_product_installation"
+  ]
+}
