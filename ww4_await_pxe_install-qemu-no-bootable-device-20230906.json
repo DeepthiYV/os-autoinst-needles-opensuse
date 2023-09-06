@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "type": "exclude",
+      "ypos": 319,
+      "width": 206,
+      "xpos": 0
+    },
+    {
+      "xpos": 315,
+      "width": 287,
+      "ypos": 209,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qemu-no-bootable-device"
+  ]
+}
