@@ -1,22 +1,23 @@
 {
   "area": [
     {
-      "xpos": 28,
       "ypos": 64,
-      "width": 91,
+      "type": "match",
       "height": 16,
-      "type": "match"
+      "width": 91,
+      "xpos": 28
     },
     {
-      "xpos": 260,
       "ypos": 18,
+      "xpos": 260,
+      "type": "match",
       "width": 72,
-      "height": 12,
-      "type": "match"
+      "height": 12
     }
   ],
   "properties": [],
   "tags": [
+    "boot-live-gnome",
     "inst-bootmenu"
   ]
 }
