@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 67,
+      "ypos": 386,
+      "width": 121,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "load-initrd"
+  ]
+}
