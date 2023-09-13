@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 147,
+      "click_point": {
+        "xpos": 245.5,
+        "ypos": 326
+      },
+      "width": 491,
+      "ypos": 74,
+      "height": 652
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-pdf-11-preview"
+  ]
+}
