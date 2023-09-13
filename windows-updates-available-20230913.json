@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 380,
+      "ypos": 192,
+      "width": 95,
+      "height": 84,
+      "type": "match"
+    },
+    {
+      "xpos": 487,
+      "ypos": 282,
+      "width": 199,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-updates-available"
+  ]
+}
