@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 76,
+      "ypos": 354,
+      "width": 113,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "load-linux-kernel"
+  ]
+}
