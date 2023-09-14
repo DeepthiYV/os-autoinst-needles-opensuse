@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 354,
+      "width": 195,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "start-sle-install"
+  ]
+}
