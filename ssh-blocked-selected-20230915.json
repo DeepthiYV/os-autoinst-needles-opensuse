@@ -5,7 +5,8 @@
       "type": "match",
       "width": 227,
       "ypos": 647,
-      "xpos": 398
+      "xpos": 398,
+      "match": 100
     }
   ],
   "properties": [],
