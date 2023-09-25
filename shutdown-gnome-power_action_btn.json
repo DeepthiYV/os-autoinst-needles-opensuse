@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 919,
+      "ypos": 654,
+      "width": 55,
+      "height": 52,
+      "type": "match",
+      "click_point": {
+        "xpos": 27.5,
+        "ypos": 26
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-power_action_btn"
+  ]
+}
