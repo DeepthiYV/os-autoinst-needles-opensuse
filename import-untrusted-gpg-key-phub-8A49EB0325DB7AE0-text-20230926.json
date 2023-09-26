@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 560,
+      "type": "match",
+      "ypos": 241,
+      "width": 210,
+      "height": 12
+    },
+    {
+      "height": 27,
+      "width": 159,
+      "type": "match",
+      "xpos": 433,
+      "ypos": 370
+    },
+    {
+      "height": 11,
+      "width": 56,
+      "type": "match",
+      "xpos": 667,
+      "ypos": 514
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "import-trusted-gpg-key-phub-8A49EB0325DB7AE0"
+  ]
+}
