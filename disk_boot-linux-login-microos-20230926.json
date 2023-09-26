@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 304,
+      "height": 17,
+      "ypos": 127,
+      "type": "match",
+      "xpos": 1
+    },
+    {
+      "type": "match",
+      "ypos": 287,
+      "xpos": 63,
+      "height": 17,
+      "width": 51
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "linux-login-microos"
+  ]
+}
