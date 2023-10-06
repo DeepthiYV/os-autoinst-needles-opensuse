@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 884,
+      "ypos": 0,
+      "width": 140,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "window-minimize"
+  ]
+}
