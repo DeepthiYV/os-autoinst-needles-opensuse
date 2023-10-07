@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 146,
+      "xpos": 357,
+      "height": 11,
+      "width": 205,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "migration_target_sled15-sp6"
+  ]
+}
