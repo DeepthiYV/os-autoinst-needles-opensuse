@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "type": "match",
+      "width": 168,
+      "ypos": 709,
+      "xpos": 46
+    },
+    {
+      "ypos": 276,
+      "xpos": 286,
+      "width": 150,
+      "type": "match",
+      "height": 14
+    },
+    {
+      "xpos": 483,
+      "ypos": 456,
+      "width": 28,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-skip-registration-warning"
+  ]
+}
