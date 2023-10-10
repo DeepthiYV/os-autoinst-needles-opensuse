@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 129,
+      "height": 22,
+      "ypos": 0,
+      "xpos": 895
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 139,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "window-max",
+    "window-minimize"
+  ]
+}
