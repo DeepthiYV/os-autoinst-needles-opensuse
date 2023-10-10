@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 23,
+      "xpos": 7,
+      "type": "match",
+      "height": 15,
+      "width": 122
+    },
+    {
+      "type": "match",
+      "height": 12,
+      "width": 52,
+      "xpos": 13,
+      "ypos": 53
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-wsl-firstboot-welcome"
+  ]
+}
