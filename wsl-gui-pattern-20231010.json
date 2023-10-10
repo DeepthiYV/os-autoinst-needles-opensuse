@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 178,
+      "height": 14,
+      "xpos": 272,
+      "ypos": 304
+    },
+    {
+      "type": "match",
+      "height": 14,
+      "width": 225,
+      "ypos": 333,
+      "xpos": 274
+    },
+    {
+      "type": "match",
+      "width": 359,
+      "height": 16,
+      "xpos": 272,
+      "ypos": 430
+    },
+    {
+      "xpos": 7,
+      "ypos": 25,
+      "width": 126,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-gui-pattern"
+  ]
+}
