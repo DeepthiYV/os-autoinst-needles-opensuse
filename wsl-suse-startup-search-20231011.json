@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 472,
+      "ypos": 255,
+      "width": 173,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 106,
+      "ypos": 184,
+      "width": 146,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 404,
+      "ypos": 346,
+      "width": 62,
+      "height": 22,
+      "type": "match",
+      "click_point": {
+        "xpos": 31,
+        "ypos": 11
+      }
+    },
+    {
+      "xpos": 559,
+      "ypos": 173,
+      "width": 60,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-suse-startup-search"
+  ]
+}
