@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 299,
+      "type": "match",
+      "height": 16,
+      "width": 364,
+      "ypos": 310
+    },
+    {
+      "height": 14,
+      "type": "match",
+      "xpos": 239,
+      "ypos": 280,
+      "width": 182
+    },
+    {
+      "xpos": 237,
+      "type": "match",
+      "height": 13,
+      "width": 284,
+      "ypos": 250
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-registration"
+  ]
+}
