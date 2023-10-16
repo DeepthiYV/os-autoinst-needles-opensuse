@@ -3,16 +3,17 @@
     {
       "height": 17,
       "type": "match",
-      "width": 148,
       "xpos": 242,
-      "ypos": 57
+      "ypos": 57,
+      "width": 148,
+      "match": 75
     },
     {
-      "height": 14,
-      "type": "match",
-      "width": 41,
       "xpos": 61,
-      "ypos": 553
+      "width": 41,
+      "ypos": 553,
+      "height": 14,
+      "type": "match"
     }
   ],
   "properties": [],
