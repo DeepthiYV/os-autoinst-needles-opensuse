@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "type": "match",
+      "xpos": 241,
+      "ypos": 54,
+      "width": 170,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-urls_protocols-https"
+  ]
+}
