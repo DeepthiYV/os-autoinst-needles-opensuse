@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 279,
+      "xpos": 28,
+      "height": 148,
+      "ypos": 100
+    },
+    {
+      "height": 17,
+      "ypos": 405,
+      "type": "match",
+      "width": 102,
+      "xpos": 348
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-welcome"
+  ]
+}
