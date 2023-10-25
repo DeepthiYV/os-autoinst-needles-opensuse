@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "height": 34,
+      "ypos": 114,
+      "xpos": 107,
+      "width": 196,
+      "type": "match"
+    },
+    {
+      "ypos": 279,
+      "height": 25,
+      "xpos": 532,
+      "width": 297,
+      "type": "match"
+    },
+    {
+      "ypos": 380,
+      "height": 113,
+      "type": "match",
+      "width": 292,
+      "xpos": 558
+    },
+    {
+      "ypos": 226,
+      "height": 26,
+      "width": 142,
+      "xpos": 542,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-registration"
+  ]
+}
