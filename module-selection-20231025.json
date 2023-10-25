@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 77,
+      "ypos": 113,
+      "width": 265,
+      "xpos": 33,
+      "type": "match"
+    },
+    {
+      "height": 22,
+      "ypos": 96,
+      "type": "match",
+      "width": 226,
+      "xpos": 349
+    },
+    {
+      "type": "match",
+      "width": 41,
+      "xpos": 960,
+      "height": 23,
+      "ypos": 726
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "module-selection"
+  ]
+}
