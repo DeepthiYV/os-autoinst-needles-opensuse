@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 236,
+      "width": 325,
+      "height": 77,
+      "xpos": 265,
+      "type": "match"
+    },
+    {
+      "ypos": 487,
+      "height": 38,
+      "width": 60,
+      "xpos": 482,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 435,
+      "xpos": 384,
+      "width": 139,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "DIALOG-packages-notifications"
+  ]
+}
