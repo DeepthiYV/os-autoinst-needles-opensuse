@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "type": "match",
+      "width": 129,
+      "xpos": 289,
+      "ypos": 121,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_sent-message-received"
+  ]
+}
