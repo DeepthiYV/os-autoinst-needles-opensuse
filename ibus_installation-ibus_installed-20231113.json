@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 49,
+      "xpos": 147,
+      "height": 16,
+      "ypos": 339,
+      "type": "match"
+    },
+    {
+      "xpos": 472,
+      "height": 14,
+      "ypos": 366,
+      "width": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus_installed"
+  ]
+}
