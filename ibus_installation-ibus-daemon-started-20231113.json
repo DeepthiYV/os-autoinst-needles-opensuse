@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 185,
+      "height": 56,
+      "ypos": 180,
+      "width": 155,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "not all expected variables exported for ibus, see bsc#1206514"
+    }
+  ],
+  "tags": [
+    "ibus-daemon-started"
+  ]
+}
