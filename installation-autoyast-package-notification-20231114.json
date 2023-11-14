@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 277,
+      "ypos": 275,
+      "width": 256,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 495,
+      "ypos": 495,
+      "width": 33,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "package-notification"
+  ]
+}
