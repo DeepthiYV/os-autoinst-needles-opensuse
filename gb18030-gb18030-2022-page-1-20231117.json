@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 3,
+      "width": 844,
+      "height": 763,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1216805, noto font not up to date"
+    }
+  ],
+  "tags": [
+    "gb18030-gb18030-2022-page-1"
+  ]
+}
