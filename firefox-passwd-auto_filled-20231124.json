@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 437,
+      "height": 44,
+      "type": "match",
+      "width": 196,
+      "xpos": 281,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-passwd-auto_filled"
+  ]
+}
