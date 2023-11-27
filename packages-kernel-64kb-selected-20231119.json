@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 398,
+      "ypos": 82,
+      "width": 89,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 545,
+      "ypos": 82,
+      "width": 208,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "packages-kernel-64kb-selected"
+  ]
+}

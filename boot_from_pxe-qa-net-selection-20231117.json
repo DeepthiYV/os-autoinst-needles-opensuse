@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 11,
+      "xpos": 232,
+      "type": "match",
+      "width": 151,
+      "ypos": 18
+    },
+    {
+      "width": 45,
+      "ypos": 64,
+      "height": 13,
+      "type": "match",
+      "xpos": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "qa-net-selection",
+    "qa-net-selection-uefi"
+  ]
+}
