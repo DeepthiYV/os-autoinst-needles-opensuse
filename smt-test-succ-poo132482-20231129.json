@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 287,
+      "xpos": 308,
+      "type": "match",
+      "width": 413,
+      "height": 198
+    }
+  ],
+  "properties": [
+    {
+      "value": "poo132482",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "smt-test-succ"
+  ]
+}
