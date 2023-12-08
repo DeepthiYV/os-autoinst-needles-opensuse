@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 270,
+      "type": "match",
+      "width": 84,
+      "xpos": 121,
+      "height": 25
+    },
+    {
+      "height": 158,
+      "width": 186,
+      "type": "match",
+      "xpos": 420,
+      "ypos": 61
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP4",
+    "ENV-UEFI-1",
+    "grub2"
+  ]
+}
