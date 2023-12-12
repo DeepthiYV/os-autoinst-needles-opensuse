@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 1011,
+      "height": 725,
+      "xpos": 2,
+      "ypos": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-print-alignmenttest-display"
+  ]
+}
