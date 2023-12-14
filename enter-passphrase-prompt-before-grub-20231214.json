@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 113,
+      "ypos": 225,
+      "width": 180,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "encrypted-disk-password-prompt",
+    "grub2"
+  ]
+}
