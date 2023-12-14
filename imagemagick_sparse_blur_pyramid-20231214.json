@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 197,
+      "xpos": 307,
+      "width": 197,
+      "ypos": 322,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_sparse_blur_pyramid"
+  ]
+}
