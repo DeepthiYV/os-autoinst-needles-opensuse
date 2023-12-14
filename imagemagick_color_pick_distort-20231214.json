@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 308,
+      "width": 197,
+      "ypos": 322,
+      "height": 197
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_color_pick_distort"
+  ]
+}
