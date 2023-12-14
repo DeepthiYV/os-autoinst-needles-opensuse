@@ -1,14 +1,14 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 520,
-      "ypos": 328,
-      "width": 200,
-      "height": 200,
-      "type": "match"
+      "height": 198,
+      "type": "match",
+      "ypos": 321,
+      "width": 198,
+      "xpos": 307
     }
   ],
+  "properties": [],
   "tags": [
     "imagemagick_gradient_grassland"
   ]
