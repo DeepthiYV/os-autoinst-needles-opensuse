@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 358,
+      "width": 145,
+      "height": 147,
+      "ypos": 371,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_offset_pattern"
+  ]
+}
