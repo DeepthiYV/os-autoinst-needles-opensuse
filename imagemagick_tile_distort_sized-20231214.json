@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 322,
+      "height": 197,
+      "width": 197,
+      "xpos": 307,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "imagemagick_tile_distort_sized"
+  ]
+}
