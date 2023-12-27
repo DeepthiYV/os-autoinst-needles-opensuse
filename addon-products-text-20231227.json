@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "type": "match",
+      "height": 22,
+      "ypos": 30,
+      "width": 220,
+      "match": 75
+    },
+    {
+      "xpos": 24,
+      "type": "match",
+      "height": 12,
+      "ypos": 68,
+      "width": 57,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "addon-products"
+  ]
+}
