@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "ypos": 16,
+      "type": "match",
+      "width": 297,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qemu-reached-target-basic-system"
+  ]
+}
