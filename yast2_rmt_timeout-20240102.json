@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 282,
+      "ypos": 322,
+      "width": 424,
+      "height": 107,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1218084"
+    }
+  ],
+  "tags": [
+    "yast2_rmt_timeout"
+  ]
+}
