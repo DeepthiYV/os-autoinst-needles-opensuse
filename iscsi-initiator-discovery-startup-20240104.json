@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 48,
+      "ypos": 122,
+      "width": 228,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 107,
+      "ypos": 243,
+      "width": 55,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-discovery-startup"
+  ]
+}
