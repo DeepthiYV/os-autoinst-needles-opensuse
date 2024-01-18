@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 74,
+      "type": "match",
+      "height": 73,
+      "ypos": 324,
+      "xpos": 336
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "displaymanager-user-selected",
+    "gnome45"
+  ]
+}
