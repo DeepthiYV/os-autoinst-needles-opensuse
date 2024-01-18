@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 18,
+      "xpos": 988,
+      "ypos": 8,
+      "width": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "reboot-power-icon"
+  ]
+}
