@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 266,
+      "ypos": 443,
+      "width": 184,
+      "height": 85,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Common-Criteria-Encryption-Passphrase"
+  ]
+}
