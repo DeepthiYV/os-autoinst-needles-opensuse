@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 207,
+      "type": "match",
+      "ypos": 226,
+      "width": 204,
+      "height": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evince-zoom-in"
+  ]
+}
