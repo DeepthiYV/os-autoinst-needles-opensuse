@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "ypos": 35,
+      "xpos": 14,
+      "type": "match",
+      "width": 100,
+      "height": 13
+    },
+    {
+      "xpos": 120,
+      "type": "match",
+      "ypos": 35,
+      "width": 47,
+      "height": 13
+    },
+    {
+      "ypos": 718,
+      "xpos": 960,
+      "type": "match",
+      "width": 48,
+      "height": 20
+    },
+    {
+      "xpos": 346,
+      "ypos": 351,
+      "width": 212,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-disk-enc-enabled"
+  ]
+}
