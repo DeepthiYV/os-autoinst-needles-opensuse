@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 203,
+      "ypos": 536,
+      "type": "match",
+      "xpos": 307,
+      "width": 43
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evince-rotate-left"
+  ]
+}
