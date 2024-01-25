@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 433,
+      "width": 92,
+      "height": 28,
+      "xpos": 572
+    },
+    {
+      "xpos": 407,
+      "width": 98,
+      "height": 27,
+      "ypos": 330,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "gnome-session-quit"
+  ]
+}
