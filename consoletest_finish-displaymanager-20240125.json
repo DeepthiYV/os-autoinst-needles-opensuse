@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 294,
+      "width": 158,
+      "xpos": 311,
+      "height": 263,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "displaymanager-password-prompt"
+  ]
+}
