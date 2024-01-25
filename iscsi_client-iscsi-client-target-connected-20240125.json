@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 98,
+      "width": 106,
+      "height": 13,
+      "xpos": 111
+    },
+    {
+      "ypos": 97,
+      "type": "match",
+      "xpos": 552,
+      "width": 32,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-client-target-connected"
+  ]
+}
