@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 425,
+      "ypos": 197,
+      "width": 174,
+      "height": 171,
+      "type": "match"
+    },
+    {
+      "xpos": 328,
+      "ypos": 456,
+      "width": 85,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP4ORLATER",
+    "ENV-DESKTOP-gnome",
+    "reboot-after-installation"
+  ]
+}
