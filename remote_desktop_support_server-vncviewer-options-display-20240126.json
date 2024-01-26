@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 82,
+      "height": 25,
+      "xpos": 264,
+      "width": 48,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncviewer-options-screen"
+  ]
+}
