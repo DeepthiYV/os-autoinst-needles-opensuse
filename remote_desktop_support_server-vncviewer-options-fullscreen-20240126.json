@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 94,
+      "width": 115,
+      "type": "match",
+      "ypos": 172,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "vncviewer-options-fullscreen"
+  ]
+}
