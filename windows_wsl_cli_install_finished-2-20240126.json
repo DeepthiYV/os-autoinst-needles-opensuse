@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 272,
+      "height": 12,
+      "type": "match",
+      "width": 94,
+      "xpos": 326
+    },
+    {
+      "type": "match",
+      "xpos": 326,
+      "width": 218,
+      "ypos": 172,
+      "height": 14
+    },
+    {
+      "height": 40,
+      "ypos": 32,
+      "xpos": 159,
+      "width": 221,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-wsl-cli-install-finished"
+  ]
+}
