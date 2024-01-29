@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 368,
+      "xpos": 369,
+      "type": "match",
+      "height": 29,
+      "width": 156
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-input-japanese-kkc"
+  ]
+}
