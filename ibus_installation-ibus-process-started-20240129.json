@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 106,
+      "ypos": 272,
+      "type": "match",
+      "xpos": 185,
+      "height": 21
+    },
+    {
+      "ypos": 415,
+      "height": 21,
+      "type": "match",
+      "xpos": 192,
+      "width": 91
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-process-started"
+  ]
+}
