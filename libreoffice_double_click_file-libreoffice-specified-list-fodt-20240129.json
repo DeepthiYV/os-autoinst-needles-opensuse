@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 586,
+      "ypos": 344,
+      "width": 134,
+      "height": 114,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-specified-list-fodt"
+  ]
+}
