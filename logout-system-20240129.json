@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 315,
+      "type": "match",
+      "width": 117,
+      "height": 20,
+      "xpos": 655
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "logout-system"
+  ]
+}
