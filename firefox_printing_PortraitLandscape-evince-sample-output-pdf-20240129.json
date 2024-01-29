@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 1014,
+      "ypos": 34,
+      "height": 293,
+      "xpos": 3
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evince-sample-output-pdf"
+  ]
+}
