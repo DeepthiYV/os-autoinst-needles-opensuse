@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 179,
+      "ypos": 271,
+      "type": "match",
+      "xpos": 335,
+      "height": 211
+    },
+    {
+      "width": 316,
+      "xpos": 355,
+      "type": "match",
+      "height": 111,
+      "ypos": 623
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP4ORLATER",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "displaymanager",
+    "reboot-after-installation"
+  ]
+}
