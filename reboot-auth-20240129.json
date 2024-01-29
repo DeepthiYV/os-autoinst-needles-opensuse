@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 204,
+      "type": "match",
+      "width": 373,
+      "height": 231,
+      "xpos": 325
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "reboot-auth"
+  ]
+}
