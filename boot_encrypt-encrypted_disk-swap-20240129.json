@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 221,
+      "ypos": 64,
+      "width": 107,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "encrypted_disk-swap"
+  ]
+}
