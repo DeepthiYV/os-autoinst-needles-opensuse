@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 50,
+      "type": "match",
+      "ypos": 3,
+      "click_point": {
+        "xpos": 33,
+        "ypos": 13
+      },
+      "xpos": 963,
+      "height": 29
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "displaymanager-systembutton"
+  ]
+}
