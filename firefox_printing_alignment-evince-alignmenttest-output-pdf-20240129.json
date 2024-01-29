@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 997,
+      "ypos": 34,
+      "xpos": 7,
+      "height": 730
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evince-alignmenttest-output-pdf"
+  ]
+}
