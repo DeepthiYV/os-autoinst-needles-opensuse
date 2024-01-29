@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 55,
+      "type": "match",
+      "width": 53,
+      "height": 46,
+      "xpos": 901
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "lock-system"
+  ]
+}
