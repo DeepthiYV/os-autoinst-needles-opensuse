@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "ypos": 197,
+      "width": 290,
+      "type": "match",
+      "xpos": 89
+    },
+    {
+      "xpos": 90,
+      "ypos": 251,
+      "width": 127,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "tracker-info-newpl"
+  ]
+}
