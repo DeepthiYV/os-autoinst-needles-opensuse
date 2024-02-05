@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "type": "match",
+      "xpos": 0,
+      "width": 66,
+      "ypos": 608
+    },
+    {
+      "ypos": 48,
+      "width": 132,
+      "xpos": 0,
+      "type": "match",
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sap-ase-cockpit"
+  ]
+}
