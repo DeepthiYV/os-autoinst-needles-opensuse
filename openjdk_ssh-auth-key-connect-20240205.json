@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 330,
+      "height": 61,
+      "ypos": 337,
+      "width": 365,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "auth-key-connect"
+  ]
+}
