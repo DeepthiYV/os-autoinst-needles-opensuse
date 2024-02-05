@@ -17,7 +17,8 @@
   ],
   "properties": [
     {
-      "name": "workaround"
+      "name": "workaround",
+      "value": "add workaround due to https://bugzilla.suse.com/show_bug.cgi?id=1219553"
     }
   ],
   "tags": [
