@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 821,
+      "ypos": 173,
+      "type": "match",
+      "width": 153,
+      "height": 41
+    },
+    {
+      "xpos": 119,
+      "ypos": 326,
+      "width": 159,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "gedit is not installed by default and use libreoffice writer instead, see bsc#1219646"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gedit",
+    "gedit-launched"
+  ]
+}
