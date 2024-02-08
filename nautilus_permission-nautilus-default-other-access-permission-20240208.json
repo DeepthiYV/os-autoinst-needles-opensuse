@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 401,
+      "xpos": 295,
+      "width": 440,
+      "click_point": {
+        "xpos": 394,
+        "ypos": 74
+      },
+      "height": 99,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-default-other-access-permission"
+  ]
+}
