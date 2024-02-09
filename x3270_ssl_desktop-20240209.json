@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 46,
+      "width": 370,
+      "ypos": 39,
+      "xpos": 10,
+      "type": "match"
+    },
+    {
+      "height": 482,
+      "width": 183,
+      "xpos": 836,
+      "type": "match",
+      "ypos": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "x3270_ssl_desktop"
+  ]
+}
