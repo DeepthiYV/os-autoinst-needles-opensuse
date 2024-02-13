@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 62,
+      "width": 639,
+      "height": 228,
+      "type": "match"
+    },
+    {
+      "xpos": 197,
+      "ypos": 22,
+      "width": 222,
+      "height": 32,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle-micro",
+    "inst-oninstallation"
+  ]
+}
