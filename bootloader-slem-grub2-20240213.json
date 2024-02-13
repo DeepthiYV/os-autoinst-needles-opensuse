@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 229,
+      "ypos": 16,
+      "width": 85,
+      "height": 44,
+      "type": "match",
+      "match": 92
+    },
+    {
+      "xpos": 10,
+      "ypos": 62,
+      "width": 99,
+      "height": 80,
+      "type": "match",
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle-micro",
+    "grub2"
+  ]
+}
