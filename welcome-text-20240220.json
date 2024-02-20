@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 101,
+      "ypos": 308,
+      "height": 13,
+      "type": "match",
+      "width": 213
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-welcome",
+    "inst-welcome-no-product-list",
+    "license-agreement",
+    "installation",
+    "languagepicked"
+  ]
+}
