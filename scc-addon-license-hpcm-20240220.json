@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 44,
+      "ypos": 17,
+      "width": 313,
+      "type": "match",
+      "xpos": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-addon-license-hpcm"
+  ]
+}
