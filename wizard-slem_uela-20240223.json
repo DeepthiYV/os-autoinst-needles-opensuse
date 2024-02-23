@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "width": 219,
+      "ypos": 1,
+      "type": "match",
+      "xpos": 5,
+      "height": 16,
+      "match": 90
+    },
+    {
+      "height": 115,
+      "xpos": 174,
+      "type": "match",
+      "ypos": 78,
+      "width": 541,
+      "match": 95
+    },
+    {
+      "xpos": 194,
+      "height": 77,
+      "width": 547,
+      "ypos": 465,
+      "type": "match",
+      "match": 95
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-license-eula",
+    "sle-micro-6"
+  ]
+}
