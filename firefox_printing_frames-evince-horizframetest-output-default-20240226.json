@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 91,
+      "height": 598,
+      "width": 583,
+      "xpos": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evince-horizframetest-output-default"
+  ]
+}
