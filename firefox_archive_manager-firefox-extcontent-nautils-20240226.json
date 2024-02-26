@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 54,
+      "width": 358,
+      "height": 90,
+      "ypos": 86,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extcontent-nautils"
+  ]
+}
