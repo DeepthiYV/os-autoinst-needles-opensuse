@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 745,
+      "xpos": 0,
+      "height": 19,
+      "width": 170
+    }
+  ],
+  "properties": [
+    {
+      "value": "workaround for bsc#1157930",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-minimalx",
+    "ENV-INSTLANG-en_US",
+    "desktop-at-first-boot",
+    "generic-desktop",
+    "x11"
+  ]
+}
